@@ -1,0 +1,33 @@
+name: Split SSSS blocklist
+
+on:
+  schedule:
+    # runs daily at 04:17 UTC - offset to avoid the top of the hour
+    - cron: '17 4 * * *'
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  split:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run splitter
+        run: python3 split_ssss_blocklist.py --format domains --max-mb 4.5 --out ./blocklist_parts
+
+      - name: Commit updated parts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add blocklist_parts
+          git diff --quiet --cached || git commit -m "Update split blocklist ($(date -u +'%Y-%m-%d'))"
+          git push
