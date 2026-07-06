@@ -2,27 +2,6 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
-reineunasydamle.tk
-reinewsdwatun.gq
-reineygultuilos.ga
-reings.store
-reinholdmetall.ee
-reinholdrasenmaher.com
-reinholzexpress.com
-reinigungszubehor.com
-reiniskanngala.tk
-reinonxili.tk
-reinutraroxneu.gq
-reinvestigation.xyz
-reipacmaudo.tk
-reipaleali.tk
-reipaposnandnond.tk
-reipearkiddsi.tk
-reipenmapub.ga
-reiperprepilrytumb.ga
-reipersveeconnaro.tk
-reiphaidowntamas.tk
-reiphelogguika.ga
 reiphobalroma.cf
 reipingflycinatis.cf
 reiplatchitsipo.tk
