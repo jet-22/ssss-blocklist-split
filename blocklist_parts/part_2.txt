@@ -2,43 +2,6 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
-reisenthalbag.de.com
-reisenthale.de.com
-reisenthel.de.com
-reisentheleop.de.com
-reisenthelflow.de.com
-reisenthell.shop
-reisenthelsale.de.com
-reisenthelstore.de
-reisenthelthel.com
-reiseplanung-online.de
-reisetaschenonshop.com
-reisetaschensale.com
-reiseweltat6.wixsite.com
-reisfusarsigbitsna.ml
-reisholzgmbh.de
-reishungers.com
-reisidoubnili.gq
-reisijezzconcbufta.gq
-reisiolukomptergui.tk
-reisioregas.tk
-reisnicoutli.tk
-reiso.online
-reisodopatcont.tk
-reisolneterpcarp.cf
-reisomroni.ml
-reisonthelsen.de.com
-reisosearchkeeri.tk
-reisounchootesteme.gq
-reisourdieprot.tk
-reispacwealreperho.tk
-reisteeneterma.tk
-reistephnonlali.ga
-reistiladdechite.cf
-reisuprerephar.tk
-reisursopert.tk
-reisverzekeringen.xyz
-reisvilchondmecma.ml
 reiswatapulach.cf
 reitanenaco.tk
 reitantliralge.tk
@@ -19272,6 +19235,7 @@ services-total.fr
 services-totalenergies.fr
 services-transactions-lydia.fr
 services-transcash.fr
+services-universite-paris-saclay.fr
 services-verification.fr
 services-vitale.fr
 services-vitales.fr
@@ -31683,6 +31647,7 @@ stablediffusionweb.com
 stablediffusionweb.com
 stablegenius.ai
 stableprocapital.pro
+stabletrader-ai.net
 stablifuncbritimat.ga
 stabmachumspertfest.tk
 stabmototechtahul.tk
@@ -67254,6 +67219,7 @@ univ-tlon.fr
 univ-tls3.fr
 univ-tlse4.fr
 univ-toulouse3-inp.fr
+univ-tous.fr
 univ-troyes.fr
 univ-umlp.fr
 univ-uspc-paris.fr
@@ -68398,7 +68364,6 @@ updrag.best
 updydd.rest
 upeagtatfeidiche.ml
 upeail.tokyo
-upecho.pcmachine.shop
 upecunempili.tk
 upecurt.xyz
 upelosrgangaba.gq
@@ -88273,6 +88238,7 @@ werner-mode.de
 werner-ringle.com
 werners24.de
 wernerzapp.de
+wero-redirection.fr
 wero-service.fr
 weroar.xyz
 werosfebedhuoketp.ml
@@ -92479,6 +92445,7 @@ woodworkwizardry.com
 woof-wo0f.com
 woofgear.de
 wooflyx.com
+woofz.academy
 woofz.com
 woogitopeck.online
 woogpz.tokyo
