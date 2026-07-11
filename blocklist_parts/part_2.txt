@@ -2,15 +2,6 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
-regularisation-service.fr
-regularisation-sfr.fr
-regularisation-situation-sfr.fr
-regularisation-souscriptions.fr
-regularisation-stationnement.fr
-regularisation-vignette.fr
-regularisation.fr
-regularisationamende.fr
-regularisationamendes-serviceweb.fr
 regularisationamndgov.fr
 regularisationcompte.fr
 regularisationcontravention.fr
@@ -1806,7 +1797,6 @@ replicahause.is
 replicahustleparameters.com
 replicakaufen.de
 replicareview.io
-replicasrelojes.to
 replicaswatches.vip
 replicate.ai
 replicate.ai
@@ -1822,7 +1812,6 @@ replicawatchforsale.re
 replicawatchtr.com
 replifamolab.gq
 replika-uhr.to
-replikuhrenshop.de
 repliqueburberry.fr
 repliquecartier.fr
 repliquedior.fr
@@ -6233,6 +6222,7 @@ rizz-casinos.fr
 rizzapedia.com
 rizzatokuechen.de
 rizzcasino-fr.fr
+rizzcasino.fr
 rizzcasinofr.fr
 rizzcasinofrance.fr
 rizzcasinos.fr
@@ -6244,6 +6234,7 @@ rizzio-casino.fr
 rizzio1.fr
 rizziocasino.fr
 rizzlineshub.com
+rizzs.fr
 rizzspin-fr.fr
 rizzzcasino.fr
 rj-c.com
@@ -7757,6 +7748,7 @@ rollditinetto.gq
 rolldorado-en-ligne.fr
 rolldorado-enligne.fr
 rolldorado1.fr
+rolldorados.fr
 rollenspielgeschaft.com
 rollenzeit.de
 rollerdiversiondeer.com
@@ -10598,7 +10590,6 @@ rwcjwv.bar
 rwcmxz.rest
 rwcpuw.cyou
 rwcrgyt.cyou
-rwcstore.com
 rwdftx.bar
 rwdgudo.tokyo
 rwdh1.xyz
@@ -15027,7 +15018,6 @@ scanlitodo.tk
 scanmicricotota.ga
 scanmountadaburle.tk
 scannegbiospin.tk
-scannero.io
 scannetbutik.dk
 scanoctobolt.ml
 scanomjabvidi.ml
@@ -21419,11 +21409,11 @@ shiny-wildsfrance.fr
 shinybikes.com
 shinyflakes.de
 shinywilds-fr.fr
+shinywildsfr.fr
 shinywildsfrance.fr
 shiogia.xyz
 shioly.xyz
 shipad.xyz
-shipafreight.com
 shipblissful.com
 shipcolis.fr
 shipend.my.id
@@ -21587,7 +21577,6 @@ shop.shopcider.com
 shop.tegeler.com
 shop.travisscott.eu.com
 shop.vffvllo.shop
-shop.xotufh.top
 shop1maillot.fr
 shop2046.com
 shop4at.com
@@ -25639,8 +25628,6 @@ slovenijazlokalci.si
 slovenlier.com
 slovenska-lekaren.com
 slovenska.si
-slovenskolekaren.com
-slovenskolekaren.sk
 sloveos.com
 slovesorschemen.tk
 slovgetimotobo.cf
@@ -27882,7 +27869,6 @@ softdns.biz
 softdorebachant.ga
 softdosamphilders.ml
 softdrivgatasonli.tk
-softelektro.com
 softeneddefenceinflation.com
 softeninsinuate.com
 softenopera.com
@@ -30295,6 +30281,7 @@ spin-pandacasino.fr
 spin-rollz-casino.fr
 spin-rollzcasino.fr
 spin-spirit-casino.fr
+spin-stella.fr
 spin-texas.fr
 spin-tropolis.fr
 spin247-online.fr
@@ -30566,6 +30553,7 @@ spinsaltos.fr
 spinsaura.fr
 spinsbara.fr
 spinsbonus.fr
+spinsboss.fr
 spinscasinos.fr
 spinsdeluxe-casino.fr
 spinsingtokilu.cf
@@ -30586,6 +30574,10 @@ spinstar-fr.fr
 spinstarcasino.fr
 spinstars.fr
 spinstart.fr
+spinstela.fr
+spinstella-casino.fr
+spinstella.fr
+spinstellacasino.fr
 spinsy-1.fr
 spinsy-app.fr
 spinsy-bonus.fr
@@ -32241,6 +32233,7 @@ stake-bet.fr
 stake-betofficiel.fr
 stake-casino.paris
 stake-casino1.fr
+stake-casino2.fr
 stake-casinos.fr
 stake-nl.fr
 stake-officiel.fr
@@ -33169,6 +33162,7 @@ stawasacmamelkcobb.gq
 stax.bet
 staxino-casino-101.fr
 staxino-casino-888.fr
+staxino-france.fr
 staxinocasino.fr
 staxinofrance.fr
 staxinologin.fr
@@ -33645,7 +33639,6 @@ sternlyphotographingcabin.com
 sternoehalagensfon.tk
 sternoverrihusjo.ml
 sternstimme.de
-steroide-medikamente.com
 steroide360.com
 steroidspeicher.de
 steronadnaltalon.ml
@@ -37829,7 +37822,6 @@ suppwobaccho.tk
 suppwohjaholhill.gq
 suppwoodbtinggraminar.tk
 suppzarlyjea.tk
-supr.com
 suprabatt.de
 suprafootweardeutschland.com
 supragaming.net
@@ -43636,7 +43628,6 @@ tbcjk8.tokyo
 tbclacrosse.com
 tbcsoui.cn
 tbczxvn.bar
-tbdress.com
 tbebestknives.fr
 tbegicscamsor.tk
 tbeticinoraldwar.cf
@@ -50123,7 +50114,6 @@ thomania-pics.de
 thomann-music.za.com
 thomann-vip.za.com
 thomann.za.com
-thomannmusic.za.com
 thomannofficiall.com
 thomannonlinestore.com
 thomannsale.za.com
@@ -55962,7 +55952,6 @@ toolsforhumans.ai
 toolsforsuccess.website
 toolshafaschandkadib.tk
 toolshub360.com
-toolshype.com
 toolsmodern.com
 toolsmonster.com
 toolspedia.io
@@ -57791,7 +57780,6 @@ tradesverge.com
 tradeswim.com
 tradetodayonline.buzz
 tradetvacul.tk
-tradeviewforex.com
 tradewave.live
 tradewindowfx.com
 tradewish.xyz
@@ -59976,7 +59964,6 @@ trivellazioniitalia.it
 trivellicelli.cf
 trivfulforthquawimblect.tk
 trivgo.co.uk
-trivio-handel.de
 trivnetelewan.tk
 trivona.de
 trivpakerpprecun.cf
@@ -60203,7 +60190,6 @@ tronexusbigchand.gq
 tronfernipapo.ml
 tronforum.xyz
 trongecilhada.gq
-tronicaltune.net
 tronicimunca.tk
 tronicleakodesko.tk
 troninloha.cf
@@ -60569,8 +60555,6 @@ true-hot-news.buzz
 true-jizz-net.xyz
 true-luck-cas.fr
 true-movs-video.xyz
-true-ph.com
-true-pm.com
 true-porno-movie.buzz
 true-pussy-news.buzz
 true-sexy-tube.buzz
@@ -60586,7 +60570,6 @@ truecodes.net
 truecrypt.fr
 truecrypt.it
 truecrypt.pl
-truedrugz.com
 truedynamicindia.com
 truefitposture.com
 trueglow.de
@@ -67324,6 +67307,7 @@ unibesrelotda.ml
 unibet-fr.fr
 unibet-login.fr
 unibetcasino777.net
+unibetcasinofrance.fr
 unibetcasinomt.xyz
 unibetfr.fr
 unibetlogin.fr
@@ -73781,6 +73765,7 @@ vbegri.bar
 vbemx5.tokyo
 vbeqvz.tokyo
 vbet.xyz
+vbetcasinofrance.fr
 vbetnw.tokyo
 vbett.fr
 vbfecn.tokyo
@@ -74304,6 +74289,7 @@ vegas-hero-applogin.fr
 vegas-hero-bonuslogin.fr
 vegas-hero-connexion-app.fr
 vegas-hero-fr.fr
+vegas-hero-france.fr
 vegas-herocasino.fr
 vegas-heroconnexion-app.fr
 vegas-heroe.fr
@@ -81272,7 +81258,6 @@ vivaharmoni.com
 vivahost.host
 vivaia-schuhe.de
 vivaiaboutiques.fr
-vivaiacollection.com
 vivaiaparis.fr
 vivaiaschaussures.fr
 vivaiaschuhe.at
@@ -83429,7 +83414,6 @@ vtlpos.bar
 vtlqml.tokyo
 vtlyuj.bar
 vtmarketsfr.com
-vtmfr.com
 vtmqle.tokyo
 vtmvubp.tokyo
 vtmyce.bar
@@ -86332,7 +86316,6 @@ watchdealseu.shop
 watchdeasbnuanlamac.tk
 watchdm.com
 watchesoff5gc.vip
-watchesreplica.is
 watchesstore.co
 watchfaceshub.com
 watchfourthpifunk.gq
@@ -90237,6 +90220,7 @@ wildrobin-casinoofficiel.fr
 wildrobin-en-ligne.fr
 wildrobin-enligne.fr
 wildrobin-fr.fr
+wildrobin-france.fr
 wildrobin-official.fr
 wildrobin-officiel.fr
 wildrobincasino-fr.fr
@@ -90254,6 +90238,7 @@ wildsino-kasino.fr
 wildsino-official.fr
 wildsino-officiel.fr
 wildsinocasino1.fr
+wildsinofr.fr
 wildsinojouer.fr
 wildsinoo.fr
 wildsinos.fr
@@ -90868,6 +90853,7 @@ winamax-conditions-generales.fr
 winamax-france.fr
 winamax-parrainage.fr
 winamax-sport.fr
+winamaxcasinofrance.fr
 winamaxparis.fr
 winamaxr.fr
 winamaxx.fr
@@ -90880,6 +90866,7 @@ winandwine.com
 winapax.fr
 winatusup.tk
 winaura-casino.fr
+winaura-fr.fr
 winaura1.fr
 winauracasino.fr
 winbahgrocarpto.tk
@@ -91139,6 +91126,7 @@ winluxocasino.fr
 winlyonline.com
 winmaax.fr
 winmachance-casino.fr
+winmachance1.fr
 winmachancecasinos.fr
 winmachancefrance.fr
 winmachances.fr
@@ -91211,6 +91199,7 @@ winningz-france.fr
 winningz-officiel.fr
 winningz.fr
 winningzcasino.fr
+winningzs.fr
 winnipeglive.ca
 winnita-casino.fr
 winnita.fr
@@ -91220,6 +91209,7 @@ winnoise.net
 winnomonbutt.tk
 winns.fr
 winntendstatenton.ga
+wino-fr.fr
 winobin.com
 winocasino-fr.fr
 winocasino-france.fr
@@ -91232,6 +91222,7 @@ winorama-fr.fr
 winorama-official.fr
 winoramacasino1.fr
 winoramaonline.fr
+winoramas.fr
 winorio-casino.fr
 winorio1.fr
 winoriocasino.fr
@@ -91256,6 +91247,7 @@ winouibet.fr
 winouicasino-fr.fr
 winouicasino1.fr
 winouicasinofr.fr
+winouicasinofrance.fr
 winouifr.fr
 winouionline.fr
 winouiw.fr
@@ -91511,6 +91503,7 @@ wirzfq.tokyo
 wisawi.bar
 wisconsinestateandtaxblog.com
 wisconsinwaste.com
+wisdom-heimbedarf.com
 wisdomandprudence.net
 wisdomofwo.xyz
 wise-bank.fr
@@ -92472,7 +92465,6 @@ wohcset.tokyo
 wohjmb.cyou
 wohlfuehl-toys.de
 wohlheizen.de
-wohlina.de
 wohliversulu.ml
 wohlrab-handel.de
 wohlzarentersgasu.tk
@@ -92548,8 +92540,6 @@ wolfcurpacerncomtui.tk
 wolffabnamatechti.tk
 wolffashion.de
 wolffashiondeutschland.com
-wolffcomerce.de
-wolffcommerce.de
 wolffundgamanmapo.tk
 wolfgangcontainers.de
 wolfgangschmitz.info
@@ -92891,7 +92881,6 @@ woof-wo0f.com
 woofgear.de
 wooflyx.com
 woofz.academy
-woofz.com
 woogitopeck.online
 woogpz.tokyo
 wooinw.tokyo
@@ -93372,7 +93361,6 @@ worksdesignssuddenly.biz
 worksdreamwordcouple.rest
 worksexecutivehomes.rest
 workseyesfactmouth.club
-workshlutch.com
 workshopdiac.com
 workshopdrop.com
 workshopequipmentshop.com
@@ -94858,7 +94846,6 @@ wufcmik.bar
 wufe55x.cn
 wuff-wuff.eu
 wuffstore.de
-wuffy.nl
 wuffyhunde.de
 wufh54.cyou
 wufjuf.bar
@@ -94916,7 +94903,6 @@ wundapilates.es
 wunderladen.store
 wunderprima.com
 wunderrasen.com
-wundershark.de
 wunderwild.de
 wunderzeit-baby.de
 wuneqik.rest
@@ -96287,7 +96273,6 @@ x-pictures.io
 x-pictures.io
 x-video-porn.com
 x-videos-porn.com
-x-wallart.com
 x-watches.co
 x.ai
 x00f4l6.shop
@@ -97152,7 +97137,6 @@ xbgufx.shop
 xbguom.shop
 xbgz.xyz
 xbh3l1.tokyo
-xbhdtr.com
 xbhgyr.rest
 xbhoock.tokyo
 xbhz4w.cyou
@@ -103161,7 +103145,6 @@ yaarokayaar.com
 yabby-casino.fr
 yabbycasino.fr
 yabbycasino1.fr
-yabchtead.com
 yabcph.tokyo
 yaberauto.com
 yabohl.tokyo
@@ -104005,7 +103988,6 @@ yeezy.uk.com
 yeezy350.uk.com
 yeezy350s.us.com
 yeezyadidass.us.com
-yeezys.co
 yeezys.co.at
 yeezys.uk.com
 yeezyslides.fr
@@ -108681,7 +108663,6 @@ yuacdn.bar
 yuak2d.tokyo
 yualfq.bar
 yualfq.rest
-yuan-paygroup.com
 yuandait.com
 yuanlida.com
 yuanmacha.com
@@ -111436,7 +111417,6 @@ zahnarzt-wegscheider.at
 zahnboccatori.gq
 zahnleabipe.tk
 zahnpflegerabatt.de
-zahnputz.com
 zahntechnik-hansen.de
 zahope.com
 zahorie.eu
@@ -111726,7 +111706,6 @@ zauxisesourli.tk
 zavabgutina.ga
 zavadewabloby.tk
 zavando.de
-zavanova.com
 zavant.ai
 zavant.ai
 zaveae.tokyo
@@ -112243,7 +112222,6 @@ zefzcu.tokyo
 zeg90c.cyou
 zeg9eh.cyou
 zegjf2.cyou
-zeglo-finanz.com
 zeglowanie.eu
 zegnakaufen.de
 zegoodcoffee.com
@@ -112668,7 +112646,6 @@ zffm38.cyou
 zffwz.xyz
 zfgbal.tokyo
 zfgg9wl.tokyo
-zfggmbh.de
 zfgquv.rest
 zfgte6.shop
 zfhfyp.tokyo
@@ -113500,7 +113477,6 @@ ziwusved.xyz
 zixfdw.tokyo
 zixibb.rest
 zixonynipome.tk
-ziyaratelaviv.com
 ziyouzhanshi.cn
 ziytsn.tokyo
 ziyuzhilian.cn
@@ -115720,7 +115696,6 @@ zwdpza.rest
 zwdvpj.bar
 zwdvyqd.work
 zwe5e5.cyou
-zweirad-dach.de
 zweiradbackhaus.de
 zweisteintrading.eu
 zwejjso.tokyo
