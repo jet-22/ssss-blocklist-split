@@ -2,6 +2,58 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
+regularisation-abonnement-netflix.fr
+regularisation-abonnement.fr
+regularisation-amande.fr
+regularisation-ameli.fr
+regularisation-amende-antai.fr
+regularisation-amende.fr
+regularisation-amendes.fr
+regularisation-antai.fr
+regularisation-antail.fr
+regularisation-banquefrance.fr
+regularisation-carte.fr
+regularisation-cartes.fr
+regularisation-chronopost.fr
+regularisation-colis.fr
+regularisation-contravention-antai.fr
+regularisation-contravention.fr
+regularisation-contraventions-antai.fr
+regularisation-contraventions.fr
+regularisation-declaration.fr
+regularisation-documents.fr
+regularisation-dossier.fr
+regularisation-dossiers.fr
+regularisation-dsp2.fr
+regularisation-eco-prime.fr
+regularisation-ecoprime.fr
+regularisation-ecoprimes.fr
+regularisation-en-ligne.fr
+regularisation-enligne.fr
+regularisation-espace.fr
+regularisation-fps.fr
+regularisation-free.fr
+regularisation-gouv-amendes.fr
+regularisation-info.fr
+regularisation-infos-sante.fr
+regularisation-infraction.fr
+regularisation-moncompte.fr
+regularisation-netflix.fr
+regularisation-paiement-netflix.fr
+regularisation-paiement.fr
+regularisation-paypal.fr
+regularisation-peage.fr
+regularisation-primes.fr
+regularisation-sante.fr
+regularisation-service.fr
+regularisation-sfr.fr
+regularisation-situation-sfr.fr
+regularisation-souscriptions.fr
+regularisation-stationnement.fr
+regularisation-vignette.fr
+regularisation.fr
+regularisationamende.fr
+regularisationamendes-serviceweb.fr
 regularisationamndgov.fr
 regularisationcompte.fr
 regularisationcontravention.fr
@@ -171,6 +223,7 @@ reifencheck.net
 reifendienst-notdienst.jimdosite.com
 reifenpmiviva.cf
 reifenritter.com
+reifenservice-frankreich.fr
 reifensverkauf.com
 reifibgoodsdito.gq
 reifiltrahyd.gq
@@ -6161,6 +6214,7 @@ rivirotomacha.cf
 rivirroulodermill.tk
 rivistaonlinedavanguardia.com
 rivisulmaverg.gq
+rivocasino.fr
 rivonalto.cf
 rivonza.de
 rivorna.de
@@ -9180,6 +9234,7 @@ rqfpvj.bar
 rqfwlmm.tokyo
 rqg1g32.cyou
 rqhsed.bar
+rqhtyztv.shop
 rqhu9w.cyou
 rqi9xn.xyz
 rqikqhu.tokyo
@@ -21494,6 +21549,7 @@ shoebooties.com
 shoecheaper.com
 shoecrummy.com
 shoefrancosarto.com
+shoeifrance.fr
 shoeku.com
 shoelan.com
 shoemakerlifetime.com
@@ -22871,6 +22927,7 @@ simirecbynolde.ml
 simischacookla.cf
 simismisuadekooks.tk
 simit.xyz
+simkl.com
 simlarehygor.ml
 simmonsumt9.web.app
 simmysallyhaulageandlogistics.com.ng
@@ -27869,6 +27926,7 @@ softdns.biz
 softdorebachant.ga
 softdosamphilders.ml
 softdrivgatasonli.tk
+softelektro.com
 softeneddefenceinflation.com
 softeninsinuate.com
 softenopera.com
@@ -29241,7 +29299,6 @@ sovovopelcheli.gq
 sovypl.bar
 sow6t2.cyou
 sowaoptive.asia
-sowaswillichauch.de
 sowbrl.bar
 sowepirare.gq
 sowibarje.ga
@@ -56214,6 +56271,7 @@ topicwriter.com
 topideaberlin.com
 topikara.cf
 topikcn.net
+topikgo.com
 topikwear.com
 topiky.com
 topillstore.com
@@ -59496,6 +59554,7 @@ tribtheyrdigpuska.ga
 tribtogcirade.tk
 tribtorvepus.gq
 tribunal-judiciaire-de-paris.fr
+tribunal-paris-allrp.fr
 tribunaldeparis.fr
 tribunaljudiciairedegrasse.fr
 tribune.co.com
@@ -60808,6 +60867,7 @@ trybandoo.com
 trybod.my.id
 trycasmaloori.cf
 trycatchdebug.net
+trycomp.ai
 tryct.tokyo
 trydrc.tokyo
 tryellie.com
@@ -74980,6 +75040,7 @@ verbouynirentson.ml
 verbparevimerde.gq
 verbpathtikaci.gq
 verbpressotanhewhi.tk
+verbraucherfokus-test.de
 verbsaresgestcon.ga
 verbschooleximican.ga
 verbsiteetechrimou.ml
@@ -75494,6 +75555,7 @@ versacefrance.fr
 versadotcyro.cf
 versamefvecol.gq
 versand-fuxx-ug.myshopify.com
+versand-kaufhaus.de
 versandcesimo.ml
 versandhaus-herrmann.de
 versandoase.de
@@ -81258,6 +81320,7 @@ vivaharmoni.com
 vivahost.host
 vivaia-schuhe.de
 vivaiaboutiques.fr
+vivaiacollection.com
 vivaiaparis.fr
 vivaiaschaussures.fr
 vivaiaschuhe.at
@@ -85075,6 +85138,7 @@ wadyrn.tokyo
 waeblacinic.cf
 waebloodsurlacktumo.tk
 waefish.my.id
+waerme-pumpen24.de
 waermepumpe-iwp.de
 waermepumpe-solar.de
 waermewald.de
@@ -88693,6 +88757,7 @@ wertglanzedelmetall.de
 werthi.xyz
 wertisesihuz.ml
 wertivermaho.gq
+wertlebenshop.com
 wertovia.com
 wertponneocrouchal.tk
 wertpuls.de
@@ -90878,11 +90943,14 @@ winbeast-casino.fr
 winbeast-fr.fr
 winbeat.fr
 winbeatz-casino.fr
+winbeatz-france.fr
 winbeatz-officielle.fr
 winbeatz.fr
 winbeatz7.fr
 winbeatz777.fr
 winbeatzcasino.fr
+winbeatzs-fr.fr
+winbeatzs-france.fr
 winberry.best
 winbersrakleumamu.tk
 winbest-prizesbox.life
@@ -103251,7 +103319,6 @@ yankens.xyz
 yankqp.tokyo
 yankudriavtsev.xyz
 yanmwfas.cyou
-yannelli.net
 yanov.xyz
 yanpcbd.tokyo
 yanrjx.cyou
@@ -112259,7 +112326,6 @@ zeidimanpu.web.app
 zeidler.info
 zeigaileribire.cf
 zeigalderscomsemo.tk
-zeigdeinbein.de
 zeigebericht.de
 zeigstil.com
 zeihagirombesch.ml
