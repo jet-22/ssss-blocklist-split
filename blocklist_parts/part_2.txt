@@ -2,20 +2,6 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
-regulamendes.fr
-regulardisableharmony.com
-regularisation-abo.fr
-regularisation-abonnement-mensuel.fr
-regularisation-abonnement-netflix.fr
-regularisation-abonnement.fr
-regularisation-amande.fr
-regularisation-ameli.fr
-regularisation-amende-antai.fr
-regularisation-amende.fr
-regularisation-amendes.fr
-regularisation-antai.fr
-regularisation-antail.fr
-regularisation-banquefrance.fr
 regularisation-carte.fr
 regularisation-cartes.fr
 regularisation-chronopost.fr
@@ -1949,7 +1935,6 @@ repressionsrnexx.buzz
 repribisandpsychpap.tk
 reprinade.tk
 reproachoctavian.com
-reproccial.com
 reproduced.xyz
 reproduction-enligne.fr
 reprogram-colis.fr
@@ -18755,6 +18740,7 @@ sepireggendve.gq
 sepivenvipass.ga
 sepiyt.tokyo
 sepjacourca.tk
+sepkicks.com
 seplingvercachandthest.tk
 seplisfawntor.info
 sepoceworhtira.ga
@@ -27930,6 +27916,7 @@ softdns.biz
 softdorebachant.ga
 softdosamphilders.ml
 softdrivgatasonli.tk
+softelektro.com
 softeneddefenceinflation.com
 softeninsinuate.com
 softenopera.com
@@ -35903,7 +35890,6 @@ subscribe-free.fr
 subscription-disney.fr
 subscription-netflix.fr
 subscriptioneccentric.com
-subscrsidewa.com
 subscuxualubpo.gq
 subscycworlchacamen.ga
 subsdeadpeconre.gq
@@ -38975,6 +38961,7 @@ swiss-funding.com
 swiss4win-casino.fr
 swissalpha.io
 swissbitcoins.com
+swisscapitalhub.com
 swisscoinco.com
 swisse-pro.fr
 swissedgponbipyt.gq
@@ -43549,7 +43536,6 @@ taworlrecno.ga
 tawundvilidsjun.ga
 tawvvi.bar
 tax--lawyer.com
-tax.crypto.com
 taxbipabeme.tk
 taxbit-download.github.io
 taxbluresphonews.tk
@@ -60622,6 +60608,7 @@ true-hot-news.buzz
 true-jizz-net.xyz
 true-luck-cas.fr
 true-movs-video.xyz
+true-ph.com
 true-porno-movie.buzz
 true-pussy-news.buzz
 true-sexy-tube.buzz
@@ -87894,6 +87881,7 @@ webtrader.aptos-ai.net
 webtrader.arvelon-barnyx.com
 webtrader.capexgo.net
 webtrader.finaurex.org
+webtrader.swisscapitalplatform.com
 webtransportes.com.br
 webtronite.net
 webtsighnetebu.cf
@@ -92956,7 +92944,6 @@ woodworkwizardry.com
 woof-wo0f.com
 woofgear.de
 wooflyx.com
-woofz.academy
 woogitopeck.online
 woogpz.tokyo
 wooinw.tokyo
@@ -99688,6 +99675,7 @@ xn--prlvement-netflix-usbr.fr
 xn--procduresinpi-ehb.fr
 xn--prpacode-c1a.fr
 xn--prpacode-enpc-chb.fr
+xn--prtdargentfrance-tqb.fr
 xn--prvifrance-c7a.fr
 xn--publicsnat-h7a.fr
 xn--ractivation-certicodeplus-bic.fr
