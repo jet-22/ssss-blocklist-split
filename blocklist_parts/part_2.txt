@@ -2,6 +2,15 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
+regularisation-abonnement.fr
+regularisation-amande.fr
+regularisation-ameli.fr
+regularisation-amende-antai.fr
+regularisation-amende.fr
+regularisation-amendes.fr
+regularisation-antai.fr
+regularisation-antail.fr
+regularisation-banquefrance.fr
 regularisation-carte.fr
 regularisation-cartes.fr
 regularisation-chronopost.fr
@@ -1935,9 +1944,11 @@ repressionsrnexx.buzz
 repribisandpsychpap.tk
 reprinade.tk
 reproachoctavian.com
+reproccial.com
 reproduced.xyz
 reproduction-enligne.fr
 reprogram-colis.fr
+reprogramation-parcel.fr
 reprogrammation-colis.fr
 reprogrammation-colissimo.fr
 reprogrammation-livraison.fr
@@ -3190,6 +3201,7 @@ reww0ws.tokyo
 rewxajqo.tokyo
 rex7m1.cyou
 rexamedia.com
+rexbet-casino.fr
 rexelgroup-france.fr
 rexfnecvirest.tk
 rexfpunklunbe.gq
@@ -19413,6 +19425,7 @@ service-sante.fr
 service-sav-chronopost.fr
 service-secure.fr
 service-securite.fr
+service-securitedsp2.fr
 service-sfr-esim.fr
 service-sg-mail.fr
 service-sg.fr
@@ -25443,6 +25456,7 @@ slindispcirowa.ml
 slinencathesa.tk
 slinevervasdoll.cf
 slingacademy.com
+slingo-casino.fr
 slinibdiworlmulkaa.tk
 sliniccloncalquiram.ml
 slinjt.tokyo
@@ -29289,6 +29303,7 @@ sovovopelcheli.gq
 sovypl.bar
 sow6t2.cyou
 sowaoptive.asia
+sowaswillichauch.de
 sowbrl.bar
 sowepirare.gq
 sowibarje.ga
@@ -32919,6 +32934,7 @@ starwodoterpaican.ml
 starynmainatiso.tk
 starythnalapdafatt.tk
 starytmenursisand.cf
+starzbet.fr
 starzino-casino.fr
 starzino1.fr
 starzinocasino.fr
@@ -35611,6 +35627,7 @@ stylelaurel.com
 stylemonthstudent.biz
 styleneqer.gq
 styleofficecase.biz
+styleoli.com
 stylerabriwon.gq
 stylerbuslookm.tk
 stylerkafcont.ml
@@ -35890,6 +35907,7 @@ subscribe-free.fr
 subscription-disney.fr
 subscription-netflix.fr
 subscriptioneccentric.com
+subscrsidewa.com
 subscuxualubpo.gq
 subscycworlchacamen.ga
 subsdeadpeconre.gq
@@ -43536,6 +43554,7 @@ taworlrecno.ga
 tawundvilidsjun.ga
 tawvvi.bar
 tax--lawyer.com
+tax.crypto.com
 taxbipabeme.tk
 taxbit-download.github.io
 taxbluresphonews.tk
@@ -53758,6 +53777,7 @@ tipurcusumppred.cf
 tipurpcorlittre.tk
 tipurtaralge.gq
 tipvortex.net
+tipwin-online.fr
 tipwit.xyz
 tipwithsvirmocydo.tk
 tipytibackfritid.tk
@@ -55912,6 +55932,7 @@ tonoyo.xyz
 tonpaiwithwurzriral.cf
 tonpetitlook.com
 tonpgarddsetunam.tk
+tonplay-casino.fr
 tonppudirenysfa.cf
 tonpquanjaweanero.ml
 tonpsimefiha.tk
@@ -59551,6 +59572,7 @@ tribunal-judiciaire-de-paris.fr
 tribunal-paris-allrp.fr
 tribunaldeparis.fr
 tribunaljudiciairedegrasse.fr
+tribunaljudiciairetoulon.fr
 tribune.co.com
 tribunnews.org
 tribunuoro.it
@@ -74874,6 +74896,7 @@ ventgenixapters.ml
 venthampfor.tk
 ventheysurmivid.ga
 venticlub.de
+ventilateur-shop.fr
 ventilatoroase.myshopify.com
 ventiorockgreenba.ml
 ventisisovo.ml
