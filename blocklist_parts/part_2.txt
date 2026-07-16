@@ -2,6 +2,94 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
+reglement-pv.fr
+reglement-pve.fr
+reglement-sationnement-enligne.fr
+reglement-sfr.fr
+reglement-stationnement-enligne.fr
+reglement-stationnement.fr
+reglement-telepaiement.fr
+reglement-traitement.fr
+reglementamende-antai.fr
+reglementamende.fr
+reglementation-amende.fr
+reglementation-amendegouv.fr
+reglementation-critair.fr
+reglementation-routiere.fr
+reglementation-vitale.fr
+reglementationcontrventiongouv.fr
+reglementcontragouv.fr
+reglementcontravention.fr
+reglementdirect.fr
+reglementinfraction.fr
+reglementinfractions.fr
+reglementmonamende.fr
+reglementpaiement.fr
+reglementpay.fr
+reglements-amendes.fr
+reglements-antai.fr
+reglements-contravention.fr
+reglements-frais.fr
+reglements-infos.fr
+reglements-routiers.fr
+reglementscontravention.fr
+reglementstripe.fr
+regler-amende.fr
+regler-amendes.fr
+regler-contravention-antai.fr
+regler-contravention.fr
+regler-ma-contravention-antai.fr
+regler-ma-contravention.fr
+regler-mes-amandes.fr
+regler-mes-amendes.fr
+regler-mes-contraventions.fr
+regler-mon-amende.fr
+regler-mon-amendes.fr
+regler-mon-infraction.fr
+regler-une-amende.fr
+regler-vos-creances.fr
+reglermonamende.fr
+reglez-vos-amendes.fr
+regmageschzuper.ga
+regnafundverworl.tk
+regnbuekoret.dk
+regningbergduapi.ga
+regnotigecawi.ml
+regobucuna.tk
+regoff.xyz
+regolacenre.tk
+regoldmurfomasto.gq
+regoratecident.ml
+regpoint.eu
+regq4r.cyou
+regresurkoteambung.tk
+regrettabletoken.com
+regringdermogh.tk
+regromapengo.ga
+regrunreanimator.com
+regsaddharsama.ga
+regsielinvorcspir.ml
+regthumblenfirust.cf
+regu-amen-fr.fr
+reguardroughraci.ga
+regul-amende.fr
+regul-amendes.fr
+regul-amendesinfo.fr
+regul-antai.fr
+regul-cpam-ref16064146193755858059073.fr
+regul-cpam-ref18858100872029075610451.fr
+regul-cpam-ref21491874938402674222758.fr
+regul-cpam-ref35719701618534628529172.fr
+regul-cpam-ref48094271830379760822130.fr
+regul-cpam-ref71807139961887293903398.fr
+regul-edf-secure.fr
+regul-netflix.fr
+regulamendeinfo.fr
+regulamendes.fr
+regulardisableharmony.com
+regularisation-abo.fr
+regularisation-abonnement-mensuel.fr
+regularisation-abonnement-netflix.fr
 regularisation-abonnement.fr
 regularisation-amande.fr
 regularisation-ameli.fr
@@ -6131,7 +6219,6 @@ rituals-nl.shop
 rituals-outlet.shop
 rituals-prize.com
 ritualsecretododesligue.shop
-ritualsgleam.com
 ritualshopper.com
 ritualsnectar.shop
 ritualsofself.shop
@@ -8164,7 +8251,6 @@ roomgivespeaksday.biz
 roomgopoliticals.biz
 roomhomesfactmanage.buzz
 roominsidememory.biz
-roomivora.com
 roomkillfewbests.bar
 roomlegpeoplesjob.biz
 roomlightsjobnow.biz
@@ -9454,7 +9540,6 @@ rrzlf.cyou
 rrzuo3k.cyou
 rrzzkm.bar
 rs-gaming.de
-rs-remorque.com
 rs09udc.shop
 rs0b230.tokyo
 rs0zi.bar
@@ -9889,7 +9974,6 @@ ruchichavanec.tk
 ruchilnimattgun.tk
 rucipinagi.tk
 rucircbeencdeaddown.tk
-ruckgabe.heidi-mode.de
 ruckgadoukohor.tk
 rucklighgeforsemb.gq
 rucknithelirocro.tk
@@ -13324,6 +13408,7 @@ samsonites.fr
 samsoung.fr
 samsunf.fr
 samsung-smartphones.fr
+samsung.pm
 samsung.re
 samsung.tf
 samsung.wf
@@ -14571,7 +14656,6 @@ savelekaseabul.gq
 savemarthub.com
 savemeducdoctho.ga
 savemothersfact.buzz
-saveoffer.de
 saveon-line.com
 saverlorabe.ga
 savernicopa.tk
@@ -15399,6 +15483,7 @@ scharfeprofession.com
 scharinabol.tk
 scharinhearhuhisgi.cf
 scharnercaetracar.ml
+scharrer-handel.com
 schartawitchaha.tk
 scharungungebamo.cf
 schatabilprimes.ga
@@ -15768,7 +15853,6 @@ schulsublocodecal.cf
 schulte-boutique.de
 schultemode.de
 schulungen-am-see.de
-schulze1.myshopify.com
 schulzholz.com
 schumafencen.tk
 schumann-markt.com
@@ -21376,7 +21460,6 @@ shepya.rest
 sheqsg.tokyo
 shequlove.cn
 sherbert.xyz
-sheremart.com
 sheriffblossompeeks.com
 sherillirick.xyz
 shermannas-d3153.web.app
@@ -21707,6 +21790,7 @@ shopliftingjudgesucceeding.com
 shoplivinghome.com
 shoplostfounde.shop
 shopluckyduckclub.com
+shopluuma.de
 shopluviva.de
 shoplyo-deal.site
 shoplyt.store
@@ -24959,12 +25043,14 @@ skunkery.best
 skunmorkimbleluro.tk
 skunteplibaread.tk
 skupdhy.cyou
+skurvorizan.at
 skusfr.bar
 skuso.cyou
 skutatniaciter.ga
 skutopalulablo.cf
 skutrownia.pl
 skuy6r.xyz
+skvurthalen.at
 skwdvra.tokyo
 skwp2k.xyz
 skwubfoy.xyz
@@ -25579,6 +25665,7 @@ sloteskasosi.ga
 slotewacan.tk
 slotexo-fr.fr
 slotexo-officiel.fr
+slotexofr.fr
 slotexoofficiel.fr
 slotexpress-casino.fr
 slotgem-casino.fr
@@ -26142,6 +26229,7 @@ smarthomerabatt.de
 smarthostdns2.info
 smartinhotel.it
 smartintienda.es
+smartinvestorvision.com
 smartinvestsas.com
 smartiq.co
 smartjoybss.cf
@@ -30309,6 +30397,7 @@ spin-auras.fr
 spin-bara-casino.fr
 spin-better.com
 spin-boss-casino.fr
+spin-boss-france.fr
 spin-boss.fr
 spin-cash-win.fr
 spin-casino.fr
@@ -30474,6 +30563,7 @@ spinerterroenetwachs.tk
 spinfesnuyferde.gq
 spinfest-fr.fr
 spinfest1.fr
+spinfests.fr
 spinfin-casino.fr
 spinfin-fr.fr
 spinfin1.fr
@@ -32203,7 +32293,6 @@ stadincomjoatende.gq
 stadiosas.it
 stadiovostro.fr
 stadlinkleting.tk
-stadlwerk.de
 stadnewcbovoli.tk
 stadstrompettisten.nl
 stadtelternrat.de
@@ -32337,6 +32426,7 @@ stakereload.site
 stakes-777.fr
 stakes-fr.fr
 stakes-official.fr
+stakes777-fr.fr
 stakesfr.fr
 stakeston.com
 stakevizlodapo.ga
@@ -33944,6 +34034,7 @@ stillstudysalso.buzz
 stillwindowspainting.buzz
 stilmark.de
 stilmerquiverli.cf
+stilmoment.com
 stilnovo.fr
 stilolnusu.tk
 stilonvimabyhun.tk
@@ -34266,6 +34357,7 @@ stoeks8.work
 stoertebekkerbeauty.shop
 stofcelcoberpotuff.ml
 stoffbiotop.com
+stoffweltenshop.com
 stofmutter.dk
 stogefimsporadgeo.gq
 stoicdraussen.com
@@ -37349,6 +37441,7 @@ superoffensive.site
 superonlineshopromania.com
 superoptions.com
 superoptionstrading.biz
+superpdxzxc.click
 superpotence.com
 superpouvoir.com
 superprizes4you.info
@@ -37469,6 +37562,7 @@ supplephacheran.tk
 supplibodagua.ml
 suppliers.dk
 supplierseu.com
+supplierseu.myshopify.com
 supplifisendepas.tk
 suppliheldperniring.ml
 supplindrifi.ml
@@ -47624,7 +47718,6 @@ textedy.xyz
 texteprime.fr
 texterra.me
 textfocatera.cf
-textguardai.com
 texthevahalo.ml
 texthub.me
 texthub.me
@@ -47749,6 +47842,7 @@ tfinecrignedi.tk
 tfinolarrotla.gq
 tfinsetkingsepar.ga
 tfinunlermafor.tk
+tfipost.com
 tfirinmodobwhats.tk
 tfironticmehr.tk
 tfisbundsabcobb.tk
@@ -48881,7 +48975,6 @@ thegatheringchurch.xyz
 thege.xyz
 thegeabgilchjeff.tk
 thegeeklog.xyz
-thegentlemenstore.de
 thegenuineoriginal.xyz
 theget-your-lady2.com
 theget-your-lady3.com
@@ -50239,6 +50332,7 @@ thorntopgmasgia.ga
 thornworksethro.ml
 thornzhengwicbufi.ml
 thorogooddeutschland.com
+thorogoodeutschland.de
 thorogoodfrance.com
 thoroughlybrain.com
 thorredowthiota.ml
@@ -51847,6 +51941,7 @@ tikicasinoavis.fr
 tikicasinogame.fr
 tikicasinologin.fr
 tikicasinopromocode.fr
+tikicasinos.fr
 tikiicasino.fr
 tikilfitagcioni.ml
 tikimest.ga
@@ -51861,6 +51956,7 @@ tikitaka-online.fr
 tikitaka1.fr
 tikitaka7-casino.fr
 tikitakacasino-official.fr
+tikitakacasino1.fr
 tikitakacasinoonline.fr
 tikitakaslots.fr
 tikjvv.rest
@@ -54454,6 +54550,7 @@ tjzohc.tokyo
 tjzqfp.tokyo
 tjzscl.tokyo
 tjzzedu.com
+tk-deburncalories.shop
 tk-energiemanagement.de
 tk-kontor.de
 tk05k5.cyou
@@ -54502,6 +54599,7 @@ tkees-france.fr
 tkeesfrance.fr
 tkeesparis.fr
 tkegy7a.tokyo
+tkensure.top
 tkeqor.tokyo
 tkercorconata.tk
 tkeridizov.ga
@@ -54859,8 +54957,6 @@ tmdtctv.blogspot.com
 tme9hv.cyou
 tmeama.com
 tmeamb.com
-tmeamc.com
-tmeamd.com
 tmeame.com
 tmeamf.com
 tmeamg.com
@@ -56863,7 +56959,6 @@ totrekarwaebui.tk
 totrendybags.com
 totslislele.tk
 totsmanvodote.ml
-totsoo.com
 totstezticonhai.cf
 totszsoleldolou.tk
 totukanicksat.ga
@@ -58760,6 +58855,7 @@ tratunperrenec.ga
 tratwaddseasurwi.tk
 tratweavimalea.ml
 traumfloorshop.com
+traumgirlanden.shop
 traumland-musik.buzz
 traumstuecke-ulm.de
 traumwache.de
@@ -59775,7 +59871,6 @@ trikanrojupal.tk
 trikedebclowir.tk
 triklesstiturnta.tk
 trikoa.com
-trikotadler.com
 trikotarena.com
 trikotfachshop.com
 trikotfc.com
@@ -60630,7 +60725,6 @@ true-hot-news.buzz
 true-jizz-net.xyz
 true-luck-cas.fr
 true-movs-video.xyz
-true-ph.com
 true-porno-movie.buzz
 true-pussy-news.buzz
 true-sexy-tube.buzz
@@ -60875,7 +60969,6 @@ trxpaq.tokyo
 trxu24.cyou
 try-virium.com
 try.articblast.co
-try.homepromag.com
 try0vg.cyou
 try2explore.com
 tryapp.de
@@ -60930,6 +61023,7 @@ trysheavydrophim.biz
 trysmoneypoints.biz
 trysoftr.com
 trysolara.store
+trysorelle.com
 tryspointwayweeks.biz
 trysururalgecop.tk
 trytathscaminmiming.cf
@@ -62324,6 +62418,7 @@ tuusmaralectei.ga
 tuuvkz.bar
 tuvamhoyxei.tk
 tuvanduhoc.buzz
+tuvas-tech.de
 tuvavenmomyd.gq
 tuvene.cf
 tuvenriarecme.tk
@@ -65759,6 +65854,7 @@ uk-great-deal.top
 uk-promos-deal.top
 uk-trd.investments
 uk-tweed-jackets.com
+uk.trapstarlondon.com
 uk01xj.tokyo
 uk0j3s8.cyou
 uk138k.tokyo
@@ -66251,6 +66347,7 @@ ultraircooler.fr
 ultraix.nl
 ultrajewelery.net
 ultramantaro.com
+ultras-schal.com
 ultraviolety.com
 ultrawarez.eu
 ultrawhb2dpejf1q.biz
@@ -67358,6 +67455,7 @@ uni-catholille.fr
 uni-cote-dazur.fr
 uni-eiffel.fr
 uni-evry.fr
+uni-kredit-service.de
 uni-lille.fr
 uni-littoral.fr
 uni-lorraine.fr
@@ -69882,7 +69980,6 @@ usetmamogsa.cf
 usewix.rest
 usexerlterinhei.tk
 usexrwd.bar
-usezazzi.com
 usezunna.com
 usfchh.tokyo
 usffhc.tokyo
@@ -72469,6 +72566,7 @@ variousracecondition.rest
 variousspointdespite.club
 variousthingsuccess.biz
 varioustruehand.biz
+variova.de
 varireloli.cf
 varjupagar.eu
 varkensuitzicht.nl
@@ -74686,6 +74784,7 @@ velwopulpocha.tk
 velzafilifo.tk
 vem8lb.cyou
 vem8v0h.tokyo
+vema-elektro.de
 vemablumsclutbezzwat.tk
 vemacdemuwoodcsu.gq
 vemachtempcard.ga
@@ -75462,6 +75561,7 @@ vermotideslyanatacharvajibepa.xyz
 vernaijetimemet.tk
 vernaracallmar.ga
 vernarapa.tk
+vernaschediewelt.com
 verndreadunes.ga
 vernedunjeogroutsa.ga
 vernegerpcu.ml
@@ -75741,6 +75841,7 @@ vertic.dk
 verticalcity.it
 verticalcoder.com
 verticale-blog.it
+verticalinternational.com
 vertie311.github.io
 vertiopersepar.tk
 vertisas.shop
@@ -76560,7 +76661,6 @@ viare-brooklyn.com
 viarebilre.tk
 viarecasa.tk
 viarerapdiara.cf
-viarla.com
 viasaderburccosry.ml
 viaseisoftforstenre.ga
 viasisransgef.ga
@@ -82191,6 +82291,7 @@ vogelfutterhausde.com
 vogelpflege.com
 vogels.xyz
 vogelsangmeetshoyer.de
+voglbaugeschaftgmbh.de
 voglessvosakom.ga
 voglma.tokyo
 vogradymohe.ml
@@ -82473,6 +82574,7 @@ voltedage.com
 volter-plus.com
 voltgiflaisa.ml
 voltgongbakti.tk
+volthausgeraete.de
 voltiowitherfai.cf
 voltiratan.tk
 voltmarcutuca.ga
@@ -83495,6 +83597,7 @@ vtlpos.bar
 vtlqml.tokyo
 vtlyuj.bar
 vtmarketsfr.com
+vtmfr.com
 vtmqle.tokyo
 vtmvubp.tokyo
 vtmyce.bar
@@ -85117,7 +85220,6 @@ wacnhu.rest
 waco-logistics.com
 wacontmatcacecal.gq
 wacoo.de
-wacooball.com
 wacoulynider.tk
 wacsgwql.cyou
 wactingsagesee.tk
@@ -85915,8 +86017,8 @@ warmagapa.tk
 warmawawohelp.tk
 warmblesadwraspig.tk
 warmdisraymar.tk
+warme-quelle.com
 warmeholzhaus.com
-warmeluxe.com
 warmer.ai
 warmer.ai
 warmerefedini.tk
@@ -85938,9 +86040,7 @@ warmringbangslican.tk
 warmstorinfogi.cf
 warmthelapse.com
 warmthless.best
-warmthota.com
 warmthsta.com
-warmthvo.com
 warmtistpharnidula.cf
 warmtofeadowsfitwa.cf
 warmuzzparnada.gq
@@ -88450,7 +88550,6 @@ welivnarorerea.tk
 weljustgrancamquicont.tk
 well-being-olive-interact.nl
 well-blech.info
-wellacooler.com
 welladadedif.gq
 wellawhite.com
 wellbacktendfritebta.tk
@@ -88696,6 +88795,7 @@ werkerswelt-moelln.de
 werkesesneopor.gq
 werkora-industrial.com
 werkstattgerateprofi.com
+werkstattgitter.com
 werkstoffholz.de
 werkvoorraden.com
 werkzeug-haus.de
@@ -90520,6 +90620,7 @@ win-big-bonus-here7.life
 win-big-bonus-here8.life
 win-big-bonus-here9.life
 win-big-here.com
+win-casino-unique.fr
 win-clicker-online.buzz
 win-disney-transfer.fr
 win-europe.eu
@@ -91702,6 +91803,7 @@ withheadsbudmisa.ga
 withholdnausea.com
 withinareaplaces.biz
 withingss.at
+withingss.de
 withinsdemocrats.biz
 withinsdoormanagement.biz
 withinsformother.biz
@@ -93915,6 +94017,7 @@ woyh.yt
 woymhvu.bar
 woyopex.xyz
 woyumi.com
+woyuosn.com
 woyurh.tokyo
 woywod2000.buzz
 woz07r.shop
@@ -104121,6 +104224,7 @@ yellowninja.info
 yeludq.cyou
 yelvm2.tokyo
 yelxcgwj.cyou
+yem.foundation
 yemcgpjm.tokyo
 yemdnn.bar
 yemkbh.tokyo
@@ -106778,6 +106882,7 @@ yonibet-fra.fr
 yonibet-france.fr
 yonibet-official.fr
 yonibet-officiel.fr
+yonibet3.fr
 yonibetcasino.fr
 yonibetcasinos.fr
 yonlbkww.tokyo
@@ -111587,7 +111692,6 @@ zaloga-zbiranje.news
 zalolinohec.tk
 zalori.de
 zalotcontcagbi.tk
-zaloweb.me
 zalsivibilis.tk
 zalvetra.com
 zalvori.com
@@ -111614,7 +111718,6 @@ zamquitravinge.tk
 zanalamomearib.cf
 zananragite.ml
 zanasearch.com
-zanatelier.com
 zanderautoparts.com
 zandgadesrbinagi.ml
 zandsfabrics.com
@@ -115773,7 +115876,6 @@ zwcbfpa.bar
 zwccth.rest
 zwch4g.cyou
 zwcigc.work
-zwclsaablueashe.shop
 zwcqzj.cyou
 zwcrnw.tokyo
 zwczdcm.cyou
