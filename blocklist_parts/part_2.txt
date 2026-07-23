@@ -2,6 +2,23 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
+redondobrewery.com
+redoorpoturpo.tk
+redotertu.ga
+redoutcomecomfort.com
+redowcongmillbackpfiz.cf
+redownfirra.tk
+redpasilbome.cf
+redpathmedia.com
+redpeibameli.tk
+redpersdestpoco.cf
+redpillfrontpage.xyz
+redquecelllosine.ga
+redrarichmoturmemb.ml
+redraw.art
+redraw.art
+redreperthimbdi.tk
+redrobusthevi.tk
 redrocks.fr
 redroundrepamph.gq
 redsatifapolwa.tk
@@ -14708,6 +14725,7 @@ sarkdrogevlinringhung.tk
 sarke.xyz
 sarkmigovace.tk
 sarksembtigener.ml
+sarl-castelmag.com
 sarl-jm-facade79.fr
 sarlcresmar.com
 sarlilesslonaso.cf
@@ -23497,6 +23515,7 @@ silyplindtokhni.cf
 sim-ka.uz
 sim-sfr-service.fr
 sim-sfr.fr
+sim-sinos-fr.fr
 simabrasil.com.br
 simacora.tk
 simahampitus.gq
@@ -25541,6 +25560,10 @@ skqkgdi.work
 skqt7e.tokyo
 skqtm6.cyou
 skqvuy.tokyo
+skrill10depot.fr
+skrill15depot.fr
+skrill20depot.fr
+skrill5depot.fr
 skrobiszmeble.pl
 skrujx.cyou
 skryku.bar
@@ -32002,6 +32025,7 @@ spyderfrance.fr
 spydersale.de
 spyderwrisemel.tk
 spydintravornemenradingnofurtangde.xyz
+spydiscount24.com
 spygok.rest
 spyi5p.cyou
 spymdefdirofacot.ga
@@ -48902,6 +48926,7 @@ thataicollection.com
 thataicollection.com
 thatakdumpforthflex.ml
 thatamaclobou.tk
+thatericalper.com
 thatfigure.xyz
 thatipuringcessletz.cf
 thatir.bar
@@ -82068,6 +82093,7 @@ vivaharmoni.com
 vivahost.host
 vivaia-schuhe.de
 vivaiaboutiques.fr
+vivaiacollection.com
 vivaiaparis.fr
 vivaiaschaussures.fr
 vivaiaschuhe.at
@@ -93977,6 +94003,7 @@ wordstoryyearyear.buzz
 wordstudymonthhome.de
 wordstwists.com
 wordsubschargolfging.ml
+wordswithletters.org
 wordswomanknows.biz
 wordswordfollows.rest
 wordtestgreatexperience.bar
@@ -97326,6 +97353,7 @@ x3aqw.bar
 x3aqw.rest
 x3bet-casino-france.fr
 x3bet-casino.fr
+x3bet-france.fr
 x3betcasino.fr
 x3bf6.cyou
 x3buxu.cyou
@@ -100019,7 +100047,9 @@ xn--allyspincasin-8kb.fr
 xn--aloyogamnchen-3ob.de
 xn--alterna-nergie-ikb.fr
 xn--amandeimpaye-leb.fr
+xn--amazn-3ta.fr
 xn--amazn-9ta.fr
+xn--amazn-xta.fr
 xn--amazon-scu-i7a.fr
 xn--amazon-vrification-iwb.fr
 xn--ameli-action-ncssaire-o5bb.fr
@@ -100067,7 +100097,10 @@ xn--amli-vital-c7a.fr
 xn--amlie-accompagnement-c2b.fr
 xn--amlie-renouvellement-c2b.fr
 xn--amlie-scurit-cebff.fr
+xn--amzn-1na3i.fr
+xn--amzn-1na9i.fr
 xn--amzon-sqa.fr
+xn--amzon-yqa.fr
 xn--annuairesant-meb.fr
 xn--ansmsant-i1a.fr
 xn--anss-ypa.fr
@@ -100356,6 +100389,8 @@ xn--manutan-collectivits-t2b.fr
 xn--maprimernov-ibb.fr
 xn--march-scuris-febcf.fr
 xn--masocitgnralparticuliers-gfcbbb.fr
+xn--mazn-zna1j.fr
+xn--mazon-wqa.fr
 xn--mcrosoft-u2a.fr
 xn--mdicale-bya.fr
 xn--meli-zna.fr
@@ -100411,6 +100446,9 @@ xn--mtsu25by8oh1u.wang
 xn--musedulouvre-deb.fr
 xn--muta-sant-j4a.fr
 xn--mutuelle-viasant-qqb.fr
+xn--mzn-8kab3i.fr
+xn--mzn-8kab9i.fr
+xn--mzon-znab.fr
 xn--navigo-idf-indemnit-tzb.fr
 xn--navigo-iledefrance-mobilits-0oc.fr
 xn--navigo-indemnit-pnb.fr
