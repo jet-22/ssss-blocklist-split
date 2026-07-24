@@ -2,6 +2,21 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
+redmaplefarms.xyz
+redmartlipu.tk
+redmivititoulig.tk
+rednevesump.ml
+redniaglobadtidi.tk
+redoaklabel.com
+redoceastpak.pw
+redogjacksa.gq
+redohamha.tk
+redolfiwettmarbfarn.ga
+redolivedns.com
+redolotecon.gq
+redonbet-casino.fr
+redonbet.fr
+redonbetcasino.fr
 redondobrewery.com
 redoorpoturpo.tk
 redotertu.ga
@@ -26331,6 +26346,7 @@ slovenijazlokalci.si
 slovenlier.com
 slovenska-lekaren.com
 slovenska.si
+slovenskolekaren.com
 sloveos.com
 slovesorschemen.tk
 slovgetimotobo.cf
@@ -28579,7 +28595,6 @@ softdns.biz
 softdorebachant.ga
 softdosamphilders.ml
 softdrivgatasonli.tk
-softelektro.com
 softeneddefenceinflation.com
 softeninsinuate.com
 softenopera.com
@@ -31136,6 +31151,7 @@ spinfests.fr
 spinfin-casino.fr
 spinfin-fr.fr
 spinfin-france.fr
+spinfin-online.fr
 spinfin1.fr
 spinfin24.fr
 spinfinenligne.fr
@@ -82093,7 +82109,6 @@ vivaharmoni.com
 vivahost.host
 vivaia-schuhe.de
 vivaiaboutiques.fr
-vivaiacollection.com
 vivaiaparis.fr
 vivaiaschaussures.fr
 vivaiaschuhe.at
