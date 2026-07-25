@@ -2,6 +2,46 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
+redirections-info.fr
+redirections-paypal.fr
+redirections-support.fr
+redirectionsclients-sante.fr
+redirectlayerprotocol.com
+redirectme.net
+redirectprime.fr
+redirectrefrench.fr
+redirectreglement.fr
+redirects-ameli.fr
+redirekted.com
+rediriger-prime.fr
+rediriprime.fr
+rediscsweatreallri.gq
+redisfhultibur.ml
+redislepede.tk
+redisriarode.gq
+redistribution-chronopost.fr
+redisuwhistges.tk
+rediterichso.ga
+rediticare.tk
+redjapan.web.app
+redjovenes.es
+redjuserbocil.ga
+redk-stron.site
+redk-strong.info
+redkbar.gq
+redkdispstocabdete.gq
+redkingscasino.fr
+redkramscaronnonp.gq
+redktisaleci.ga
+redleabibpacincue.ml
+redlessbizgononring.tk
+redlifesrightswater.biz
+redligedoslo.ml
+redline-boutique.fr
+redlirojourdergcon.tk
+redlove.ro
+redlusorbohis.tk
+redmakesstuff.xyz
 redmaplefarms.xyz
 redmartlipu.tk
 redmivititoulig.tk
@@ -8230,6 +8270,7 @@ rohrilighnotitig.cf
 rohrreinigung-rothschild.de
 rohrreinigungshilfe.at
 rohrsanierungen24.de
+rohrshop24.com
 rohsmyxmweskingmar.tk
 rohunbacksquarconburt.tk
 rohungatigsces.tk
@@ -10786,6 +10827,8 @@ run5dd.cyou
 runacasino-fr.fr
 runacasino-france.fr
 runacasinoenligne.fr
+runacasinofr.fr
+runacasinoligne.fr
 runacasinoonline.fr
 runahoeve.nl
 runaivete.com
@@ -19938,6 +19981,7 @@ service-infractions.fr
 service-interpol.fr
 service-intrabancaire.fr
 service-klarna.fr
+service-la-macif.fr
 service-la-poste.fr
 service-laposte.fr
 service-lbc.fr
@@ -28595,6 +28639,7 @@ softdns.biz
 softdorebachant.ga
 softdosamphilders.ml
 softdrivgatasonli.tk
+softelektro.com
 softeneddefenceinflation.com
 softeninsinuate.com
 softenopera.com
@@ -29970,6 +30015,7 @@ sovovopelcheli.gq
 sovypl.bar
 sow6t2.cyou
 sowaoptive.asia
+sowaswillichauch.de
 sowbrl.bar
 sowepirare.gq
 sowibarje.ga
@@ -32886,6 +32932,7 @@ stadiovostro.fr
 stadlinkleting.tk
 stadnewcbovoli.tk
 stadstrompettisten.nl
+stadsug.com
 stadtelternrat.de
 stadtplan-local.com
 stadunagviro.tk
@@ -35234,6 +35281,7 @@ store-ugg.fr
 store.aeotec.com
 store.aktuellerezensionen.de
 store.app-valley.vip
+store.kestrelby.com
 store.promomesh.com
 store.useum.org
 store.yeelight.com
@@ -51946,6 +51994,7 @@ ticket-tour.fr
 ticketaster.fr
 ticketconcerts.fr
 ticketcorner.fr
+ticketdrop.fr
 ticketery.fr
 ticketfaster.fr
 ticketfestival.fr
@@ -52582,6 +52631,7 @@ tikitaka1.fr
 tikitaka7-casino.fr
 tikitakacasino-official.fr
 tikitakacasino1.fr
+tikitakacasinoenligne.fr
 tikitakacasinoonline.fr
 tikitakaslots.fr
 tikjvv.rest
@@ -58562,6 +58612,7 @@ tradequicker.com
 trader-ai.cc
 trader-invest.com
 tradereasy.com
+traderepublic-support.fr
 traderesgreeniz.ml
 traderhouse.com
 traderminds.com
@@ -64251,6 +64302,7 @@ u-psud-macss.fr
 u-rouen.fr
 u-upsud.fr
 u-watch.fr
+u003efree-mobile.fr
 u00x3.tokyo
 u01281z.shop
 u01rkj.shop
@@ -68556,6 +68608,7 @@ universitice-univ-rouen.fr
 university-student.jp
 universityhospitalmartinique.fr
 universityrh.net
+universjouets.com
 universopalmeras.com
 universte-paris-saclay.fr
 univerzalni-premija.cam
@@ -86163,6 +86216,7 @@ waldchandirogab.tk
 waldemarrobak.pl
 waldepigirestou.tk
 waldepomarsi.ml
+waldesstille.com
 waldgewandt.de
 waldidownpers.gq
 waldmannmode.de
