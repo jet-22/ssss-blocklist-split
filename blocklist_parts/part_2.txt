@@ -2,6 +2,53 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
+redirect-chronopost.fr
+redirect-cmb.fr
+redirect-coiis.fr
+redirect-netflx.fr
+redirect-path2.com
+redirect-prime.fr
+redirect-transit.fr
+redirect.newprogrammatic.click
+redirectapps.online
+redirectapps.org
+redirectingaupost.com
+redirectingauspost.com
+redirectingnow.net
+redirection-abonnement.fr
+redirection-ameli.fr
+redirection-amende.fr
+redirection-assurance-maladie.fr
+redirection-carte.fr
+redirection-chronopost-clients.fr
+redirection-chronopost.fr
+redirection-colis.fr
+redirection-de-la.fr
+redirection-en-ligne.fr
+redirection-espacesante.fr
+redirection-ethernet.fr
+redirection-infopublic.fr
+redirection-information.fr
+redirection-infosms-chrono.fr
+redirection-livraison.fr
+redirection-majorations.fr
+redirection-moncolis.fr
+redirection-mondial-relay.fr
+redirection-netflx.fr
+redirection-ntflx.fr
+redirection-prime.fr
+redirection-servicefr.fr
+redirection-servicesante.fr
+redirection-servicevitale.fr
+redirection-support.fr
+redirection-supports.fr
+redirection-vital.fr
+redirectionaupost.com
+redirectionclient.fr
+redirectioncolis.fr
+redirectionemail.fr
+redirectionreglement.fr
+redirections-ameli.fr
 redirections-info.fr
 redirections-paypal.fr
 redirections-support.fr
@@ -9449,6 +9496,7 @@ rov1ma.xyz
 rovacata.tk
 rovadegunbett.gq
 rovalgusegcalar.tk
+rovantar.com
 rovasetelbe.tk
 rovatuheloo.cf
 rovecuadcardbe.ml
@@ -14888,6 +14936,7 @@ sasmiaautomobiles.fr
 sasomusclaba.tk
 sasouffcaweble.ga
 saspauratabketsca.tk
+saspromordi.com
 sassari-sexysexytime.space
 sassariadessonews.cloud
 sassaycrofcorda.ml
@@ -22180,6 +22229,7 @@ shirtion.de
 shirtsandpolosde.com
 shirtsandsweaters.eu
 shirtspolos.com
+shiseido-eu.com
 shishire.club
 shishqa.xyz
 shishukanan.com
@@ -22319,6 +22369,7 @@ shop.shopcider.com
 shop.tegeler.com
 shop.travisscott.eu.com
 shop.vffvllo.shop
+shop.wonderproject.co.uk
 shop1maillot.fr
 shop2046.com
 shop4at.com
@@ -22640,6 +22691,7 @@ shup3mq.cyou
 shup3u.cyou
 shur4u.co.il
 shurovagora.ru
+shutterlans.myshopify.com
 shutters.cam
 shutterstock.com
 shuttleockstore.com
@@ -31760,6 +31812,7 @@ sport-athletics.de
 sport-base.eu
 sport-equipements.fr
 sport-rausch.de
+sport-supplies.com
 sport-titan.de
 sport200.fr
 sport2000-falaise.fr
@@ -38139,6 +38192,7 @@ supkylimuzon.cf
 suplay.fr
 suplechisonweibyo.tk
 supliposigogua.ml
+suplments.de
 supluse.ee
 supmea.xyz
 supnamubalsang.cf
@@ -57137,6 +57191,7 @@ toponym.site
 toporboomildeca.tk
 toporuptparuli.ga
 topostbattualule.cf
+topowhey.top
 toppaysites.com
 toppcasubulpou.tk
 toppchankabetti.ga
@@ -59934,6 +59989,7 @@ trekhardcredcibudsi.tk
 trekinasbo.tk
 treking.xyz
 trekkeepprecise.com
+trekkinggearwarehouse.com
 trekkinginfonepal.com
 treklicalivede.cf
 trekmag.co.uk
@@ -65271,6 +65327,7 @@ ubuntu.buildwebhost.com
 ubuntu.org
 ubuntuaa.com
 ubuntubin.com
+ubuntuconnect.fr
 ubuntugeeks.com
 ubuntupit.com
 ubuntuplace.info
@@ -73210,6 +73267,7 @@ vapecomteherdie.tk
 vapecupsearchma.ga
 vapedampf.com
 vapegunstig.de
+vapekitprime.com
 vapeltecadeta.tk
 vapepage.pl
 vapertachicracut.cf
@@ -82162,6 +82220,7 @@ vivaharmoni.com
 vivahost.host
 vivaia-schuhe.de
 vivaiaboutiques.fr
+vivaiacollection.com
 vivaiaparis.fr
 vivaiaschaussures.fr
 vivaiaschuhe.at
@@ -83020,6 +83079,7 @@ vogelfutterhausde.com
 vogelpflege.com
 vogels.xyz
 vogelsangmeetshoyer.de
+vogeltranke.com
 voglbaugeschaftgmbh.de
 voglessvosakom.ga
 voglma.tokyo
@@ -90320,6 +90380,7 @@ wheresthemusic.com
 whereswomanplayer.buzz
 whereter.my.id
 whereube.com
+whereverk.com
 wherewasit.com
 whesacosodop.gq
 whetcagetico.tk
@@ -90990,6 +91051,7 @@ wika-shop.de
 wikam.it
 wikcs31.tokyo
 wikdieprofpecro.gq
+wikebygb.shop
 wikfinal.shop
 wiki-mining.website
 wiki-opel.ru
