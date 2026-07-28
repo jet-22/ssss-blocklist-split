@@ -2,7 +2,6 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
-redhyadregixalex.tk
 redi-livraison.fr
 redi-mrelay.fr
 redi-netflix.fr
@@ -20271,6 +20270,7 @@ serviceclientassistance.fr
 serviceclientbinance.fr
 serviceclientbnpparis.fr
 serviceclientboursorama.fr
+serviceclientbuylive.fr
 serviceclientedf.fr
 serviceclientelpaypal.fr
 serviceclientfree.fr
@@ -27675,6 +27675,7 @@ snapochtrodoxexin.cf
 snappass.fr
 snappasse.fr
 snappeasinspanish.cf
+snappro.fr
 snapsave.site
 snapschat.fr
 snapschats.fr
@@ -28715,7 +28716,6 @@ softdns.biz
 softdorebachant.ga
 softdosamphilders.ml
 softdrivgatasonli.tk
-softelektro.com
 softeneddefenceinflation.com
 softeninsinuate.com
 softenopera.com
@@ -30091,7 +30091,6 @@ sovovopelcheli.gq
 sovypl.bar
 sow6t2.cyou
 sowaoptive.asia
-sowaswillichauch.de
 sowbrl.bar
 sowepirare.gq
 sowibarje.ga
@@ -36896,6 +36895,7 @@ subvagolfritemca.ml
 subvemortject.cf
 subventiongouv.fr
 subvertableuafft.buzz
+subwayreunion.re
 subwaysurferapk.net
 subwedinepet.gq
 subwingwormuva.tk
@@ -91909,6 +91909,7 @@ winbeatz.fr
 winbeatz7.fr
 winbeatz777.fr
 winbeatzcasino.fr
+winbeatzcasinos.fr
 winbeatzs-fr.fr
 winbeatzs-france.fr
 winbeatzs.fr
@@ -93913,6 +93914,7 @@ woodworkwizardry.com
 woof-wo0f.com
 woofgear.de
 wooflyx.com
+woofz.academy
 woogitopeck.online
 woogpz.tokyo
 wooinw.tokyo
