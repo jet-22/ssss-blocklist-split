@@ -2,22 +2,6 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
-rectorat-strasbourg.fr
-rectototowo.tk
-rectouzitriwalrext.gq
-rectphoraljantsucsass.ga
-rectpillthenmiveve.ga
-rectproofovgioda.ga
-rectralereer.gq
-rectregbudu.tk
-rectropardiafes.tk
-rectruffjodhcontlengboun.tk
-rectscenransoftde.tk
-rectsewechskettland.cf
-rectsnz.tokyo
-rectsormatineti.ml
-recttannaivi.cf
-recttitucpahels.ml
 recttobicatal.ml
 recttodivi.ga
 recttothenohi.tk
@@ -11139,6 +11123,7 @@ rundiffusion.com
 rundiffusion.com
 rundrejser.eu
 rundummobil.de
+rundumstrikot.de
 runecasa.com
 runelite.wiki
 runelord.eu
@@ -14035,7 +14020,6 @@ salomonhungary.net
 salomonmarseille.fr
 salomonosterreich.at
 salomonoutletgermany.de
-salomonoutletireland.com
 salomonoutletstoresusa.com
 salomonparis.fr
 salomonparismagasin.fr
@@ -16818,7 +16802,9 @@ scininrittingcryp.ml
 scinnacapwiiseylea.tk
 scinnurfacocaw.ml
 scintognicecom.tk
+sciobot-next.cz
 sciobot.cz
+sciobot.sk
 sciortino.eu
 sciqcp.rest
 scisaskalcoapo.ga
@@ -30721,6 +30707,7 @@ spaz6j.tokyo
 spazio-tempo.ch
 spazioarchitettura.ch
 spaziof1.it
+spaziogreen.it
 spaziolingue.it
 spaziosolosalute.it
 spbat.ru
@@ -31489,6 +31476,7 @@ spinboss-fr.fr
 spinboss-france.fr
 spinboss-jouer.fr
 spinboss1.fr
+spinboss2.fr
 spinbosse.fr
 spinbosses.fr
 spinbosss.fr
@@ -31925,6 +31913,7 @@ splendorsolar.shop
 splendourproof.xyz
 splendris-pharmaceuticals.de
 splicedonline.com
+splima.de
 splimox.xyz
 splitter.microxml.net
 splotching.com
@@ -32445,6 +32434,7 @@ spyderfrance.fr
 spydersale.de
 spyderwrisemel.tk
 spydintravornemenradingnofurtangde.xyz
+spydiscount24.com
 spygok.rest
 spyi5p.cyou
 spymdefdirofacot.ga
@@ -35188,6 +35178,7 @@ stitamevpiti.ga
 stitandideartu.ml
 stitasrticmonmacar.gq
 stitbaderfati.ga
+stitch.withgoogle.com
 stitchfia.com
 stitchrichardscowled.com
 stitcodastmealta.gq
@@ -48035,6 +48026,7 @@ terramonttentfos.ml
 terrancecanceleria.com
 terrapsmaperwora.tk
 terrapultideh.cf
+terraqo.de
 terraqueousness.site
 terrarekgepanty.tk
 terrariumhaustiere.com
@@ -59759,6 +59751,7 @@ traphephysleapfla.tk
 traphuatgeotrophron.ml
 traphuntleasel.gq
 traphxaparoviwhi.tk
+trapiantoturchia.it
 trapincalsanscomcent.ga
 trapinurenspal.tk
 trapisricaric.tk
@@ -78332,7 +78325,6 @@ vienna-modehaus.at
 vienna-stil.at
 viennaapartments.org
 viennaaustrohotel.com
-viennameerschaum.com
 viennamode.at
 viennamode.com
 viennastil.at
@@ -85496,6 +85488,7 @@ vzccyw.rest
 vzd15d.tokyo
 vzd2qs.shop
 vzdbxq.bar
+vzdelavame.aidetem.cz
 vzdlis.bar
 vzdmbv.tokyo
 vzebce.bar
@@ -90208,6 +90201,7 @@ wettigocasino.fr
 wetting.de
 wettretilapochs.cf
 wettzo-casino.fr
+wettzo-fr.fr
 wettzo1.fr
 wettzocasino.fr
 wetwareconz.xyz
@@ -100859,6 +100853,7 @@ xn--lascuritsociale-dnbf.fr
 xn--lboncoin-b1a.fr
 xn--lcl-scurit-f7af.fr
 xn--le-bguin-e1a.fr
+xn--leboncoin-paiement-securis-direct-purchase-fr-07d.fr
 xn--leboncoinfranais-opb.fr
 xn--leboncon-i2a.fr
 xn--lecanardenchain-pnb.fr
@@ -115795,6 +115790,7 @@ zoneautopro.com
 zonedummy.com
 zonefilm.ru
 zonepro.net
+zonerai.com
 zonerecharge.fr
 zonetelechargement-lol.lol
 zonetuto.fr
