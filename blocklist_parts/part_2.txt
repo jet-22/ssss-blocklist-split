@@ -2,14 +2,6 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
-rechargesolde.fr
-rechargevite.fr
-rechargexpress.fr
-rechariraram.cf
-recharseperlau.ml
-rechasbipensa.cf
-rechemdtopssucyc.gq
-recherche-educateur-sportsgouv.fr
 recherche-prime.fr
 recherge.fr
 rechesdistbonipa.tk
@@ -7393,6 +7385,8 @@ rivirotomacha.cf
 rivirroulodermill.tk
 rivistaonlinedavanguardia.com
 rivisulmaverg.gq
+rivo1.fr
+rivocas1no.fr
 rivocasino.fr
 rivonalto.cf
 rivonza.de
@@ -8291,6 +8285,7 @@ robo-center.de
 robo-wienburg.com
 robobot.ee
 robocat-france.fr
+robocatcas1no.fr
 robocatcasino777.fr
 robocatcasinoapp.fr
 robocatcasinobet.fr
@@ -11094,6 +11089,7 @@ ruckpilesslowork.tk
 ruckpubfebudle.tk
 ruckrattbedfdirccomtoi.tk
 ruckryfon.gq
+rucksackfr.fr
 rucksforbusuworle.cf
 ruckspychsurliasmar.tk
 rucktrafcountthele.cf
@@ -14293,6 +14289,7 @@ salomonhungary.net
 salomonmarseille.fr
 salomonosterreich.at
 salomonoutletgermany.de
+salomonoutletireland.com
 salomonoutletstoresusa.com
 salomonparis.fr
 salomonparismagasin.fr
@@ -20450,6 +20447,7 @@ service-client-paribas.fr
 service-client-prime.fr
 service-client-suivis.fr
 service-client-verification.fr
+service-clients-amen.fr
 service-clients-bnp-paribas.fr
 service-clients-bnpparibas.fr
 service-clients-chronopost.fr
@@ -22503,6 +22501,7 @@ shark-casino.fr
 sharkbitesale.com
 sharkca.com
 sharkercasino.fr
+sharkfrance.fr
 sharkgame.club
 sharkmotorrad.com
 sharkoders.fr
@@ -33670,6 +33669,7 @@ stakanabpayreli.tk
 stakanupcenti.cf
 stake-bet.fr
 stake-betofficiel.fr
+stake-casino-france.fr
 stake-casino.paris
 stake-casino1.fr
 stake-casino2.fr
@@ -38973,7 +38973,6 @@ support-client-colis.fr
 support-client-compte.fr
 support-client-generale.fr
 support-client-netflix.fr
-support-client.fr
 support-clientchrono.fr
 support-clientel-amli.fr
 support-clients-amazon.fr
@@ -59336,7 +59335,6 @@ trading-floor.ai
 trading-floor.io
 trading-kapital.com
 trading.corso-web.com
-trading.galacapital.net
 trading.premiumyields.com
 tradingbotpro.com
 tradingbusiness.buzz
@@ -67770,6 +67768,7 @@ ulunhanberanti.tk
 ulunrimutice.cf
 ulunstonboadisma.tk
 ulurqb.tokyo
+uluspin.fr
 ulutibm.tokyo
 uluuf.rest
 uluuvj.tokyo
@@ -82264,7 +82263,6 @@ vip-xnxx-tube.buzz
 vip-xxx-vid.xyz
 vip-xxxx-top.xyz
 vip.af
-vip.frontiermarket.icu
 vip.marketadvisor.icu
 vip.ru.com
 vip1327sexcams.xyz
@@ -91819,6 +91817,7 @@ wildcumpaci.ml
 wildcupjatechre.tk
 wilddice-casino-fr.fr
 wilddice-casinos.fr
+wilddicecas1no.fr
 wilddicecasino24.fr
 wilddicecasinoo.fr
 wilddicecasinos.fr
@@ -92997,6 +92996,7 @@ wins-uniques.fr
 winsave0fuz3kk2.biz
 winsave8imff2ja.biz
 winsavelgk9uv2p.biz
+winsbeast.fr
 winsbizpafeco.tk
 winsbrazperslewa.tk
 winscalpogapus.tk
@@ -94597,7 +94597,6 @@ woodworkwizardry.com
 woof-wo0f.com
 woofgear.de
 wooflyx.com
-woofz.academy
 woogitopeck.online
 woogpz.tokyo
 wooinw.tokyo
@@ -116142,6 +116141,7 @@ zone536epea510.biz
 zone53a539em7r.biz
 zone53a541enht.biz
 zone6turf.fr
+zoneadsl.com
 zoneautopro.com
 zonedummy.com
 zonefilm.ru
