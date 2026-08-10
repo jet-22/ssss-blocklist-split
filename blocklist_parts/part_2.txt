@@ -2,29 +2,6 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
-rechtdefaldersweek.ga
-rechtpalebatog.tk
-rechtridgroresceira.gq
-rechtsanwalt-scheer.net
-rechtsanwalt-sirrenberg.de
-rechtsanwalt-wiegmann.de
-rechtsanwaltanhalt.de
-rechtskanzlei-karls.de
-rechtund-gesetz.com
-recibarttoman.cf
-recibiremom.gq
-recicamendiagaa.tk
-recicodapha.cf
-recieid.xyz
-recietruder.web.app
-recifest.com.au
-recipeadvice.eu
-recipella.si
-recipesfordinner.club
-recipesnmeals.com
-recipevilla.com
-recipientpopulationregret.com
-recirrisi.tk
 recitatives.com
 recitfganational.ca
 recitosecleo.ga
@@ -8823,6 +8800,7 @@ roimanmonalddriv.tk
 roimevatusu.cf
 roimyvulhofbletecn.tk
 roinebiga.gq
+roinvest.net
 roion.biz.id
 roipetanigto.cf
 roipoport.ga
@@ -30604,7 +30582,6 @@ sovovopelcheli.gq
 sovypl.bar
 sow6t2.cyou
 sowaoptive.asia
-sowaswillichauch.de
 sowbrl.bar
 sowepirare.gq
 sowibarje.ga
@@ -31854,6 +31831,7 @@ spinlapameanta.tk
 spinline-casino-online.de
 spinlogic.fr
 spinlycasino.fr
+spinlynxcasino-fr.fr
 spinmacho-fr.fr
 spinmacho1.fr
 spinmacho2.fr
@@ -35346,6 +35324,7 @@ stilubel.tk
 stiluninenlyfma.ga
 stilvollherr.de
 stilwelloachesp.tk
+stilwerk.shop
 stilxumeterpa.tk
 stimadolphandown.ml
 stimamearadep.ml
@@ -35931,6 +35910,7 @@ store.app-valley.vip
 store.dalecrofton.com
 store.kestrelby.com
 store.promomesh.com
+store.quarryby.com
 store.useum.org
 store.yeelight.com
 store190.top
@@ -37698,6 +37678,7 @@ sufloheldala.tk
 sufmorapupur.ga
 sufraraforphi.cf
 sufrefortlimot.ml
+sufrema-kaufen.de
 sufriedoramipe.ml
 sufserero.web.app
 sufsingtocwacar.tk
@@ -39588,6 +39569,7 @@ susarolypxi.tk
 susbaupropehab.gq
 susbsuppdegdichu.tk
 susbucksongemube.cf
+suscap-ag.de
 susceptiblecontinue.com
 susconarala.ml
 suscsongcobocy.tk
@@ -44979,7 +44961,6 @@ taworlrecno.ga
 tawundvilidsjun.ga
 tawvvi.bar
 tax--lawyer.com
-tax.crypto.com
 taxbipabeme.tk
 taxbit-download.github.io
 taxbluresphonews.tk
@@ -47446,6 +47427,7 @@ tenseheder.tk
 tensemagazine.com
 tensfrigexdiacomp.tk
 tensgrinovracpopor.tk
+tenshogear.com
 tensijuchigtay.ga
 tensimesa.tk
 tensioro.gq
@@ -71711,6 +71693,7 @@ uterbunjadi.cf
 utetapacijol.ga
 uteto2.shop
 utevornara.cf
+utewealth.com
 utewydypaxam.tk
 utfarketalthephi.ml
 utficlicambhind.ga
@@ -75611,6 +75594,7 @@ vddwnu.bar
 vddxwm.rest
 vde3m87.tokyo
 vdejxm.bar
+vdel-electromenager.com
 vden1r.xyz
 vdesantis.com
 vdfmkb.bar
@@ -76575,6 +76559,7 @@ verbparevimerde.gq
 verbpathtikaci.gq
 verbpressotanhewhi.tk
 verbraucherfokus-test.de
+verbraucherzentrale-finanzen.org
 verbsaresgestcon.ga
 verbschooleximican.ga
 verbsiteetechrimou.ml
@@ -83950,6 +83935,7 @@ volker-kirchgeorg.de
 volkersfit.nl
 volkknoctexpflut.tk
 volklmaspurmusclo.cf
+volkmann-rechtsanwaelte.de
 volkribatomogna.cf
 volksbnk-online-zentrum.xyz
 volkskuchen.com
@@ -84066,6 +84052,7 @@ vondaro.de
 vondur.xyz
 vondy.com
 vondy.com
+vone-shop.com
 vonemetronu.ml
 vonewmeifer.gq
 vonews.net
@@ -92817,6 +92804,7 @@ winkingdoms.fr
 winkleads.com
 winkler-elektronik.de
 winkler-modehaus.de
+winklers-handel.de
 winklonewsokesos.gq
 winkmacwimosati.cf
 winkpestagisa.tk
@@ -115130,6 +115118,7 @@ zinsmanager.de
 zinsmindbelhigh.ml
 zinssurisactidi.cf
 zinsvergleich-24.de
+zinsvergleich365.de
 zinsvermittler.com
 zintenshoju.tk
 zintibefetsandtoothf.tk
