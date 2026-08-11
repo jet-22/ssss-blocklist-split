@@ -2,6 +2,11 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
+recipesfordinner.club
+recipesnmeals.com
+recipevilla.com
+recipientpopulationregret.com
+recirrisi.tk
 recitatives.com
 recitfganational.ca
 recitosecleo.ga
@@ -31701,6 +31706,7 @@ spinational1.fr
 spinatludcentbi.ml
 spinatneostamin.tk
 spinaura-avis.fr
+spinaura-casi.fr
 spinaura-casino.fr
 spinaura-en-ligne.fr
 spinaura-officiel.fr
@@ -31717,6 +31723,7 @@ spinavatalforpa.tk
 spinay.fr
 spinbara-1.fr
 spinbara-bet.fr
+spinbara-casi.fr
 spinbara-casino-fr.fr
 spinbara-en-ligne.fr
 spinbara-enligne.fr
@@ -113283,6 +113290,7 @@ zanevipshop.com
 zangasupsitare.tk
 zangezur.ee
 zangmysqmelighga.tk
+zangouv.fr
 zangtengkisurco.ml
 zangudertokowswi.cf
 zanhxx.tokyo
