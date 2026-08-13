@@ -2,6 +2,43 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
+recetasdetartas.site
+recetasplus.com
+recetighwetlynch.tk
+recetin.com
+recetteo.fr
+recettes-vegetariennes.fr
+recettesduchefs.fr
+recettesjecuisine.com
+recevoir-ameli.fr
+recevoir-ma-vignette.fr
+recevoirlatntn.fr
+recfauxiropenli.ga
+recfavavegil.tk
+recficentpafiseab.tk
+recgentmiwanlokers.ga
+rechambcimanspilg.ga
+rechammabelgufo.tk
+recharge-authentification.fr
+recharge-authentique.fr
+recharge-coupon.fr
+recharge-coupons.fr
+recharge-crypto.fr
+recharge-directe.fr
+recharge-prepayee.fr
+recharge-prime.fr
+recharge-services.fr
+recharge-tabac.fr
+recharge-verif.fr
+rechargecash.fr
+rechargecoupon.fr
+rechargecptelbc.fr
+rechargedirect.fr
+rechargego.fr
+rechargemax.fr
+rechargeme.fr
+rechargemobile.fr
+rechargepcs.fr
 rechargerapide.fr
 recharges-coupons-easy.fr
 recharges-tabac.fr
@@ -9299,8 +9336,10 @@ roobetcasinoapp.fr
 roobetcasinobet.fr
 roobetcasinobonus.fr
 roobetcasinofr.fr
+roobetcasinofrance.fr
 roobetcasinologin.fr
 roobetcasinoo.fr
+roobetcasinoofficiel.fr
 roobetcasinoonline.fr
 roobetcasinopromo.fr
 roobetcasinosfr.fr
@@ -11374,6 +11413,8 @@ run4rare.it
 run5dd.cyou
 runacasino-fr.fr
 runacasino-france.fr
+runacasino7.fr
+runacasino777.fr
 runacasinoenligne.fr
 runacasinofr.fr
 runacasinoligne.fr
@@ -20572,6 +20613,7 @@ service-livraisons.fr
 service-login-myapp.fr
 service-mabanque-bnpparibas.fr
 service-mabanquebnpparibas.fr
+service-macif.fr
 service-maladies.fr
 service-mesamendes-antai.fr
 service-messagerie-leboncoin.fr
@@ -24400,8 +24442,10 @@ simsinoscasino777.fr
 simsinoscasinoapp.fr
 simsinoscasinobet.fr
 simsinoscasinobonus.fr
+simsinoscasinofrance.fr
 simsinoscasinologin.fr
 simsinosfrance.fr
+simsinosonline.fr
 simsresource.ru
 simsterest.xyz
 simsusstetovab.ga
@@ -31943,6 +31987,7 @@ spinmoracasino.fr
 spinnakerdev.fr
 spinnania.fr
 spinnboss.fr
+spinnhacker.fr
 spinniversmorrdogac.tk
 spinnodenrete.gq
 spinny-casino.fr
@@ -32052,11 +32097,13 @@ spinsycasinofrance.fr
 spinsycasinologin.fr
 spinsycasinomobile.fr
 spinsycasinoo.fr
+spinsycasinoofficiel.fr
 spinsycasinoonline.fr
 spinsycasinopromocode.fr
 spinsycasinos.fr
 spinsycasinoz.fr
 spinsylogin.fr
+spinsyofficiel.fr
 spinsys-fr.fr
 spinsyy.fr
 spintabikes.fr
@@ -32454,6 +32501,8 @@ sportaveconobe.tk
 sportaza-fr.fr
 sportaza-online.de
 sportazacasinofr.fr
+sportazacasinofrance.fr
+sportazacasinos.fr
 sportbagsshop.com
 sportbible.com
 sportbigsplacenumber.rest
@@ -43291,6 +43340,7 @@ tak-klima.eu
 takainkam.com
 takarajansonv2decor.web.app
 takasenconssafa.ga
+takashimarecordbar.com
 takball.com
 takbierosimeat.tk
 take-best-prizes.life
@@ -58155,6 +58205,7 @@ tortuga-online.fr
 tortuga-play.fr
 tortuga-slot.fr
 tortuga-vip.fr
+tortuga.re
 tortugaa.fr
 tortugacasino-france.fr
 tortugacasino-online.fr
@@ -64229,6 +64280,9 @@ twincasino-france.fr
 twincasino-official.fr
 twincasino-officiel.fr
 twincasinofrance.fr
+twincasinoofficiel.fr
+twincasinoonline.fr
+twincasinos-fr.fr
 twincasinos.fr
 twincetboysferalen.ga
 twincirtickkins.gq
@@ -75967,6 +76021,8 @@ vegasinofr.fr
 vegasinofrance.fr
 vegasinologin.fr
 vegasinoo.fr
+vegasinoofficial.fr
+vegasinoofficiel.fr
 vegasinoonline.fr
 vegasinos-fr.fr
 vegasinosfr.fr
@@ -76461,6 +76517,7 @@ ventheysurmivid.ga
 venticlub.de
 ventilateur-shop.fr
 ventilatoroase.myshopify.com
+ventilstore.fr
 ventiorockgreenba.ml
 ventisisovo.ml
 ventivilgeivome.tk
@@ -78902,6 +78959,8 @@ viggoslotscasino1.fr
 viggoslotscasinofrance.fr
 viggoslotscasinoo.fr
 viggoslotscasinos.fr
+viggoslotsfrance.fr
+viggoslotsonline.fr
 vighrt.tokyo
 vigieaugouv.fr
 vigiecrue.fr
@@ -91849,12 +91908,14 @@ wild-dicecasino.fr
 wild-hub.fr
 wild-robin-fr.fr
 wild-robin-france.fr
+wild-robin-official.fr
 wild-robinofficiel.fr
 wild-sino.fr
 wild-sultan-casino.fr
 wild-sultan-fr.fr
 wild-sultan1.fr
 wild-sultanfr.fr
+wild-sultanfr1.fr
 wild-west-whippets.dk
 wildabimena.ga
 wildalobkovi.ml
@@ -91978,7 +92039,9 @@ wildstinomatin.gq
 wildsultan-casino-france.fr
 wildsultan-online.fr
 wildsultancasino-france.fr
+wildsultancasinofrance.fr
 wildsultanfr.fr
+wildsultanonline.fr
 wildtepdepoted.ml
 wildthesidefunc.tk
 wildthings.xyz
@@ -98504,7 +98567,9 @@ x7ajuht.tokyo
 x7bghoh.cyou
 x7casino1.fr
 x7casinofr.fr
+x7casinofrance.fr
 x7casinoonline.fr
+x7casinos.fr
 x7casinox7.fr
 x7ckaqq.tokyo
 x7dktx.cyou
