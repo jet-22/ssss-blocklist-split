@@ -2,6 +2,14 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
+razzlighsabiz.cf
+razzprazexun.tk
+razzranleliwood.ml
+razzrocamptelo.tk
+razzsusapeto.tk
+razztratlasumep.ga
+razzvedermeyprocmy.tk
+rb0n65.cyou
 rb1combattrelecrabe.info
 rb1ylr.cyou
 rb2772.tokyo
@@ -32056,7 +32064,6 @@ sovovopelcheli.gq
 sovypl.bar
 sow6t2.cyou
 sowaoptive.asia
-sowaswillichauch.de
 sowbrl.bar
 sowepirare.gq
 sowibarje.ga
@@ -42637,6 +42644,7 @@ system-activationclient.fr
 system-auth.fr
 system-ca.fr
 system-cadence-tools.github.io
+system-capital.org
 system-noticers.com
 system-prime.fr
 system-radar-tools.github.io
@@ -53205,6 +53213,7 @@ thorcasinos.fr
 thordi.xyz
 thorechazi.web.app
 thoreside.gq
+thorfortun-fr.fr
 thorfortune-france.fr
 thorfortune7.fr
 thorfortune777.fr
