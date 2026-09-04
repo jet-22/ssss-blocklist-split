@@ -2,24 +2,6 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
-razzlighsabiz.cf
-razzprazexun.tk
-razzranleliwood.ml
-razzrocamptelo.tk
-razzsusapeto.tk
-razztratlasumep.ga
-razzvedermeyprocmy.tk
-rb0n65.cyou
-rb1combattrelecrabe.info
-rb1ylr.cyou
-rb2772.tokyo
-rb3064.cyou
-rb3livu.cyou
-rb3p2.bar
-rb3tgh.shop
-rb3y0.bar
-rb4qe5.tokyo
-rb8ot9.cyou
 rb8w6i.cyou
 rbasvepenalar.tk
 rbbvlnu.tokyo
@@ -17661,6 +17643,7 @@ scanlitodo.tk
 scanmicricotota.ga
 scanmountadaburle.tk
 scannegbiospin.tk
+scannero.io
 scannetbutik.dk
 scanoctobolt.ml
 scanomjabvidi.ml
@@ -19133,6 +19116,7 @@ sdzsfysn.xyz
 sdzvzam.tokyo
 se-connecter-prime.fr
 se-e-mo.re
+se-emo.re
 se-sthqntm-64.com
 se-vignette-france.com
 se03c0.cyou
@@ -23499,6 +23483,7 @@ sg-casino-france.fr
 sg-casino.fr
 sg-casino1.fr
 sg-casinoofficiel.fr
+sg-casinos.fr
 sg-cdn-actualisation.fr
 sg-client.fr
 sg-clients.fr
@@ -30630,6 +30615,7 @@ sofil.ba
 sofimanfle.cf
 sofinco-caconsumerfinance.fr
 sofinco-financement.fr
+sofinco-finances.fr
 sofinco-france.fr
 sofinco-sa.fr
 sofinco-service.fr
@@ -30678,7 +30664,6 @@ softdns.biz
 softdorebachant.ga
 softdosamphilders.ml
 softdrivgatasonli.tk
-softelektro.com
 softeneddefenceinflation.com
 softeninsinuate.com
 softenopera.com
@@ -32686,6 +32671,7 @@ speechcountryarm.pw
 speechenpalsawax.ga
 speechesintorse.ml
 speechesonly.com
+speechfaith.com
 speechify.com
 speechirceherfams.ml
 speechlessreservedthrust.com
@@ -33149,6 +33135,7 @@ spinanga-fr.fr
 spinanga-france.fr
 spinanga-no-online.com
 spinanga-vip.fr
+spinanga1.fr
 spinangacasinoapp.fr
 spinangacasinoavis.fr
 spinangacasinobonus.fr
@@ -33191,6 +33178,7 @@ spinatneostamin.tk
 spinaura-avis.fr
 spinaura-casi.fr
 spinaura-casino.fr
+spinaura-casinos.fr
 spinaura-en-ligne.fr
 spinaura-officiel.fr
 spinaura.fr
@@ -33241,6 +33229,7 @@ spinboss2.fr
 spinbosse.fr
 spinbosses.fr
 spinbosss.fr
+spinbot.fr
 spinbucklychulpyehigh.tk
 spinbulsabestvers.tk
 spincasino-fr.fr
@@ -33331,6 +33320,7 @@ spinlapameanta.tk
 spinline-casino-online.de
 spinlogic.fr
 spinlycasino.fr
+spinlynx1.fr
 spinlynxcasino-fr.fr
 spinmacho-fr.fr
 spinmacho1.fr
@@ -37250,6 +37240,7 @@ stonesmentor.com
 stonetales.it
 stonevariable.icu
 stonevegacasino.fr
+stonevegas-casinos.fr
 stonevegas-official.fr
 stonevegascasino.fr
 stonevegascasinoapp.fr
@@ -42386,6 +42377,7 @@ sylskilsoftassist.com
 syltacoffkecihelm.ga
 syltearddistmort.ml
 sylvainmultiservices.fr
+sylvie-jacques.com
 sylvieboutique.de
 sylzitawissaty.tk
 sym5kz.cyou
@@ -58499,6 +58491,7 @@ togelsydneypools.org
 togepukele.gq
 togerupnome.tk
 togesusmusar.gq
+together-casinos.fr
 togetheraddrange.biz
 togethercasinofr.fr
 togethercasinos.fr
@@ -78273,6 +78266,7 @@ verdanorthpihal.tk
 verdaugiggtiti.ga
 verday.my.id
 verdcarchimor.cf
+verde-casinos.fr
 verde-cassino-france.fr
 verde-cassinofr.fr
 verde-wallet.com
@@ -86253,6 +86247,7 @@ vptdpq.bar
 vpticr.bar
 vptviqjwq.xyz
 vptvya.tokyo
+vpu-vorbereitung.com
 vpu-vorbereitung.online
 vpucenter.dk
 vpufuchs.com
@@ -94284,6 +94279,7 @@ winbeast-casino.fr
 winbeast-fr.fr
 winbeat.fr
 winbeatz-casino.fr
+winbeatz-casinos.fr
 winbeatz-france.fr
 winbeatz-officielle.fr
 winbeatz-paris.fr
