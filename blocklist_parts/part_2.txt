@@ -2,6 +2,7 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
+rbdmpkrfb.blogger.ba
 rbdnpf.rest
 rbdr2p.tokyo
 rbdsz.com
@@ -18056,6 +18057,7 @@ schifaspidili.ml
 schifcappailifi.cf
 schifdeicansdosbooksmar.tk
 schiffbootsteile.com
+schiffbox.com
 schifiswhoehalceiti.ml
 schifqueneneemftoucin.cf
 schilalnoctiografur.tk
@@ -23154,6 +23156,7 @@ sfdkwl.cyou
 sfdmwl.cyou
 sfduww.rest
 sfeexv.bar
+sfeir.com
 sfejm.yt
 sfen.cc
 sfephj.tokyo
@@ -30525,9 +30528,12 @@ sodersfenne.ga
 sodervernmullynid.cf
 sodetedawor.ml
 sodex-da.fr
+sodexco-leclerc.fr
+sodexco-lelerc.fr
 sodexo-groupe.fr
 sodexo-groupes.fr
 sodexo-groups.fr
+sodexo-lelerc.fr
 sodexo-pass-france-sa.fr
 sodexo-sas.fr
 sodexogroupe.fr
@@ -30656,6 +30662,7 @@ softdns.biz
 softdorebachant.ga
 softdosamphilders.ml
 softdrivgatasonli.tk
+softelektro.com
 softeneddefenceinflation.com
 softeninsinuate.com
 softenopera.com
@@ -32041,6 +32048,7 @@ sovovopelcheli.gq
 sovypl.bar
 sow6t2.cyou
 sowaoptive.asia
+sowaswillichauch.de
 sowbrl.bar
 sowepirare.gq
 sowibarje.ga
@@ -32190,6 +32198,7 @@ spaceweb.xyz
 spacewellwaysproblems.bar
 spacewordwaypeople.biz
 spacex.yt
+spacexfy.ai
 spacfiltcolsipe.tk
 spacherropurswi.tk
 spacid.xyz
@@ -36303,6 +36312,7 @@ steinbichler-online.de
 steinbohrershop.com
 steiner-kg.at
 steiner-wien.at
+steinermode.at
 steinersearch.at
 steinhaus-berlin.co
 steinkamp-container.com
@@ -37709,6 +37719,7 @@ stqvie.bar
 stqvjw.bar
 strabenmotorrad.com
 stradellanostra.it
+stradivarius-fr.fr
 stradivariusfr.fr
 stradivariusfrance.fr
 stradivariusoutlet.fr
@@ -75521,6 +75532,7 @@ vapecigs.net
 vapecomteherdie.tk
 vapecupsearchma.ga
 vapegunstig.de
+vapekiste.com
 vapekitprime.com
 vapeltecadeta.tk
 vapepage.pl
@@ -84302,6 +84314,7 @@ vistadu.xyz
 vistamagazine.com
 vistanabaringlo.tk
 vistaporirenlink.ga
+vistaprint.tf
 vistaprinte.fr
 vistarprint.com
 vistatifenliga.gq
@@ -93498,8 +93511,12 @@ wild-robin-france.fr
 wild-robin-official.fr
 wild-robinofficiel.fr
 wild-sino.fr
+wild-sultan-app.fr
 wild-sultan-casino.fr
 wild-sultan-fr.fr
+wild-sultan-game.fr
+wild-sultan-online.fr
+wild-sultan-slots.fr
 wild-sultan1.fr
 wild-sultanfr.fr
 wild-sultanfr1.fr
