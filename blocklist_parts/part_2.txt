@@ -2,6 +2,13 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
+randershobbyimport.dk
+randerslions.dk
+randfaldestheadsli.cf
+randicampillo.xyz
+randilewest.tk
+randiminarfai.ga
+randiolegasi.tk
 randistmahots.ga
 randjackhunthostniro.tk
 randmabephyvesign.gq
@@ -1585,6 +1592,7 @@ reactivation-compte.fr
 reactivation-espace-lbp.fr
 reactivation-espaces.fr
 reactivation-info.fr
+reactivation-merchant-center.fr
 reactivation-netflix.fr
 reactivation-nflx.fr
 reactivation-pl.fr
@@ -21412,6 +21420,7 @@ seemoo.re
 seemoree.re
 seemoreon.de
 seemorre.re
+seemro.re
 seemsallcurrent.rest
 seemsworkteamstops.biz
 seemucanta.tk
@@ -64581,6 +64590,7 @@ troi9r.xyz
 troianimoto.it
 troiealtelefono899.com
 troiphveilla.de
+trois-suisses.fr
 trojalesadeshyd.tk
 trojanonsolbot.com
 trojbedibutmi.tk
@@ -104407,6 +104417,7 @@ xn--fct840ey3c.wang
 xn--fed.com
 xn--ferienwohnung-krnten-pzb.eu
 xn--ferienwohnung-sterreich-llc.eu
+xn--ffrandonne-j7a.fr
 xn--fiq02ep7wukd.wang
 xn--fiq22lfzcku7b.wang
 xn--fiq50lfulivco1h1x0d.com
