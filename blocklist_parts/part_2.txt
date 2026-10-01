@@ -2,6 +2,36 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
+racwos.tokyo
+racxeragezletb.tk
+racyligil.tk
+rad-teile.com
+radabisincsoper.cf
+radablichothua.cf
+radachostneardires.gq
+radamm.net
+radapumaha.cf
+radarr.com
+radarturf.org
+radbasis.com
+radbekleidung4u.com
+radbot.xyz
+radcliffezachary.xyz
+raddbesvendlera.tk
+radddiscwalesboamar.gq
+raddnutrnosulco.gq
+radearcimatop.tk
+radebeulbuch.de
+radecentvanmingcon.ga
+radeeka.xyz
+radeepfhanphapaschoo.tk
+radegasgui.ga
+radelebmiconor.cf
+radelhelden.com
+rademisrime.tk
+radenlenare.cf
+radepdowtstephasic.gq
+radepnuiscootli.ga
 radercyrigilou.tk
 raderfdemobomdu.tk
 raderlirana.tk
@@ -5519,6 +5549,7 @@ remelacenttrad.gq
 remeloci.tk
 remelotabbu.tk
 remembercountry.bar
+rememberdeshop.com
 rememberfivetime.biz
 remembermanworld.biz
 rememberstudent.buzz
@@ -26331,7 +26362,6 @@ shermannas-d3153.web.app
 shermozz.xyz
 sherosokhan.com
 sherrymerriamcounseling.com
-sherum.com
 sherwoodknowledge.com
 shescasesproblem.biz
 sheseatsthingseye.bar
@@ -37523,6 +37553,7 @@ stadedefrance-billetterie.fr
 stadedefrance-kaaris.fr
 stadedefrance-niska.fr
 stadedefrance-sch.fr
+stadefrance-sdm.fr
 staderendime.tk
 staderennaisfc.fr
 stadeslelisen.tk
@@ -40313,6 +40344,7 @@ streetsyetproject.mom
 streetsynergies.com
 streettennis.eu
 streetviewer.online
+streetwearmode.shop
 strefauvc.pl
 strefawolnosci.eu
 streibl-garten24.de
@@ -43126,6 +43158,7 @@ support-renouvellement-impot-etats.fr
 support-renouvellement-netflix.fr
 support-renouvellement.fr
 support-restriction-netflix.fr
+support-rnicrosoft.fr
 support-sante.fr
 support-securise-paiement.fr
 support-securite-ce.fr
@@ -87287,6 +87320,7 @@ vivaharmoni.com
 vivahost.host
 vivaia-schuhe.de
 vivaiaboutiques.fr
+vivaiacollection.com
 vivaiaparis.fr
 vivaiaschaussures.fr
 vivaiaschuhe.at
@@ -92066,6 +92100,7 @@ wasavinaba.gq
 wasawebloo.tk
 wasbroke.com
 wascheparfume.de
+waschmaschinen-spezialist.de
 waschzeichen.my.id
 waschzone.com
 waserdimingwind.ml
@@ -96226,6 +96261,7 @@ wiilgz.com
 wiimenrosandda.tk
 wiinamax.fr
 wiinbeastt.fr
+wiinspin.fr
 wiipczf.bar
 wiiralt.ee
 wiiselfdiscla.ga
@@ -105040,6 +105076,7 @@ xjxy60.cyou
 xjxyxh.cyou
 xjy41fr.tokyo
 xjyaxing.ru
+xjyehli.shop
 xjyirmn.bar
 xjyjiy.rest
 xjyjzq.com
