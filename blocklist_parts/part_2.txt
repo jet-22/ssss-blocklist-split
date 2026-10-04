@@ -2,10 +2,6 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
-radowouphycysand.ml
-radpfa.bar
-radpfa.rest
-radrax.com
 radrudel.de
 radsarepic.ml
 radselect.de
@@ -3541,6 +3537,7 @@ recroviterrazzpe.cf
 recruitillustratelead.com
 recruitingsolutions.com.au
 recruitya.de
+recrutement-afpa.fr
 recrutement-france.fr
 recrutement-indeed.fr
 recrutement-macif.fr
@@ -3738,6 +3735,7 @@ redcpidpranddeaprmis.cf
 redcrareraluches.tk
 redcube.xyz
 reddcoin.xyz
+redddit.com
 reddead-redemption.fr
 reddenklicapou.tk
 reddice-casino.fr
@@ -3748,6 +3746,8 @@ reddit.red
 redditmaster.com
 reddmeansnorthmo.tk
 reddowntudi.tk
+reddtit.com
+reddtt.com
 redeba.tk
 redebpalamra.gq
 redecintwebgane.ga
@@ -3880,8 +3880,10 @@ redislepede.tk
 redisriarode.gq
 redistribution-chronopost.fr
 redisuwhistges.tk
+redit.com
 rediterichso.ga
 rediticare.tk
+reditt.com
 redjapan.web.app
 redjovenes.es
 redjuserbocil.ga
@@ -5452,7 +5454,6 @@ remilio.org
 remilomedorf.cf
 remimitsepiri.tk
 remimosaget.ga
-remington.com.de
 remingtons.co.at
 reminimodapk.com.in
 reminolbutars.cf
@@ -8290,7 +8291,6 @@ rho7ip.tokyo
 rhodalatdfathryu.ml
 rhode.co.at
 rhodenlukasur.tk
-rhodeshotel24.com
 rhodicavramrionen.tk
 rhodocextoben.tk
 rhodolmarno.tk
@@ -14852,6 +14852,7 @@ run0opk.shop
 run4rare.it
 run4win-casino.fr
 run5dd.cyou
+runa-cas1no.fr
 runacasino-fr.fr
 runacasino-france.fr
 runacasino7.fr
@@ -15471,7 +15472,6 @@ rx-discount.com
 rx-pharma.net
 rx-pharmacies.com
 rx-qualityshop.com
-rx-true.com
 rx186d.cyou
 rx1eesa.cn
 rx1ekn.xyz
@@ -20295,6 +20295,7 @@ schliffka-immobilien.de
 schlitz-can-mehr.de
 schloesschen-greiz.de
 schloss-pichler.at
+schlossgartenmode.com
 schlossgartenviertel.de
 schluchsee-ferienwohnung.de
 schluessel-maxi.at
@@ -22770,7 +22771,6 @@ selepmasin.ga
 self-defense-kung-fu.com
 self-love-shop.com
 self-lyfpay.fr
-self-portrait.com.de
 selfab.tokyo
 selfalacora.ml
 selfbeautycare.com
@@ -26222,6 +26222,7 @@ shermannas-d3153.web.app
 shermozz.xyz
 sherosokhan.com
 sherrymerriamcounseling.com
+sherum.com
 sherwoodknowledge.com
 shescasesproblem.biz
 sheseatsthingseye.bar
@@ -29866,6 +29867,8 @@ skunkery.best
 skunmorkimbleluro.tk
 skunteplibaread.tk
 skupdhy.cyou
+skurvorizan-ai.fr
+skurvorizan-fr.fr
 skurvorizan.at
 skusfr.bar
 skuso.cyou
@@ -30532,6 +30535,7 @@ slotitonraeding.cf
 slotlair-casino.fr
 slotlair-casinos.fr
 slotlair-fr.fr
+slotlair-france.fr
 slotlair.fr
 slotlairbonus.fr
 slotlaircasino-fr.fr
@@ -30625,6 +30629,7 @@ slotsvils.fr
 slott-casino.fr
 slott-casinos.fr
 slotter.fr
+slottica-cas1no.fr
 slotticacasino.fr
 slottio-fr.fr
 slottio.fr
@@ -35039,7 +35044,6 @@ speedonenboju.tk
 speedopexanbes.tk
 speedoposhargesch.ml
 speedorromfuncma.tk
-speedos.co.at
 speedotneboxstino.ga
 speedpaint.co
 speedpaint.net
@@ -35784,6 +35788,7 @@ spinsahara-casino.fr
 spinsahara.fr
 spinsaharacasino.fr
 spinsaharas.fr
+spinsala-cas1no.fr
 spinsala-fr.fr
 spinsaltnepenstare.tk
 spinsalto.fr
@@ -37561,6 +37566,7 @@ stakenl.fr
 stakeofficial.fr
 stakeonline.fr
 stakeprix-casino.fr
+stakeprix-fr.fr
 stakeprix.fr
 stakeprixcasino.fr
 stakereload.site
@@ -39817,6 +39823,7 @@ store-ugg.fr
 store.aeotec.com
 store.aktuellerezensionen.de
 store.app-valley.vip
+store.jorbray.com
 store.kestrelby.com
 store.kingslora.com
 store.promomesh.com
@@ -43075,6 +43082,7 @@ supportauth-ameli.fr
 supportauth-netflix.fr
 supportbd.fr
 supportbinance.fr
+supportbooking.fr
 supportboursoramamisejour.fr
 supportcartevital.fr
 supportcartevitale.fr
@@ -61868,7 +61876,6 @@ toppcroworbedtemp.cf
 toppdf.co
 toppgusrere.tk
 topphiechesamen.ml
-toppillsstore.com
 topplistheopabeli.gq
 topplumbersnearby.club
 topproducer.xyz
@@ -65848,6 +65855,7 @@ tronexusbigchand.gq
 tronfernipapo.ml
 tronforum.xyz
 trongecilhada.gq
+tronicaltune.net
 tronicimunca.tk
 tronicleakodesko.tk
 troninloha.cf
@@ -66478,6 +66486,7 @@ tryence.my.id
 tryered.my.id
 tryfivemore.com
 tryfono.com
+tryfroyaorganics.shop
 tryfrr.tokyo
 tryglycogenplus.com
 trygothqryzpobbits.tk
@@ -74985,6 +74994,7 @@ urb9pl.tokyo
 urbact.fr
 urbalmititfidi.cf
 urban-casino.fr
+urban-kinder.com
 urban-rituals.shop
 urban-shaman.dk
 urban-transporte.com
@@ -77812,6 +77822,7 @@ valophishabitat.fr
 valora-shop.com
 valorandco.nl
 valorantranks.com
+valorex-fr.fr
 valori-morali.it
 valpeserdosechun.ga
 valphybomenha.cf
@@ -80080,6 +80091,7 @@ vegashuntercasino.fr
 vegasino-1.fr
 vegasino-app.fr
 vegasino-bonus.fr
+vegasino-casino-fr.fr
 vegasino-en-ligne.fr
 vegasino-enligne.fr
 vegasino-france.fr
@@ -80142,6 +80154,7 @@ vegastars-casino.fr
 vegastarscasino.fr
 vegasteeshirts.net
 vegatebotune.tk
+vegaz-cas1no.fr
 vegaz-fr.fr
 vegazcasino-fr.fr
 vegazcasino-france.fr
@@ -83171,6 +83184,7 @@ vikhl8.cyou
 viking-cnc.com
 viking-luck-casino.fr
 viking-luckcasino.fr
+viking-outlet.at
 viking-solutions.com
 vikingegryden.dk
 vikingluck-casino.fr
@@ -87147,6 +87161,7 @@ vivaharmoni.com
 vivahost.host
 vivaia-schuhe.de
 vivaiaboutiques.fr
+vivaiacollection.com
 vivaiaparis.fr
 vivaiaschaussures.fr
 vivaiaschuhe.at
@@ -92540,6 +92555,7 @@ wavellerssparsubve.tk
 waveriderco.com
 wavesneakers.fr
 wavesphyterremoo.ga
+wavestatix-fr.fr
 wavevents.it
 wavevisionag.com
 wavingconcludeauction.com
@@ -94856,6 +94872,7 @@ westormed-paris-official.fr
 westoutlet.fr
 westparihua.ga
 westpersserthodi.cf
+westphal-partner.com
 westpodedicwitac.ml
 westportvacationbythesea.com
 westptarcontgrosguna.tk
@@ -96302,6 +96319,7 @@ wildsadophiphepe.tk
 wildschlaf.com
 wildsino-casino.fr
 wildsino-casinos.fr
+wildsino-com.fr
 wildsino-en-ligne.fr
 wildsino-enligne.fr
 wildsino-fr.fr
@@ -96347,6 +96365,7 @@ wildzcasino.fr
 wildzenligne.fr
 wildzibebiluro.tk
 wildzy-casinos.fr
+wildzy-com.fr
 wildzy-enligne.fr
 wildzy-fr.fr
 wildzy-france.fr
@@ -96528,6 +96547,7 @@ win-big-bonus-here8.life
 win-big-bonus-here9.life
 win-big-here.com
 win-boost-casino.fr
+win-cas1no.fr
 win-casino-unique.fr
 win-clicker-online.buzz
 win-disney-transfer.fr
@@ -96577,6 +96597,7 @@ win-tails-casino.fr
 win-tails.fr
 win-tailscasino.fr
 win-tomato.fr
+win-unique-cas1no.fr
 win-unique-casinos.fr
 win-unique-fr.fr
 win-unique-official.fr
@@ -97487,6 +97508,7 @@ winsioridte.tk
 winsl.xyz
 winslongso.ga
 winslornmisema.ml
+winsmachance.fr
 winsomeshoppes.com
 winsota.cf
 winspark-1.fr
@@ -113019,7 +113041,6 @@ yonye5n.cyou
 yonzdy.rest
 yoo4c3.cyou
 yoocaa.com
-yoohal.com
 yoohoo.cards
 yoohoo.cards
 yoolle.com
@@ -118831,6 +118852,7 @@ zertnonshardpacdebow.ml
 zertraconpo.ga
 zertsatha.cf
 zerukim.bar
+zervulkait-fr.fr
 zescompbulbcalcyapo.tk
 zesdrp.tokyo
 zeser.xyz
@@ -122069,6 +122091,7 @@ zwdpza.rest
 zwdvpj.bar
 zwdvyqd.work
 zwe5e5.cyou
+zweirad-handel.com
 zweiradbackhaus.de
 zweisteintrading.eu
 zwejjso.tokyo
