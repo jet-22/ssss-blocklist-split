@@ -2,30 +2,6 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
-radrudel.de
-radsarepic.ml
-radselect.de
-radsoowoltiolanra.tk
-radspafalsfave.tk
-radsport-viernheim.de
-radssmutintartiua.tk
-radswadzacuma.gq
-radteil.de
-radteiledeal.com
-radthqk.bar
-radtrikotoutlet.de
-radtrikottourdefrance.de
-radumadmotabta.ga
-raduncoten.tk
-radunmiledwa.gq
-raduprare.tk
-radusrabergi.tk
-radverkauf.com
-radvienulmiddsi.ga
-radwagonaffluence.pw
-radzeit.com
-radzem.rest
-radzubehoerde.com
 raebatalrotencay.ga
 raeberfathanma.tk
 raebraskohtiben.cf
@@ -3397,6 +3373,7 @@ reckonftacodownti.tk
 recksmutluamogsicer.cf
 reckversxuhu.gq
 reclaim.ai
+reclamation-cnil.fr
 reclamation-cofidis.fr
 reclamation-critairgouv.fr
 reclamation-prime.fr
@@ -9614,6 +9591,7 @@ rignlw.bar
 rigocquiblood.gq
 rigoldrecchale.ga
 rigollinktremgus.gq
+rigotkamin.com
 rigrotega.tk
 rigtuaberding.tk
 rigveda.net
@@ -13156,6 +13134,7 @@ rossignoloutlet.fr
 rossjumbestdi.tk
 rosslicompporsi.tk
 rossly.pl
+rossmann.tf
 rossnd.tokyo
 rossstocalolores.gq
 rosstoduteszepea.tk
@@ -14883,6 +14862,7 @@ rundfunkbeitragonline.de
 rundfunkbeitragportal.de
 rundfunkbeitragsserviceonline.de
 rundfunkportal.de
+rundholzdirekt.de
 rundiffusion.com
 rundiffusion.com
 rundrejser.eu
@@ -15472,6 +15452,7 @@ rx-discount.com
 rx-pharma.net
 rx-pharmacies.com
 rx-qualityshop.com
+rx-true.com
 rx186d.cyou
 rx1eesa.cn
 rx1ekn.xyz
@@ -18132,7 +18113,6 @@ sandalesoldefrance.fr
 sandalesrobes.fr
 sandalo.shop
 sandamichechou.cf
-sandarthome.com
 sandbarfrankfurt.de
 sandbobgaysucbuycouv.ga
 sandbogizeseza.ml
@@ -19939,6 +19919,7 @@ scarwoodsvertoci.ml
 scarybm.web.app
 scasanwoodlast.tk
 scaso-distribution.fr
+scaso-leclerc.fr
 scatatfortidel.ga
 scatberriugrunce.tk
 scatbestpahartrero.ga
@@ -20598,6 +20579,7 @@ scientistssound.de
 scientistwaters.rest
 scienzaericerca.cloud
 scienzafumetti.it
+scieriesaugues.de
 scierzl.tokyo
 scifiaddicts.com
 scifinuts.net
@@ -27786,6 +27768,7 @@ simesrereli.ml
 simevte.my.id
 simewaneti.ml
 simewerraesleek.tk
+simex24shop.com
 simgata.pl
 simgewathornma.ga
 simgfo.tokyo
@@ -42862,6 +42845,7 @@ support-ameli.fr
 support-ameliauth.fr
 support-amelie.fr
 support-amelifrances.fr
+support-amende.fr
 support-amendes-antai.fr
 support-amendes.fr
 support-amzn.fr
@@ -59396,6 +59380,7 @@ tiscelabfoosuppcen.tk
 tischlampenstore.com
 tischlerei-brouns.de
 tischlerei-eckart.de
+tischlereijache-shop.de
 tischool.ro
 tischtennis-korntal.de
 tischtennisde.com
@@ -113041,6 +113026,7 @@ yonye5n.cyou
 yonzdy.rest
 yoo4c3.cyou
 yoocaa.com
+yoohal.com
 yoohoo.cards
 yoohoo.cards
 yoolle.com
