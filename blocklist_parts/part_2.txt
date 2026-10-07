@@ -2,10 +2,6 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
-radioclubsalina.it
-radiocolorata.eu
-radiodalsan.net
-radioeducatedhandling.com
 radiofactworkhopes.biz
 radioferrante.it
 radiofmtotal.com.ar
@@ -2527,6 +2523,7 @@ rdz63g.cyou
 rdzslh.bar
 re-activation.fr
 re-edit.site
+re-hartmann.de
 re-media.info
 re-planification-mondialrelay-enligne.fr
 re-planification-service-enligne.fr
@@ -10885,6 +10882,7 @@ rivocas1no.fr
 rivocasino-fr.fr
 rivocasino.fr
 rivocasino1.fr
+rivocasinofrance.fr
 rivonalto.cf
 rivonza.de
 rivorna.de
@@ -14695,7 +14693,6 @@ ruebyefeitfulagef.ml
 ruecentcomjunccon.tk
 ruechrissumpbes.gq
 rueckwaertssuche.de
-rueckwandshop-de.com
 rueclinosdowalli.ml
 ruedamhackfenanfea.tk
 ruedecommerce.fr
@@ -14867,6 +14864,7 @@ rulige.tokyo
 rulinkcornmefimer.cf
 rulinuavape.tk
 rulisamrahybra.ml
+rullendiscount.com
 rullserveis.es
 rulmtzw.tokyo
 rulpdb.tokyo
@@ -27707,6 +27705,7 @@ silasila.tk
 silbecherila.tk
 silbergipfel.de
 silberschmuckpro.com
+silberthil.com
 silbetupearfund.tk
 silbobsni.tk
 silbubbsapprolcinog.gq
@@ -27790,6 +27789,7 @@ sillesocity.tk
 sillindlustcetdenttur.ga
 sillmagsaudsomlurow.ga
 silmephistsedmo.tk
+silmerthal.com
 silmodiburzhei.cf
 silnauprofunfabboa.tk
 silnuimetune.ml
@@ -42672,6 +42672,7 @@ super-tester.de
 super-treuhand.de
 super-u-perdis.fr
 super-u-u.fr
+super-u.yt
 super-unix.com
 super-xinqiutiyu-online.com
 super-zone-prizes.life
@@ -42792,6 +42793,7 @@ superredtigerstore.fr
 superreply.co
 superreply.co
 superretailstore.com
+supers-u.yt
 superseaman.xyz
 supership.top
 supershoperbd.com
@@ -56807,6 +56809,7 @@ ticketlegende.fr
 ticketmadter.fr
 ticketmall.fr
 ticketmania.fr
+ticketmarketplace.fr
 ticketmast.fr
 ticketmaste.fr
 ticketmastee.fr
@@ -59502,6 +59505,7 @@ tischlerei-brouns.de
 tischlerei-eckart.de
 tischlereijache-shop.de
 tischool.ro
+tischprofi.com
 tischtennis-korntal.de
 tischtennisde.com
 tischtennisrabatt.com
@@ -71016,6 +71020,7 @@ uggtrz4.cyou
 uggukoutletfactory.com
 uggunivers.fr
 uggweb.com
+uggystore.fr
 ugh7et.cyou
 ughkwub.bar
 ughlpj.bar
@@ -72264,6 +72269,7 @@ umqltd.bar
 umqltd.rest
 umqmpw.tokyo
 umrckb.rest
+umrechnung.mdhsh.com
 umrhyqo.cn
 umrimillugithe.tk
 umrofootrini.tk
@@ -87294,9 +87300,9 @@ vivaharmoni.com
 vivahost.host
 vivaia-schuhe.de
 vivaiaboutiques.fr
+vivaiacollection.com
 vivaiaparis.fr
 vivaiaschaussures.fr
-vivaiaschuhe.at
 vivaiaschuhe.com
 vivaiaschuhe.de
 vivaiaschuhesale.de
@@ -91418,6 +91424,7 @@ wakid.xyz
 wakiga-takan.buzz
 wakkxf.tokyo
 wakritransport.com
+wakudelou.com
 wal23.cyou
 walandhurosa.tk
 walaoguan.com
@@ -98329,6 +98336,7 @@ wknaxc.rest
 wknfex.tokyo
 wkngmy.bar
 wkntse.cyou
+wko.com
 wko7m7.cyou
 wkoihik.bar
 wkoxogux.cyou
@@ -105153,6 +105161,7 @@ xkluzf.bar
 xklw4.cyou
 xkm41j.cyou
 xkmaixd.tokyo
+xkmtmsgm.shop
 xknhmf.cyou
 xkocpg.tokyo
 xkod1j.xyz
