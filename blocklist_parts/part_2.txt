@@ -2,28 +2,6 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
-radiofactworkhopes.biz
-radioferrante.it
-radiofmtotal.com.ar
-radiofmwolf.be
-radioisa.fr
-radioitssprogram.buzz
-radiolatina.eu
-radiolifesprograms.biz
-radiolindtner.dk
-radiolive24.com
-radiologi-mim.fr
-radiologia-interventistica.it
-radiologie-bourg-la-reine.fr
-radiologie33.fr
-radiolotetgaronne.fr
-radiomajoritynights.biz
-radiomelodydistomo.eu
-radiomeridiano12.it
-radiometro.com.py
-radiomythodea.eu
-radionyhederne.dk
-radioportal.com
 radiopreventworld.buzz
 radioprotalant.ru
 radioraj.xyz
@@ -5425,6 +5403,7 @@ remblongbos.com
 rembourse-edf.fr
 remboursement-ameli.fr
 remboursement-antai.fr
+remboursement-anticipe-cofidis.fr
 remboursement-assurance-maladie.fr
 remboursement-banque-france.fr
 remboursement-bouyguestelecom.fr
@@ -20571,6 +20550,7 @@ schuhegiesswein.com
 schuhegunstignice.de
 schuhehoka.de
 schuhejordan.de.com
+schuhelueke.com
 schuhescarpa.com
 schuheverkauf-de.com
 schuhewienshoponline.com
@@ -22676,6 +22656,7 @@ seikofr.fr
 seikofrance.fr
 seikosboutique.fr
 seikouhr.de
+seikowatches.fr
 seilengacapdai.tk
 seiliflepageron.tk
 seilingsearchrachi.tk
@@ -26872,6 +26853,7 @@ shujuwang.de
 shukufuku.my.id
 shull2agb.web.app
 shunanjy.com
+shunauto.com
 shunboures.xyz
 shungrill.com
 shunlixidi.com
@@ -29213,6 +29195,7 @@ siusterimgee.ml
 siutsotanev.tk
 siuzaaniting.ga
 siv-adergouv.fr
+siv-ants.fr
 siv-antsgouv.fr
 siv-gouvants.fr
 siv-immatriculation.fr
@@ -33024,7 +33007,6 @@ softdns.biz
 softdorebachant.ga
 softdosamphilders.ml
 softdrivgatasonli.tk
-softelektro.com
 softeneddefenceinflation.com
 softeninsinuate.com
 softenopera.com
@@ -37617,6 +37599,8 @@ stake-casino2.fr
 stake-casinos.fr
 stake-en-ligne.fr
 stake-enligne.fr
+stake-jeux.fr
+stake-login.fr
 stake-nl.fr
 stake-officiel.fr
 stake-online.fr
@@ -37634,6 +37618,7 @@ stake7online.fr
 stakebetvip.com
 stakeca.com
 stakecas1no.fr
+stakecasino-app.fr
 stakecasino-fr.fr
 stakecasino-france.fr
 stakecasinofr.fr
@@ -39919,7 +39904,7 @@ store.aktuellerezensionen.de
 store.app-valley.vip
 store.jorbray.com
 store.kestrelby.com
-store.kingslora.com
+store.mavelimira.com
 store.promomesh.com
 store.rensby.com
 store.rosebournea.com
@@ -44252,6 +44237,7 @@ sweets7hustlerz.com
 sweetsaltysale.com
 sweetsatikindter.ml
 sweetsino-casino.fr
+sweetsino-fr.fr
 sweetsinocasino.fr
 sweetsparadise.xyz
 sweettewyracpo.cf
@@ -52789,6 +52775,7 @@ tesla.watch
 tesla.yt
 teslabatterie.fr
 teslacoin.io
+teslacoininc.org
 tesladigitale.fr
 teslafrance.fr
 teslaitrolringpearcold.ga
@@ -59505,7 +59492,6 @@ tischlerei-brouns.de
 tischlerei-eckart.de
 tischlereijache-shop.de
 tischool.ro
-tischprofi.com
 tischtennis-korntal.de
 tischtennisde.com
 tischtennisrabatt.com
@@ -64884,7 +64870,6 @@ trembefersstamtinting.ml
 tremchiepuviri.tk
 tremcingocorki.cf
 tremcomnesofhemi.gq
-tremel.at
 tremellineous.best
 trememursurre.ml
 tremenwicolus.ml
@@ -72269,7 +72254,6 @@ umqltd.bar
 umqltd.rest
 umqmpw.tokyo
 umrckb.rest
-umrechnung.mdhsh.com
 umrhyqo.cn
 umrimillugithe.tk
 umrofootrini.tk
@@ -75395,6 +75379,7 @@ ursfyj.rest
 ursigrocore.cf
 ursimagripel.gq
 ursimanewpveran.tk
+ursime.com
 ursiwolibmafo.gq
 urskipiremamag.tk
 ursohozoombcoun.gq
@@ -87327,6 +87312,7 @@ vive-les-soldes.com
 vivefulmesiwho.ga
 vivelebassin.com
 vivemon-casino.fr
+vivendi-universal-interactive.fr
 vivendiuniversal.fr
 vivenso.ee
 vivensowasserstaubsauger.de
@@ -88512,6 +88498,7 @@ von-gortz-cattery.dk
 vonaco.fr
 vonauto.de
 voncappelen.dk
+voncleir.com
 vondacoco.com
 vondaro.de
 vondur.xyz
@@ -92113,6 +92100,7 @@ wasserflorashop.com
 wasserkreislaufbracne.pw
 wasserlehrpfad-pegnitz.de
 wasserpflegede.com
+wasserruderangebote.com
 wasserspender-deutschland.de
 wassersportwert.com
 wasserwelpen.de
@@ -94791,6 +94779,7 @@ werkerswelt-moelln.de
 werkesesneopor.gq
 werkgeist.com
 werkora-industrial.com
+werkstatt-teile.com
 werkstattgerateprofi.com
 werkstattgitter.com
 werkstattmaschinen.com
@@ -96242,6 +96231,8 @@ wiilgz.com
 wiimenrosandda.tk
 wiinamax.fr
 wiinbeastt.fr
+wiinbeatz.fr
+wiinhero.fr
 wiinspin.fr
 wiipczf.bar
 wiiralt.ee
@@ -97570,6 +97561,7 @@ winorama-casinos.fr
 winorama-fr.fr
 winorama-official.fr
 winoramacasino1.fr
+winoramafr.fr
 winoramaonline.fr
 winoramas.fr
 winorio-casino.fr
@@ -97600,6 +97592,7 @@ winouicasino-france.fr
 winouicasino1.fr
 winouicasinofr.fr
 winouicasinofrance.fr
+winouiconnexion.fr
 winouifr.fr
 winouionline.fr
 winouis.fr
@@ -97744,6 +97737,7 @@ winuniqueapp.fr
 winuniquebonus.fr
 winuniquecasino-fr.fr
 winuniquecasinos.fr
+winuniqueconnexion.fr
 winuniquefr.fr
 winuniqueofficial.fr
 winuniqueonline.fr
@@ -106295,6 +106289,7 @@ xn--tlpaiement-amendes-bwbb.fr
 xn--tlpaiement-en-ligne-bzbb.fr
 xn--tmu-bma.fr
 xn--tp-isant-i1a.fr
+xn--transitionnergtiquegouv-kcce.fr
 xn--tribunal-de-premire-instance-de-paris-oid.fr
 xn--u-pariscit-k7a.fr
 xn--ulys-page-g4a.fr
@@ -120962,6 +120957,7 @@ zoodisminsdungtirock.ml
 zooesqv.bar
 zoofortmicisuc.tk
 zoogeritidi.ml
+zoogwshu.shop
 zoohaus-langenhorst.de
 zoohcpj.cn
 zookatzeshop.com
