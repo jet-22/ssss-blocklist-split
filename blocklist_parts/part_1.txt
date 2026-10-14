@@ -2762,6 +2762,7 @@
 1-jj.xyz
 1-rx-shop.com
 1-speaking.com
+1-win.fr
 1-wins.fr
 1.0.218.230
 100.20.104.229
@@ -53535,6 +53536,7 @@ banquecaissedepargne.fr
 banqueccic.fr
 banquecentraleeuropeene.fr
 banquecentraleeuropeenne.fr
+banquechalus.fr
 banquede-france.fr
 banquedebourse.fr
 banquedefr-assistance.fr
@@ -56734,6 +56736,7 @@ berggistdevalchond.tk
 berggrat.com
 berggreenaril.tk
 berghandgranen.tk
+berghausfrance.fr
 berghoffshop.fr
 berghofftools.fr
 berghotel-marlstein.de
@@ -58161,6 +58164,7 @@ beticcasino.fr
 beticesgainous.ga
 betico.fr
 betided.com
+betify--fr.fr
 betify-1.fr
 betify-android.fr
 betify-apk.fr
@@ -65074,6 +65078,7 @@ bordeauxlac-cybertek.fr
 bordereau-leboncoin.fr
 bordereau-paysecurise.fr
 bordereaudedepotsecurise.fr
+bordereaudepotsecuriser.fr
 borderhosts.co.uk
 bordifudadi.ga
 bordigheraltra.it
@@ -65111,6 +65116,7 @@ borgvicolde.gq
 borhlansvirrficarsa.cf
 borhymarriope.gq
 boridashop.de
+boringcompany.com
 boringodyli.tk
 borirowingss.gq
 borizade.xyz
@@ -75784,6 +75790,7 @@ casinos-ra.fr
 casinos-simsinos.fr
 casinos-spinanga.fr
 casinos-spinmama.fr
+casinos-stake.fr
 casinos-vegasplus.fr
 casinos1.fr
 casinos247.fr
@@ -87723,6 +87730,7 @@ cnocli.shop
 cnoq7m.cyou
 cnow7a.xyz
 cnozgk.tokyo
+cnp--assurance.fr
 cnp0nt.cyou
 cnp1zgz.tokyo
 cnpentair.cn
@@ -93121,6 +93129,7 @@ copumados.gq
 copvemerisdelo.cf
 copvuw.cyou
 copycats.xyz
+copycopai.com
 copycopai.com
 copyenglish.com
 copyesditor.cf
@@ -98684,6 +98693,7 @@ cwrvh.bar
 cwrwv.bar
 cwrwv.rest
 cws-arch.buzz
+cws-bnpparibas.fr
 cws407.cyou
 cwscri.tokyo
 cwsfek.bar
@@ -111946,6 +111956,7 @@ dogbreedadvice.com
 dogcollarfavourbluff.com
 dogdaysulcontco.ml
 dogdotytendre.gq
+doge.gov
 dogeadtawasurpdis.gq
 dogebi.tokyo
 dogechain.info
@@ -142537,6 +142548,7 @@ france-cresus.fr
 france-critair.fr
 france-cybertek.fr
 france-diplomatie.fr
+france-discowin.fr
 france-dragonia.fr
 france-droite.fr
 france-electrodepot.fr
@@ -143244,6 +143256,7 @@ freedlaremoncni.ga
 freedmorowrostskun.tk
 freedodo.xyz
 freedom-beauty.be
+freedom250.org
 freedomdatashield.com
 freedomguardsystem.com
 freedomhats.shop
@@ -204840,6 +204853,7 @@ lagcalettusu.cf
 lagcampbepartjalink.tk
 lagebedpostdato.tk
 lageexbeso.ml
+lagendarmerie.fr
 lagendtime.com
 lagenreakccoci.ml
 lager-produkte.cyou
@@ -230770,6 +230784,7 @@ millioner-casino-france.fr
 millioner-casinos.fr
 millioner-cassino.fr
 millioner-play.fr
+millioner1-casino.fr
 millionerbonus.fr
 millionercasino-bonus.fr
 millionercasino-fr.fr
@@ -237592,12 +237607,14 @@ msnanty.com
 msnblogs.co.uk
 msnbusiness.co.uk
 msnc-interieurgouv.fr
+msnfr.fr
 msnhotmail.fr
 msnivp.cyou
 msnjafci.cyou
 msnmessenger.fr
 msnmhi.tokyo
 msnn.fr
+msnnews.fr
 msnnewz.com
 msnow-place.xyz
 msnow-plane.xyz
@@ -238576,6 +238593,7 @@ muskangaming.com
 muskanonline.com
 muskasther.cf
 muskdasyritu.ml
+muskfoundation.org
 muskittlearcimu.gq
 muskketmitaco.ml
 muskogeeautofinance.com
@@ -241074,6 +241092,7 @@ n6xk17.cyou
 n6xx1w.cyou
 n6z2tl.cyou
 n6zr37.cyou
+n7-neo-france.fr
 n706uoi.tokyo
 n70absn.cyou
 n712ci.shop
@@ -245778,6 +245797,7 @@ neural.love
 neuralframes.com
 neuralframes.com
 neuralilimi.cf
+neuralink.com
 neuralstyle.art
 neuralstyle.art
 neurath.net
@@ -292423,21 +292443,3 @@ rabjcl.rest
 rabkarafdadenva.ml
 rablahealhfric.gq
 rablaicombansnasxi.cf
-rablasibmabulg.cf
-rablectlarsiha.gq
-rablenggangdoorbide.ga
-rablianapecalt.gq
-rablifalchora.ml
-rablingtinglenfo.tk
-rabliwool.ga
-rabmangnonttrudun.ga
-rabmatajust.tk
-rabmauslowinwor.cf
-rabmeteripec.cf
-rabminippopa.tk
-rabmiterriterf.ga
-rabmoritenth.ga
-rabmosussebos.tk
-rabnederguiwingsy.tk
-rabniakija.tk
-rabnirephomou.ga
