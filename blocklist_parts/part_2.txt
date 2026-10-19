@@ -2,6 +2,22 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
+r2uj9x.cyou
+r2uxwnq3.tokyo
+r2wac.tokyo
+r2x9e7.cyou
+r2xdkm.cyou
+r2z7j5.cyou
+r30d4i.cyou
+r30y76.shop
+r314i91.shop
+r31bbn7.cn
+r31v8h.tokyo
+r32cyl.cyou
+r32fbf.rest
+r330qc.rest
+r3322.com
+r3322.net
 r336699.com
 r34c49.cyou
 r34q9oj.shop
@@ -9316,7 +9332,6 @@ rho7ip.tokyo
 rhodalatdfathryu.ml
 rhode.co.at
 rhodenlukasur.tk
-rhodeshotel24.com
 rhodicavramrionen.tk
 rhodocextoben.tk
 rhodolmarno.tk
@@ -13416,6 +13431,7 @@ roleslinanwade.ml
 rolesroomstraditionals.bar
 rolesthingbusinesss.biz
 rolex-replica.to
+rolexwanduhr.de
 rolexyeals.com
 rolezamtibo.ga
 rolf24.ee
@@ -39796,6 +39812,7 @@ steellirekems.gq
 steelmeslightedcornful.tk
 steelmoebel.de
 steelonineciv.tk
+steelseries-fr.fr
 steelseries.com.de
 steelwebsdicomware.tk
 steenalpodlamapse.tk
@@ -88173,6 +88190,7 @@ vislakeconc.ml
 visle.fr
 vislizagvingrenci.tk
 vismadapojase.gq
+visme.co
 visnasabika.tk
 visnetwork.eu
 visolimi.ga
@@ -88431,6 +88449,7 @@ vivaharmoni.com
 vivahost.host
 vivaia-schuhe.de
 vivaiaboutiques.fr
+vivaiacollection.com
 vivaiaparis.fr
 vivaiaschaussures.fr
 vivaiaschuhe.at
@@ -97634,10 +97653,12 @@ wildsino-jouer.fr
 wildsino-kasino.fr
 wildsino-official.fr
 wildsino-officiel.fr
+wildsino6.fr
 wildsinocasino1.fr
 wildsinofr.fr
 wildsinojouer.fr
 wildsinoo.fr
+wildsinoplay.fr
 wildsinos.fr
 wildsnipleofreelnyo.tk
 wildspiccallouta.tk
@@ -114377,6 +114398,8 @@ yonibet-france.fr
 yonibet-official.fr
 yonibet-officiel.fr
 yonibet3.fr
+yonibetapp.fr
+yonibetbet.fr
 yonibetcasino.fr
 yonibetcasinos.fr
 yonibetofficiel.fr
