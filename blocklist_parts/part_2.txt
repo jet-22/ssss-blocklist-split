@@ -2,6 +2,77 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
+r21a1co.shop
+r21cnp.cyou
+r227tm.cyou
+r22jo1m.tokyo
+r236c7.cyou
+r23u5rt.shop
+r249f6.cyou
+r24fdgz.cyou
+r24m8rc.shop
+r24skd.cyou
+r24yqw.cyou
+r26y5r.cyou
+r278lj.cyou
+r281g.cyou
+r289ur.cyou
+r28g2lr.shop
+r28r6ru.shop
+r291qz.cyou
+r29a6a.cyou
+r29cv9.cyou
+r29ela.cyou
+r29g4c.cyou
+r29hun.cyou
+r29l8s8.shop
+r29mnc.cyou
+r29pdg.cyou
+r29xc8.tokyo
+r2a50u.cyou
+r2bibcl.work
+r2c3xr.cyou
+r2cbvb.xyz
+r2cr5y.tokyo
+r2cvny.cyou
+r2d3n3.cyou
+r2d9yk.cyou
+r2dkjw.cyou
+r2dy61.cyou
+r2ec1m.tokyo
+r2fcsf1.cyou
+r2g049.cyou
+r2g90i.cyou
+r2gc6c.cyou
+r2ggow.tokyo
+r2gh6r.cyou
+r2gusxi.tokyo
+r2h058.cyou
+r2hec1.tokyo
+r2i0ic6.cn
+r2j9ah.cyou
+r2jdup5.tokyo
+r2kbo6.cyou
+r2ktrq.cyou
+r2l7eo.cyou
+r2lddf.xyz
+r2m5mj.cyou
+r2m6hm.cyou
+r2mw1r.cyou
+r2n1r3j.cyou
+r2nhn7e.cyou
+r2p1af.cyou
+r2poz94.work
+r2qk0i.cyou
+r2rl7r.cyou
+r2s77c.cyou
+r2shlhh.tokyo
+r2tdst.cyou
+r2tgzy.xyz
+r2tpjk.cyou
+r2u6zcm.tokyo
+r2ubeo.cyou
+r2uhqx.cyou
 r2uj9x.cyou
 r2uxwnq3.tokyo
 r2wac.tokyo
@@ -4030,6 +4101,7 @@ realstock.es
 realtecenquicrip.gq
 realthoxandmedtterra.tk
 realtmulxiboopemur.tk
+realtytoday.com
 realtyworld.com.tr
 realumbmorsoftvicor.ga
 realvalue.xyz
@@ -4787,6 +4859,7 @@ reddit.red
 redditmaster.com
 reddmeansnorthmo.tk
 reddowntudi.tk
+reddt.com
 reddtit.com
 reddtt.com
 redeba.tk
@@ -6451,6 +6524,7 @@ remboursementsdoctolib.fr
 remboursementsfr.fr
 remboursementwizzair.fr
 rembourser-statut-pcs.fr
+remboursprocedur.fr
 rembplatetembi.cf
 rembpromidwigu.tk
 rembyttexnika.ru
@@ -15075,6 +15149,7 @@ rrdkiteskole.dk
 rrdxg4e.cyou
 rre7kjn.tokyo
 rreallifecam.com
+rreddit.com
 rree.fr
 rreis.yt
 rremacalimunbod.ga
@@ -16529,6 +16604,7 @@ rwzuar.tokyo
 rwzvlx.cyou
 rwzwzf.tokyo
 rx-budapest.com
+rx-discount.com
 rx-pharma.net
 rx-pharmacies.com
 rx-qualityshop.com
@@ -19847,6 +19923,7 @@ sarahmeyer.com
 sarahmeyohas.com
 sarahmeyohas.com
 sarahravengb.com
+sarahrmeyer.com
 sarahxdiaries.de
 sarai-tid.com
 sarakeromarge.tk
@@ -21675,6 +21752,7 @@ sciences-po-aix.fr
 sciencesetlavenir.fr
 sciencespo-finance.fr
 sciencespo-lyon-admin.fr
+sciencetimes.com
 scientific-federation.org
 scientistprogram.bar
 scientistslearn.biz
@@ -23302,6 +23380,7 @@ security-deliveroo.fr
 security-instagram.fr
 security-lebonc.fr
 security-live.fr
+security-m365.fr
 security-mail-instagram.fr
 security-microsoft.fr
 security-prime.fr
@@ -27416,6 +27495,7 @@ shinywildsfrance.fr
 shiogia.xyz
 shioly.xyz
 shipad.xyz
+shipafreight.com
 shipblissful.com
 shipcolis.fr
 shipend.my.id
@@ -27424,6 +27504,7 @@ shipinyg.com
 shipit.my.id
 shipman.my.id
 shipmentdiscipleawelessaweless.com
+shippeo.com
 shippills.com
 shipping-prime.fr
 shippingcollection.news
@@ -31146,6 +31227,7 @@ skywrecrifumicsi.ga
 skywuatwasynchcan.tk
 skyytrack.info
 skzye.cyou
+sl-handel.de
 sl-leasinggesmbh.at
 sl-vos-comptesallocataires-caf.fr
 sl16ww.cyou
@@ -33126,6 +33208,7 @@ sneakerscompany.fr
 sneakersdealer.fr
 sneakersdestock.fr
 sneakersdistrict.fr
+sneakerselites.fr
 sneakersetjupes.fr
 sneakersfall.fr
 sneakersfound.fr
@@ -36477,6 +36560,7 @@ spikanlinmaixefco.tk
 spikcoamasneytsal.cf
 spikindeucompsix.ml
 spikix.bar
+spiko.io
 spikoutdidutaru.cf
 spikrapshuvena.gq
 spikselcoroqou.ga
@@ -36552,6 +36636,7 @@ spin-mamajouer.fr
 spin-mamaoffres.fr
 spin-mania.fr
 spin-million-casino.fr
+spin-million-online.fr
 spin-millions.fr
 spin-panda-casino.fr
 spin-pandacasino.fr
@@ -36767,6 +36852,7 @@ spinformulacasino.fr
 spingambcocongdi.ml
 spingenie.fr
 spingranny-france.fr
+spingranny-online.fr
 spingranny1-fr.fr
 spingranny2.fr
 spingrannycasino-fr.fr
@@ -37016,6 +37102,7 @@ spintimcafucol.gq
 spintime-casino.fr
 spintogreen.com
 spintowin.fr
+spintrainer.fr
 spintropolisonline.fr
 spintunonsthomte.tk
 spinuninsoche.ml
@@ -37492,6 +37579,7 @@ sportsvirals.com
 sportsvital.de
 sportsvot.com
 sportswearpaired.com
+sportsworldnews.com
 sportsyouplay.com
 sporttime.xyz
 sporttritt.com
@@ -45199,7 +45287,9 @@ swarovskifrance.fr
 swarovskiparis.fr
 swarovskiphilippines.com
 swarovskisaleoutlet.com
+swarovskisoldes.fr
 swarovskiusa.com
+swarveuncity.com
 swaryndittau.tk
 swasmolymagi.ml
 swasnifigacap.ml
@@ -51192,6 +51282,8 @@ techterms.com
 techthepaparsingfa.cf
 techthersfibwheepocu.cf
 techtime.com.in
+techtimes.com
+techtimesco.com
 techtorreto.com
 techtrade.xyz
 techtraum.com
@@ -51220,6 +51312,7 @@ techyrao.xyz
 techysgpu.com
 techysoftwares.com
 techysparkel.net
+techzeel.net
 techzilla.xyz
 tecipogen.cf
 tecirritergui.ga
@@ -55358,6 +55451,7 @@ thebookswarm.com
 theboombox.com
 theboot.com
 theboredsurfer.com
+theboringmagazine.com
 theboringmagazine.net
 theboringmagazinecom.com
 theboyandhiscomputer.xyz
@@ -56388,6 +56482,7 @@ theverbtedibersback.tk
 theverge.com.in
 thevervenightclub.store
 thevessel.io
+thevetdesk.com
 theviccariro.tk
 thevineshare.info
 thevinricompro.ga
@@ -65637,6 +65732,7 @@ travelcreatestories.de
 traveledgee.com
 travelers-japan.club
 travelersguide.xyz
+travelerstoday.com
 travelfields.com
 travelfolio.com
 travelgivesback.com
@@ -67784,6 +67880,7 @@ trypovharona.tk
 tryppostheadtinata.cf
 trypunglicapun.tk
 trypurisaki.com
+tryriot.com
 trysheavydrophim.biz
 trysmoneypoints.biz
 trysoftr.com
@@ -74718,6 +74815,7 @@ universiterouengouv.fr
 universites-paris-saclay.fr
 universitice-univ-rouen.fr
 university-student.jp
+universityherald.com
 universityhospitalmartinique.fr
 universityrh.net
 universjouets.com
@@ -82976,6 +83074,7 @@ veteranvaerkstedet.dk
 vetergdoorsmoncia.tk
 veterinairebeaublanc.fr
 veterinariajupiter.com
+veterinary-jobs.co.uk
 veterstedelawnprec.gq
 vetetagbiqu.tk
 vetexplainspets.com
@@ -88449,7 +88548,6 @@ vivaharmoni.com
 vivahost.host
 vivaia-schuhe.de
 vivaiaboutiques.fr
-vivaiacollection.com
 vivaiaparis.fr
 vivaiaschaussures.fr
 vivaiaschuhe.at
@@ -97636,6 +97734,7 @@ wildrobin-fr.fr
 wildrobin-france.fr
 wildrobin-official.fr
 wildrobin-officiel.fr
+wildrobin-online.fr
 wildrobincas1no-fr.fr
 wildrobincasino-fr.fr
 wildrobinfrance.fr
@@ -98754,6 +98853,7 @@ winoracasino.fr
 winorama-casinos.fr
 winorama-fr.fr
 winorama-official.fr
+winorama-online.fr
 winoramacasino1.fr
 winoramafr.fr
 winoramaonline.fr
@@ -114413,7 +114513,6 @@ yonye5n.cyou
 yonzdy.rest
 yoo4c3.cyou
 yoocaa.com
-yoohal.com
 yoohoo.cards
 yoohoo.cards
 yoolle.com
@@ -115463,6 +115562,7 @@ yousnkrs.fr
 youstudynightscountry.biz
 youtextcouk.xyz
 youthcarebeauty.com
+youthhealthmag.com
 youthview.in
 youtradefx.com
 youtu.fr
@@ -122908,6 +123008,7 @@ ztdavt.tokyo
 ztdlmv.tokyo
 ztdrls.tokyo
 ztdyin.tokyo
+ztech100.com
 ztefe.tokyo
 ztf4wnh.shop
 ztf8d.tokyo
