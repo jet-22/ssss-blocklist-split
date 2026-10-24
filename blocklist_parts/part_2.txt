@@ -2,6 +2,61 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
+qyxtozn.bar
+qyxtwye.tokyo
+qyybya.tokyo
+qyydaf.tokyo
+qyyjqx.tokyo
+qyypcp.shop
+qyzaark.tokyo
+qyzjw0.cyou
+qyzpui.bar
+qyzqfz.rest
+qyzylr.rest
+qz0fbf.cyou
+qz0isx.shop
+qz0j0s.tokyo
+qz0lmy.tokyo
+qz0w8m8.cyou
+qz0ykm.xyz
+qz1en.tokyo
+qz22de.cyou
+qz292u.cyou
+qz2khx.cyou
+qz2z6n.tokyo
+qz3631.cyou
+qz39mk.cyou
+qz4k9f.tokyo
+qz6782.cyou
+qz6d8n.tokyo
+qz6qal.xyz
+qz6wh.tokyo
+qz7vhpn.tokyo
+qz8sf.tokyo
+qz8tu5.cyou
+qz9gin.cyou
+qzatsfr.cn
+qzbqgsi.tokyo
+qzbqwo.tokyo
+qzcg6z9.cyou
+qzch22.tokyo
+qzcrafts.com
+qzcutdx.bar
+qzczd.com
+qzdugb.tokyo
+qzek6s.xyz
+qzfbuoa.tokyo
+qzfeep.tokyo
+qzfegul.rest
+qzfkncv.work
+qzfqg9.tokyo
+qzfqsl.bar
+qzfref.tokyo
+qzfsg.com
+qzgiqqd.bar
+qzh305.tokyo
+qzhgsy.com
+qzhkga.rest
 qzhsxm.bar
 qzhsxm.rest
 qzhto.cyou
@@ -778,7 +833,6 @@ ra-casino-fr.fr
 ra-casinoo.fr
 ra-casinos.fr
 ra-fr.fr
-ra-ganske.de
 ra-gsklegal.de
 ra-rick.de
 ra02zy.cyou
@@ -6742,6 +6796,7 @@ remboursementsdoctolib.fr
 remboursementsfr.fr
 remboursementwizzair.fr
 rembourser-statut-pcs.fr
+rembourseticket.fr
 remboursprocedur.fr
 rembplatetembi.cf
 rembpromidwigu.tk
@@ -21471,6 +21526,7 @@ scfyhzy.com
 scgbce.tokyo
 scgbcl.bar
 scgggw.xyz
+scgroupleclerc.fr
 scgsp.com
 sch-officiel.fr
 sch.id
@@ -21689,6 +21745,7 @@ schlund-woehr.de
 schlusseldienst.at
 schmahl-gartengeraete.com
 schmahl-gartengeraete.de
+schmeckenkaufen.de
 schmerzfrei-eichstaett.de
 schmid-rechtsanwaelte.de
 schmidb7q.web.app
@@ -22583,6 +22640,7 @@ sdjgjcsn.xyz
 sdjiy.shop
 sdjnal.shop
 sdjnnycom.xyz
+sdjqepyr.shop
 sdjsjb.tokyo
 sdjv2n.shop
 sdk-transport.com
@@ -32093,6 +32151,7 @@ slovenlier.com
 slovenska-lekaren.com
 slovenska.si
 slovenskolekaren.com
+slovenskolekaren.sk
 sloveos.com
 slovesorschemen.tk
 slovgetimotobo.cf
@@ -34716,6 +34775,7 @@ solarsun.ee
 solarszellen.de
 solartechnik-direct.de
 solartechnik-neckar-enz.de
+solarviiat.com
 solarvisionos.com
 solarwill.com
 solarwind-shop.com
@@ -36979,6 +37039,7 @@ spinay.fr
 spinbara-1.fr
 spinbara-bet.fr
 spinbara-casi.fr
+spinbara-casiino.fr
 spinbara-casino-fr.fr
 spinbara-casino-france.fr
 spinbara-casinos.fr
@@ -37059,6 +37120,7 @@ spinfest1.fr
 spinfests.fr
 spinfevercasino.fr
 spinfiin.fr
+spinfin-casiino.fr
 spinfin-casino.fr
 spinfin-casinos.fr
 spinfin-enligne.fr
@@ -41786,7 +41848,6 @@ stromae.xyz
 stromberry.com
 stromerzeugerde.com
 stromlieferantenwechseln.de
-stromraum-studio.de
 stromspeichereinbauen.de
 stromzone.com
 strong-aff.com
@@ -64149,6 +64210,7 @@ towardshomecontinues.rest
 towardwomancases.de
 towbipurhoygui.tk
 toweii.xyz
+tower-casiino.fr
 tower-casino.fr
 tower-home.com
 tower-rush-sllot.fr
@@ -67817,6 +67879,7 @@ true-jizz-net.xyz
 true-luck-cas.fr
 true-luck-france.fr
 true-movs-video.xyz
+true-ph.com
 true-porno-movie.buzz
 true-pp.com
 true-pussy-news.buzz
@@ -72447,6 +72510,7 @@ ugg-france.fr
 ugg-heaven.fr
 ugg-lowmel.fr
 ugg-off.fr
+ugg-online.com
 ugg-online.fr
 ugg-outlet.fr
 ugg-outlets.fr
@@ -72680,6 +72744,7 @@ uhpv1i.xyz
 uhpy6p.cyou
 uhqodv.work
 uhqp42.cyou
+uhqxisqi.shop
 uhr1r.cyou
 uhren-walter.com
 uhrenausholz.de
@@ -79863,6 +79928,7 @@ vatadulalu.cf
 vatalbevelmi.ga
 vatalcessme.ga
 vatalmeyvo.tk
+vataminversand24.com
 vatan.at
 vatatingsise.tk
 vataxokil.cf
@@ -83894,6 +83960,7 @@ viagra-kamagra-obchod.cz
 viagra-shop.cz
 viagra365.us
 viagraeshop.sk
+viagrainaustralia.com
 viagramed.fr
 viagraobchod.cz
 viagrapascher.fr
@@ -88710,6 +88777,7 @@ vitamin-ss.xyz
 vitaminedirekt.com
 vitamines-informations.com
 vitaminizingfrshc.buzz
+vitaminversandonline.shop
 vitaminz.si
 vitamurigast.cf
 vitanourishhub.com
@@ -88740,6 +88808,7 @@ vitipog.xyz
 vitipornane.tk
 vitisegtila.tk
 vititenewneven.ml
+vitlane.shop
 vitlihugmede.cf
 vitlyhofnyateci.gq
 vitmemekolde.tk
@@ -88757,6 +88826,7 @@ vitrogochema.ga
 vitruviorestauro.es
 vitsafensumuter.cf
 vitsandvalere.ga
+vitsend.com
 vitsuaa.tokyo
 vittorecrivelli.it
 vittoriabike.com
@@ -96103,6 +96173,7 @@ wellmahtnonrocesda.ga
 wellmawenawhoo.ml
 wellmawenawhoo.tk
 wellmaxtumapa.cf
+wellmedshop.com
 wellmerdisusitin.tk
 wellmiterptogmami.gq
 wellmoneydefense.biz
@@ -97995,6 +98066,7 @@ wildrosiwifichea.tk
 wilds-robin.fr
 wildsadophiphepe.tk
 wildschlaf.com
+wildsino-casiino.fr
 wildsino-casino.fr
 wildsino-casinos.fr
 wildsino-com.fr
@@ -105546,6 +105618,7 @@ xdomoq.cyou
 xdoqyj.work
 xdotactrigethne.tk
 xdotothhunfiyvouroc.ml
+xdoutsto.shop
 xdphdn.tokyo
 xdpihj.tokyo
 xdpm8u.cyou
@@ -116733,7 +116806,6 @@ yuacdn.bar
 yuak2d.tokyo
 yualfq.bar
 yualfq.rest
-yuan-paygroup.com
 yuandait.com
 yuanlida.com
 yuanmacha.com
@@ -123547,6 +123619,7 @@ zuo54h.cyou
 zuodyt.tokyo
 zuolv0.cyou
 zuoqhz.tokyo
+zuosex.com
 zuowd2.cyou
 zuoysebc.cyou
 zuoztr.bar
