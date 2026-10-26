@@ -2,6 +2,25 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
+qxxxkxsl.xyz
+qxy9t6f.tokyo
+qxymwx.shop
+qxzeti.bar
+qxzrzd.bar
+qxzzns.shop
+qxzzsx.bar
+qy0s6o.tokyo
+qy0y9p.cyou
+qy1vvfq.cyou
+qy2596n.tokyo
+qy4f1u.shop
+qy5na0.shop
+qy5ore.cyou
+qy5tl4.tokyo
+qy5vis.tokyo
+qy6vlk.cyou
+qy7ok0.cyou
+qy80z6.cyou
 qy8qhm4.tokyo
 qy9ork.tokyo
 qya6q6.cyou
@@ -16467,6 +16486,7 @@ ruphodete.tk
 ruphotography.ru
 ruphp.com
 ruphysetipe.tk
+rupills.com
 rupimavi.com
 rupinx.xyz
 rupisegacile.tk
@@ -16965,6 +16985,7 @@ rx-budapest.com
 rx-pharma.net
 rx-pharmacies.com
 rx-qualityshop.com
+rx-true.com
 rx186d.cyou
 rx1eesa.cn
 rx1ekn.xyz
@@ -19545,6 +19566,7 @@ samscretabredhi.cf
 samsdinkenarego.tk
 samsic-interim.fr
 samsmupefibid.ml
+samsonite-france.fr
 samsonite-paris.fr
 samsonite-suomi.com
 samsonite.com.de
@@ -21354,6 +21376,7 @@ scapalnadomas.ml
 scapamarbusle.tk
 scapbattlingtetab.tk
 scapelevir.gq
+scapest-leclerc.fr
 scapfimiciti.tk
 scapiaa.xyz
 scapigproggoodduvi.tk
@@ -22144,6 +22167,7 @@ sciobot-next.cz
 sciobot.cz
 sciobot.sk
 sciortino.eu
+sciponoe.com
 sciqcp.rest
 scisaskalcoapo.ga
 sciscirc.com
@@ -45684,6 +45708,7 @@ swatch.re
 swatchfrance.fr
 swatchoutlet.fr
 swatchshopping.com
+swatchsoldes.fr
 swatdictheymethlu.ga
 swatdillosove.ml
 swatenalus.ga
@@ -88072,6 +88097,7 @@ vinlightoconru.tk
 vinliv.dk
 vinmagasinet.dk
 vinmarcwalanbi.cf
+vinmec.com
 vinmekka.dk
 vinmonclettbunkigou.tk
 vinnci.fr
