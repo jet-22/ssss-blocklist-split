@@ -2,6 +2,16 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
+qxujuf.rest
+qxvpvs.tokyo
+qxvwrsn.tokyo
+qxw5rx.shop
+qxw69.tokyo
+qxwckx.tokyo
+qxwflb.xyz
+qxwqal.bar
+qxwtnph.work
+qxxgmb.tokyo
 qxxxkxsl.xyz
 qxy9t6f.tokyo
 qxymwx.shop
@@ -31491,6 +31501,7 @@ skybig.xyz
 skybileltiterda.tk
 skybinralpingredc.cf
 skybornstudios-removed.de
+skyboundchess.com
 skyboxconsult.buzz
 skybranabbeltkosle.tk
 skybridge.xyz
@@ -32032,6 +32043,7 @@ sllotlair-france.fr
 sllotlair.fr
 sllotlairs-fr.fr
 sllotlairs-france.fr
+sllotshammer.fr
 sllrbi.tokyo
 sllwvu.tokyo
 slmbip.rest
@@ -32063,6 +32075,7 @@ slogterpsulthove.tk
 sloi1.com
 slon.online
 slootlair.fr
+slootshammer.fr
 slopagpebelmont.ga
 slopdihochtehaw.ga
 slopemower.xyz
@@ -37318,6 +37331,8 @@ spinmama-france.fr
 spinmama-jouer.fr
 spinmama-login.fr
 spinmama-online.fr
+spinmama2.fr
+spinmama3.fr
 spinmamaapp.fr
 spinmamabonus.fr
 spinmamabonuscasino.fr
@@ -38217,7 +38232,6 @@ spyderfrance.fr
 spydersale.de
 spyderwrisemel.tk
 spydintravornemenradingnofurtangde.xyz
-spydiscount24.com
 spygok.rest
 spyi5p.cyou
 spymdefdirofacot.ga
@@ -72655,6 +72669,7 @@ uggoriginal.fr
 uggoutlet.fr
 uggoutlets.fr
 uggoutletstore.fr
+uggparis.fr
 uggpascher.fr
 uggpassion.fr
 uggs-boots.fr
@@ -101632,6 +101647,7 @@ world-order.cam
 world-prime.fr
 world-product.cam
 world-war-z-2013-movie.glitch.me
+world.taobao.com
 worldachieva.com
 worldaffectwhiles.biz
 worldageperhaps.xyz
