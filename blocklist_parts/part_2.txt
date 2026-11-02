@@ -2,50 +2,6 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
-quwwjn.cyou
-quxccv.cyou
-quxt2s.cyou
-quxzem.tokyo
-quxzqy.tokyo
-quyicyzk.cyou
-quyn95.com
-quz5ckd.tokyo
-quzjluv.tokyo
-qv1u8bm.cyou
-qv420oa.cyou
-qv598.cyou
-qv5tt.cyou
-qv5x51.tokyo
-qv76gy.shop
-qv7ytot.tokyo
-qv8tut.tokyo
-qvafgo.tokyo
-qvbnj8.tokyo
-qvbpumc.work
-qvbpvc.tokyo
-qvbtsj.tokyo
-qvcbo4.cyou
-qvcsvo.work
-qvcuem.tokyo
-qvd06.cyou
-qvdaaai.tokyo
-qvdhch.tokyo
-qvdlwhv.tokyo
-qvedgkf.bar
-qveo60.cyou
-qvf4duf.tokyo
-qvfeujjz.tokyo
-qvffe.cyou
-qvgingq.bar
-qvgso2s.cyou
-qvhjhe.tokyo
-qvhlgt.shop
-qvhlsrt.bar
-qvhpbv.tokyo
-qvhu24.tokyo
-qvhur.cyou
-qvhwgc.tokyo
-qviecy.tokyo
 qvigit.tokyo
 qvigxa.tokyo
 qvitbk.tokyo
@@ -28411,7 +28367,6 @@ shop-uggs.fr
 shop-value.cam
 shop-vergleicher.de
 shop.asfinag.llc
-shop.asfinag.ltd
 shop.askdrkan.com
 shop.clarissanails-schweiz.ch
 shop.degussa-goldhandel.de
@@ -51887,6 +51842,7 @@ techdenser.com
 techdersfracat.ga
 techduffer.uk
 techeckcarjelad.tk
+techedubyte.com
 techexposal.com
 techfeed.net
 techfelts.co.uk
@@ -84571,7 +84527,7 @@ vibenipucen.ga
 viber.org
 vibetickets.fr
 vibevapeshop.com
-vibewire.com
+vibewire.com.au
 vibgistlepcono.cf
 vibidencongmigrea.tk
 vibigtebedcompdic.gq
