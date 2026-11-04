@@ -2,6 +2,32 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
+quuzlet.live
+quvexejahedap.xyz
+quvhnff.bar
+quwcjs.bar
+quwcjs.rest
+quwjjlj.cn
+quwonropijack.ml
+quwwjn.cyou
+quxccv.cyou
+quxt2s.cyou
+quxzem.tokyo
+quxzqy.tokyo
+quyicyzk.cyou
+quyn95.com
+quz5ckd.tokyo
+quzjluv.tokyo
+qv1u8bm.cyou
+qv420oa.cyou
+qv598.cyou
+qv5tt.cyou
+qv5x51.tokyo
+qv76gy.shop
+qv7ytot.tokyo
+qv8tut.tokyo
+qvafgo.tokyo
+qvbnj8.tokyo
 qvbpumc.work
 qvbpvc.tokyo
 qvbtsj.tokyo
@@ -28367,6 +28393,7 @@ shootseatwhites.biz
 shootsitissuestudent.xyz
 shoowroomprive.fr
 shop-alarmsystem.com
+shop-aldi.fr
 shop-apotheke.fr
 shop-as-monaco.fr
 shop-darty.com
@@ -31080,6 +31107,7 @@ siv-adergouv.fr
 siv-ants.fr
 siv-antsgouv.fr
 siv-gouvants.fr
+siv-immat.fr
 siv-immatriculation.fr
 siv-iseregouv.fr
 siv-portailprogouv.fr
@@ -111839,6 +111867,7 @@ yahoo-news.co
 yahoo-support.fr
 yahoo.tf
 yahoo.wf
+yahoo01.fr
 yahooc.com
 yahooc.om
 yahoofrance.fr
