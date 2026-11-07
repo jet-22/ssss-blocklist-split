@@ -2,26 +2,6 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
-quetiosura.tk
-quetocterilche.tk
-quetoopalra.ga
-quetradkomwhitur.gq
-quetragaprisubt.ml
-quetramusevna.tk
-quetravvasarosan.ga
-quetregabimolgun.tk
-quetreptoutuwisang.ml
-quetresdescminggar.ga
-quetrigaren.tk
-quetripatinel.ga
-quetrucdawdclerinra.gq
-quetulirumo.cf
-queturliepiera.tk
-quetuthorestdramle.ml
-quetuworkconsplod.tk
-quetysimentoi.ml
-queueconcrete.com
-quevabarbodofest.tk
 quevalmepadswordze.ml
 quevamopowee.tk
 quevazheapapan.tk
@@ -96,7 +76,6 @@ quicitinetpchondba.tk
 quicizabnapa.ga
 quick-advisors.com
 quick-business-loans-bad-credit.xyz
-quick-kredit.com
 quick-ledger.fr
 quick-poll-hub.com
 quick-scanning.top
@@ -840,7 +819,6 @@ quoprovnidwie.tk
 quopurmiser.cf
 quora.re
 quoradeggeo.gq
-quordlepuzzles.de
 quorechesdownben.tk
 quoreheartsworuc.ml
 quoreilasduhap.tk
@@ -2208,6 +2186,7 @@ ra-casino-fr.fr
 ra-casinoo.fr
 ra-casinos.fr
 ra-fr.fr
+ra-ganske.de
 ra-gsklegal.de
 ra-rick.de
 ra02zy.cyou
@@ -2273,7 +2252,6 @@ rabattgabor.de
 rabatthaustiers.com
 rabattkodendin.com
 rabattkorb.de
-rabattlampen.com
 rabattleuchten.de
 rabattlloyd.de
 rabattloewe.de
@@ -2282,7 +2260,6 @@ rabattoneill.de
 rabattpalm.de
 rabattseafolly.de
 rabattski.com
-rabattskiausrustung.com
 rabattskis.de
 rabattsport.de
 rabattstoves.de
@@ -2753,7 +2730,6 @@ radpfa.rest
 radrax.com
 radrudel.de
 radsarepic.ml
-radselect.de
 radsoowoltiolanra.tk
 radspafalsfave.tk
 radsport-viernheim.de
@@ -4550,7 +4526,6 @@ raumnote.de
 raumonmagire.ml
 raumyburmemoo.tk
 raumymabavihe.ml
-raumzauberde.com
 raunessvibtuanewsvent.ga
 raunge.best
 raunnelactalgent.ga
@@ -4666,6 +4641,7 @@ raybanfrance.fr
 raybanlunettespascher.fr
 raybanmeta.fr
 raybanpascher.fr
+raybansales.us
 raybedsrosfoundtab.ga
 raycampafermota.ga
 raycarsimpsicaperranavitytyre.xyz
@@ -6274,7 +6250,6 @@ recoveries.xyz
 recovery-ledger.fr
 recovery-netflix.fr
 recoverysoftware.buzz
-recovie.com
 recparc.asia
 recparecippa.tk
 recparttabhiddfe.tk
@@ -7682,6 +7657,7 @@ reischedirmasra.tk
 reischizovancas.tk
 reiscutpocimer.ga
 reiseazogse.gq
+reiseklarheit.de
 reiselileneka.gq
 reisellcalmichintnuss.tk
 reiselruher.tk
@@ -9158,6 +9134,7 @@ replicahause.is
 replicahustleparameters.com
 replicakaufen.de
 replicareview.io
+replicasrelojes.to
 replicaswatches.vip
 replicate.ai
 replicate.ai
@@ -9173,6 +9150,7 @@ replicawatchforsale.re
 replicawatchtr.com
 replifamolab.gq
 replika-uhr.to
+replikuhrenshop.de
 repliqueburberry.fr
 repliquecartier.fr
 repliquedior.fr
@@ -15920,7 +15898,6 @@ rosegibafu.tk
 roselabvechondren.cf
 roselenstrapwor.tk
 roselfpinrailas.tk
-roselinlin.com
 rosemaworkbobs.ml
 rosen-kst.dk
 rosenbaum-berlin.de
@@ -17715,7 +17692,6 @@ rund-ums-pony-de.de
 rundegeraperde.tk
 rundfunkbeitrag-portal-online.de
 rundfunkbeitragonline.de
-rundfunkbeitragportal.de
 rundfunkbeitragsserviceonline.de
 rundfunkportal.de
 rundholzdirekt.de
@@ -18186,6 +18162,7 @@ rwcjwv.bar
 rwcmxz.rest
 rwcpuw.cyou
 rwcrgyt.cyou
+rwcstore.com
 rwdftx.bar
 rwdgudo.tokyo
 rwdh1.xyz
@@ -18304,9 +18281,11 @@ rwzuar.tokyo
 rwzvlx.cyou
 rwzwzf.tokyo
 rx-budapest.com
+rx-discount.com
 rx-pharma.net
 rx-pharmacies.com
 rx-qualityshop.com
+rx-true.com
 rx186d.cyou
 rx1eesa.cn
 rx1ekn.xyz
@@ -20542,7 +20521,6 @@ salesaddle.com
 salesappv51.de
 salescomplex.com
 salesconsulter.de
-salesdaddymasterclass.com
 salesgsidicemo.ml
 saleshedet.click
 saleshop24.shop
@@ -20766,7 +20744,6 @@ salzburgapotheke.com
 salzburgmode.at
 salzcalbangtibiggla.ga
 salzeicrawoxat.tk
-salzmode.com
 salznabompoticre.ml
 salzrackcentinin.gq
 salzrognoiniedis.cf
@@ -22681,6 +22658,7 @@ scanlitodo.tk
 scanmicricotota.ga
 scanmountadaburle.tk
 scannegbiospin.tk
+scannero.io
 scannetbutik.dk
 scanoctobolt.ml
 scanomjabvidi.ml
@@ -24911,6 +24889,7 @@ securem365.fr
 securemboursemntedf.fr
 securemecca.com
 securemed.shop
+securemedsshop.com
 securemicrosoft.fr
 securemobile-connect.com
 securenetit.biz
@@ -25765,7 +25744,6 @@ selldiceploter.cf
 sellducttinggertwads.cf
 sellerapple.fr
 sellercentralamazon.fr
-sellerhiking.com
 sellerimiterle.tk
 sellerrocket.in
 sellerrocket.io
@@ -29255,6 +29233,7 @@ shinywildsfrance.fr
 shiogia.xyz
 shioly.xyz
 shipad.xyz
+shipafreight.com
 shipblissful.com
 shipcolis.fr
 shipend.my.id
@@ -29406,7 +29385,6 @@ shop-pierce.com
 shop-prime.fr
 shop-redaction.com
 shop-retailer.com
-shop-retrowave.at
 shop-sale-zone.com
 shop-symcos.de
 shop-ta-gourdestore.com
@@ -29611,7 +29589,6 @@ shopwecro.shop
 shopwesternhats.com
 shopwineoutlet.com
 shopwithme.biz
-shopwithpalo.com
 shopyalili.com
 shopziubertopf.com
 shopzogu.com
@@ -34273,6 +34250,7 @@ smashcasino-fr.fr
 smashcasino-france.fr
 smashcasinoenligne.fr
 smashcasinofr.fr
+smashcasinofrance.fr
 smashcasinos-fr.fr
 smashcasinos-france.fr
 smashcasinos.fr
@@ -36597,7 +36575,6 @@ somkeybotoper.cf
 somlidingthingwi.cf
 somliturronotas.tk
 sommeraufdemland.de
-sommerfeld-munchen.de
 sommerhusiblokhus.dk
 sommg5.cyou
 somminsbahroca.gq
@@ -37390,6 +37367,7 @@ sovovopelcheli.gq
 sovypl.bar
 sow6t2.cyou
 sowaoptive.asia
+sowaswillichauch.de
 sowbrl.bar
 sowepirare.gq
 sowibarje.ga
@@ -42332,7 +42310,6 @@ stil-sicher.eu
 stiladmupe.tk
 stilafeneces.tk
 stilbagno.it
-stilberlin.com
 stilbestsotulro.cf
 stilblazer.com
 stilcepteleso.gq
@@ -42376,7 +42353,6 @@ stiloparenpa.tk
 stilovo.de
 stilrabminsrosa.tk
 stilriecojun.tk
-stilrosa.com
 stiltabquutreatalllan.tk
 stiltentnutvixuacar.ml
 stilubel.tk
@@ -43443,6 +43419,7 @@ stromae.xyz
 stromberry.com
 stromerzeugerde.com
 stromlieferantenwechseln.de
+stromraum-studio.de
 stromspeichereinbauen.de
 stromzone.com
 strong-aff.com
@@ -46420,6 +46397,7 @@ suppwobaccho.tk
 suppwohjaholhill.gq
 suppwoodbtinggraminar.tk
 suppzarlyjea.tk
+supr.com
 suprabatt.de
 suprafootweardeutschland.com
 supragaming.net
@@ -46869,7 +46847,6 @@ suwwgmw.tokyo
 suxakovehema.cf
 suxhtrk.tokyo
 suxvmt.cyou
-suxxessfx.com
 suyaas.bar
 suycofabmortmofor.ga
 suycotcoulituc.gq
@@ -52955,7 +52932,6 @@ tecerguinurlile.cf
 teceserringdice.tk
 tecgechurcurict.cf
 tech-generation.fr
-tech-outlet.site
 tech-solutions.store
 tech-support-outlook.fr
 tech-support.fr
@@ -53179,6 +53155,7 @@ techprimex.com
 techpromagazine.co.uk
 techprowourld.com
 techreels.co.uk
+techrefreshing.com
 techripomivercent.gq
 techrxv.com
 techsatarila.ga
@@ -56600,7 +56577,6 @@ tghpc1.cyou
 tghphz.bar
 tghs4k.shop
 tghuhd.tokyo
-tgi.li
 tgi03.rest
 tgi4nj.tokyo
 tgindialetti.it
@@ -58019,7 +57995,6 @@ thepetliachas.tk
 thepetpainting.com
 thepetpainting.com
 thepetshopsonline.com
-thepetzone.vip
 thepevamonste.ml
 thepharmacriterion.com
 thephiperilingcost.gq
@@ -63238,6 +63213,7 @@ tjzohc.tokyo
 tjzqfp.tokyo
 tjzscl.tokyo
 tjzzedu.com
+tk-energiemanagement.de
 tk-kontor.de
 tk-treuhand.de
 tk05k5.cyou
@@ -63363,7 +63339,6 @@ tksrszw.bar
 tksval.bar
 tkt5f5.tokyo
 tktecy.tokyo
-tktxde.de
 tktxkaufen.de
 tktxofficiel.fr
 tktxofficielstore.fr
@@ -64281,6 +64256,7 @@ togedeleche.cf
 togederwinkdumppo.tk
 togee.xyz
 togel357.biz
+togelhongkongpools1.com
 togelsydneypools.org
 togepukele.gq
 togerupnome.tk
@@ -65711,6 +65687,7 @@ totoradspertbook.ga
 totorshilne.tk
 totorzicili.tk
 totoureparew.ml
+totovape.de
 totrekarwaebui.tk
 totrendybags.com
 totslislele.tk
@@ -66744,6 +66721,7 @@ tradeswim.com
 tradetodayonline.buzz
 tradetoinvest.com
 tradetvacul.tk
+tradeviewforex.com
 tradewindowfx.com
 tradewish.xyz
 tradexanelifel.tk
@@ -68970,6 +68948,7 @@ trivellazioniitalia.it
 trivellicelli.cf
 trivfulforthquawimblect.tk
 trivgo.co.uk
+trivio-handel.de
 trivnetelewan.tk
 trivona.de
 trivpakerpprecun.cf
@@ -69568,6 +69547,7 @@ trudlytheati.tk
 trudnasispayded.gq
 trudsidanoho.ga
 trudsonngramosca.ml
+true-bb.com
 true-blog-jerk.buzz
 true-cam-web.xyz
 true-drugstore.com
@@ -69580,6 +69560,7 @@ true-jizz-net.xyz
 true-luck-cas.fr
 true-luck-france.fr
 true-movs-video.xyz
+true-ph.com
 true-porno-movie.buzz
 true-pp.com
 true-pussy-news.buzz
@@ -74856,7 +74837,6 @@ ukjart.tokyo
 ukjsfah.bar
 ukkmaam.bar
 ukkugm.tokyo
-uklandregistryportal.co.uk
 uklicocluwim.cf
 uklid-nejlevneji.cz
 uklidpaja.cz
@@ -76822,6 +76802,7 @@ universite-paris8.fr
 universite-parissaclay.fr
 universite-polytechnique.fr
 universite-reims.fr
+universite-saclay.fr
 universite-toulon.fr
 universite-uvsq.fr
 universite-versailles-saintquentin.fr
@@ -78660,7 +78641,6 @@ ursfyj.rest
 ursigrocore.cf
 ursimagripel.gq
 ursimanewpveran.tk
-ursime.com
 ursiwolibmafo.gq
 urskipiremamag.tk
 ursohozoombcoun.gq
@@ -78954,7 +78934,6 @@ usetmamogsa.cf
 usewix.rest
 usexerlterinhei.tk
 usexrwd.bar
-usezazzi.com
 usezunna.com
 usfchh.tokyo
 usffhc.tokyo
@@ -81354,6 +81333,7 @@ vanced.to
 vancedapp.com
 vancedmanager.com
 vancedmanager.org
+vancelian.com
 vancetaylor.com
 vanchildclicso.tk
 vandacallemos.ml
@@ -84626,6 +84606,7 @@ vermotideslyanatacharvajibepa.xyz
 vernaijetimemet.tk
 vernaracallmar.ga
 vernarapa.tk
+vernaschediewelt.com
 verndreadunes.ga
 vernedunjeogroutsa.ga
 vernegerpcu.ml
@@ -90308,7 +90289,6 @@ visio-nte.fr
 visioconference-videoconference.com
 vision-tech.org
 vision8.dk
-visionarycaapital.com
 visionauto-solution.com
 visioncenterstore.com
 visiondelafrance.fr
@@ -90622,7 +90602,6 @@ vivaharmoni.com
 vivahost.host
 vivaia-schuhe.de
 vivaiaboutiques.fr
-vivaiacollection.com
 vivaiaparis.fr
 vivaiaschaussures.fr
 vivaiaschuhe.at
@@ -92874,7 +92853,6 @@ vtlmhl.tokyo
 vtlpos.bar
 vtlqml.tokyo
 vtlyuj.bar
-vtmarketsfr.com
 vtmfr.com
 vtmqle.tokyo
 vtmvubp.tokyo
@@ -95833,6 +95811,7 @@ watchdealseu.shop
 watchdeasbnuanlamac.tk
 watchdm.com
 watchesoff5gc.vip
+watchesreplica.is
 watchesstore.co
 watchfaceshub.com
 watchfourthpifunk.gq
@@ -97840,7 +97819,6 @@ weisinsthraladlira.gq
 weiskagtiosansandtran.gq
 weismitlaijakout.tk
 weissbt.com
-weisseres-lacheln.at
 weisshuhn.info
 weissweinrabatt.de
 weisuderlasabco.tk
@@ -97937,10 +97915,8 @@ welivnarorerea.tk
 weljustgrancamquicont.tk
 well-being-olive-interact.nl
 well-blech.info
-wellacooler.com
 welladadedif.gq
 wellandwell.fr
-wellawhite.com
 wellbacktendfritebta.tk
 wellbantempprocabpic.tk
 wellbet.xyz
@@ -98053,7 +98029,6 @@ welt-der-drohnen-und-hubschrauber.de
 weltanonpersri.tk
 weltapotheko.shop
 weltbetcasino.fr
-weltbibliothek.com
 weltfischrethar.web.app
 weltfuncvadeber.gq
 weltgeschichtentage-freiburg.de
@@ -101507,7 +101482,6 @@ witstandfridge.com
 wittdistthebirpa.ml
 wittelsheimholz.com
 witten-berg.de
-wittenwald.de
 wittering.website
 wittgecolensmare.tk
 wittmode.com
@@ -102705,6 +102679,7 @@ woocnev.tokyo
 wood-line24.de
 woodbeetortficomto.cf
 woodbkenmoforle.ml
+woodbrezany.com
 woodbsidabwayli.ml
 woodburn.com.au
 woodburyu57.web.app
@@ -102778,6 +102753,7 @@ woodycoo.shop
 woof-wo0f.com
 woofgear.de
 wooflyx.com
+woofz.com
 woogitopeck.online
 woogpz.tokyo
 wooinw.tokyo
@@ -113980,6 +113956,7 @@ yeelight.si
 yeesshh.com
 yeetcasino.fr
 yeewei.xyz
+yeezy-450.com
 yeezy-700.us.com
 yeezy-shoes.us.com
 yeezy-supplys.us.com
@@ -113987,6 +113964,7 @@ yeezy.at
 yeezy.uk.com
 yeezy350.uk.com
 yeezy350s.us.com
+yeezys.co
 yeezys.co.at
 yeezys.uk.com
 yeezyslides.fr
@@ -118684,6 +118662,7 @@ yuacdn.bar
 yuak2d.tokyo
 yualfq.bar
 yualfq.rest
+yuan-paygroup.com
 yuandait.com
 yuanlida.com
 yuanmacha.com
@@ -121555,7 +121534,6 @@ zamquitravinge.tk
 zanalamomearib.cf
 zananragite.ml
 zanasearch.com
-zanatelier.com
 zanderautoparts.com
 zandgadesrbinagi.ml
 zandsfabrics.com
@@ -122446,7 +122424,6 @@ zenskiparfemi.com
 zentbudsiten.tk
 zentbulbiomanlo.tk
 zentclicoutupidto.ml
-zentempel.com
 zenther.shop
 zentiv.de
 zentlofinpo.gq
