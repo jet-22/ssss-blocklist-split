@@ -2,6 +2,19 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
+questionsstateroom.biz
+questionsstores.biz
+questionstoryfamilys.biz
+questionstruthway.biz
+questionstudent.biz
+questionstudentparty.biz
+questionsuccessful.buzz
+questionsupper.com
+questionswhitehumans.buzz
+questionsworkfederal.de
+questionthingincluding.buzz
+questiontypeway.biz
+questionwantsbusinesss.biz
 questionwayestablishs.pw
 questionwaymajor.buzz
 questionyearcountry.biz
@@ -2769,6 +2782,7 @@ radixinvest.com
 radizsehaneres.tk
 radlajoviraca.tk
 radlavitaten.tk
+radlerfrau.com
 radliebeshop.de
 radmarkt-schaeler.de
 radndakks.gq
@@ -7325,6 +7339,7 @@ regularisation-ameli.fr
 regularisation-amende-antai.fr
 regularisation-amende.fr
 regularisation-amendes.fr
+regularisation-amiens.fr
 regularisation-antai.fr
 regularisation-antail.fr
 regularisation-banquefrance.fr
@@ -34203,6 +34218,7 @@ smartpointplane.xyz
 smartpointplay.xyz
 smartprizestar.xyz
 smartpulsamsterdam.nl
+smartregler.com
 smartrewardcenter.xyz
 smartrewardequator.xyz
 smartrewardglobal.xyz
@@ -35177,7 +35193,6 @@ snivuncomvitab.tk
 snizox.cyou
 snj5fi.xyz
 snjaii.tokyo
-snjdueu.shop
 snjhzazu.tokyo
 snjiaoyu.com
 snjmxws.rest
@@ -36398,6 +36413,7 @@ solentakilist.ml
 soleosolemios.com
 solepamataro.cf
 solern.top
+solgarag.com
 solgdv.rest
 solguespasbartarog.cf
 solhuvh.bar
@@ -38409,6 +38425,7 @@ spiilispezi.com
 spiinbara.fr
 spiinboss.fr
 spiingranny.fr
+spiinogambino.fr
 spikalezlabosi.gq
 spikanderane.ml
 spikanknescasbirth.ml
@@ -38482,6 +38499,7 @@ spin-mama-casino.fr
 spin-mama-casinoapp.fr
 spin-mama-casinoenligne.fr
 spin-mama-fr.fr
+spin-mama-france.fr
 spin-mama-login.fr
 spin-mamabet.fr
 spin-mamabonus-app.fr
@@ -38798,7 +38816,9 @@ spinmamagratuit.fr
 spinmamalogin.fr
 spinmamaofficial.fr
 spinmamaonline.fr
+spinmamas-fr.fr
 spinmamascasino.fr
+spinmamasfr.fr
 spinmania-casino.fr
 spinmaniacasino.fr
 spinmayacasino.fr
@@ -40670,6 +40690,7 @@ stake7casinodeposit.fr
 stake7casinologin.fr
 stake7online.fr
 stakebetvip.com
+stakebonus.fr
 stakeca.com
 stakecas1no.fr
 stakecasino-app.fr
@@ -40683,10 +40704,12 @@ stakecasinoinfo.fr
 stakecasinonl.fr
 stakecasinoo.fr
 stakecasinosocial.fr
+stakecode.fr
 stakecode.site
 staked-casino.fr
 staked.fr
 stakedcasino.fr
+stakederetour.fr
 stakefr.fr
 stakefrance.fr
 stakegratuit.fr
@@ -42995,7 +43018,6 @@ store.aktuellerezensionen.de
 store.app-valley.vip
 store.elmleigha.com
 store.kestrelby.com
-store.kingslora.com
 store.pavridora.com
 store.promomesh.com
 store.useum.org
@@ -49030,7 +49052,6 @@ t4rqb9s.cyou
 t4s0so.cyou
 t4sfac.tokyo
 t4szis.cyou
-t4trade.com
 t4ul10.shop
 t4xocmc.shop
 t4xss7.cyou
@@ -66048,6 +66069,7 @@ toyspacinamaf.tk
 toyspenchardogschond.ga
 toysrus-fr.fr
 toysrus-france.fr
+toysrusfr.fr
 toysrutumbrella.com
 toysstorojapan.shop
 toystars.pl
@@ -69783,7 +69805,6 @@ trustonamedia.com
 trustonlinepharmacy.com
 trustpharm.to
 trustpharm7pills.com
-trustpharmsonline.com
 trustpilot-fr.fr
 trustss.com
 trustup.online
@@ -77919,6 +77940,7 @@ updatestar.com
 updebatde.ml
 updesignm.tk
 updetigingpo.ml
+updez.com
 updgvmsi.cyou
 updhzf.tokyo
 updiastorinin.ga
@@ -92737,7 +92759,6 @@ vsfspx.rest
 vsftjm.tokyo
 vsftpp.tokyo
 vsftuot.tokyo
-vsgdew.shop
 vsgdly.tokyo
 vsgse.bar
 vsgwz.rest
@@ -93439,7 +93460,6 @@ vxigrjm.tokyo
 vxirtq.bar
 vxjctw.tokyo
 vxjifx.bar
-vxjskiy.shop
 vxjzgr.tokyo
 vxk03ti.cyou
 vxk2kse.cyou
@@ -108587,7 +108607,6 @@ xjxy60.cyou
 xjxyxh.cyou
 xjy41fr.tokyo
 xjyaxing.ru
-xjyehli.shop
 xjyirmn.bar
 xjyjiy.rest
 xjyjzq.com
@@ -110718,6 +110737,7 @@ xsbooa.tokyo
 xsbrqnl.tokyo
 xscnqv.bar
 xscwnt.cyou
+xsdcmnet.com
 xse0bm.cyou
 xsec1e.cyou
 xseqdp.shop
@@ -116713,6 +116733,7 @@ yonye5n.cyou
 yonzdy.rest
 yoo4c3.cyou
 yoocaa.com
+yoohal.com
 yoohoo.cards
 yoohoo.cards
 yoolle.com
