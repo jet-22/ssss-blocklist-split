@@ -2,6 +2,22 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
+questionseyeplaces.biz
+questionsflyway.bar
+questionsformwe.biz
+questionshomespace.rest
+questionsincrease.bar
+questionsoccurs.biz
+questionsohroom.buzz
+questionsorderorganization.de
+questionsoundquestions.bar
+questionspecific.bar
+questionsperformance.biz
+questionsproblem.biz
+questionsprofessor.buzz
+questionsroomcompanys.buzz
+questionsroomcountry.bar
+questionsserious.biz
 questionsstateroom.biz
 questionsstores.biz
 questionstoryfamilys.biz
@@ -16185,6 +16201,7 @@ roufenliagecahigh.gq
 rougbaycore.cf
 rougecasino.fr
 rougegorge-paris.fr
+rougeriefinance.com
 roughbestnliminan.tk
 roughconhullhyd.tk
 roughfagawnumilni.tk
@@ -53302,6 +53319,7 @@ tecnicoencarroceriae.gq
 tecningpabela.cf
 tecnoairsystemshop.it
 tecnobits.com
+tecnoloblog.com
 tecnologiainpsicologiaclinica.it
 tecnologiatualcance.xyz
 tecnone.com
@@ -57498,6 +57516,7 @@ thectshirts.com
 thecunreamechil.tk
 thecut.fr
 thecwoconsgeret.tk
+thecybersecguru.com
 thedailygrindco.com
 thedailyritualscompany.shop
 thedailytelegraphnewstoday.com
@@ -57687,6 +57706,7 @@ theincestflix.com
 theindependentnewstoday.com
 theinflact.com
 theinfluencersgonewild.co.uk
+theinfobits.com
 theinsaneapp.com
 theinsaneapp.com
 theinscribermag.com
@@ -57751,6 +57771,7 @@ thelabeel.com
 thelakewoodscoop.co.uk
 thelalgia.best
 thelanporttare.gq
+thelasttech.com
 thelatinway.es
 thelawdictionary.org
 theleadgensite.com
@@ -66378,6 +66399,7 @@ tqyayr.tokyo
 tqz6zw.cyou
 tqzcb2.rest
 tqzvxl.tokyo
+tr-brokers.com
 tr-handschuho.shop
 tr000i.cyou
 tr06qo.cyou
@@ -77039,6 +77061,7 @@ unlumfedi.cf
 unlun.ru
 unlutliaferogvi.ml
 unluvarrea.tk
+unlv-lyon2.fr
 unlying.site
 unma2k.cyou
 unmacfirad.ga
@@ -109691,6 +109714,7 @@ xn--rservation-g7taxi-btb.fr
 xn--rsiliation-esim-sfr-bzb.fr
 xn--rsiliation-prlvement-b2bmb.fr
 xn--rsultat-dpistage-bqbi.fr
+xn--s-mo-5oaa.re
 xn--s-mo-lpaa.re
 xn--sant-ameli-e7a.fr
 xn--sant-amli-e4ad.fr
