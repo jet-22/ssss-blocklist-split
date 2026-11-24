@@ -2,37 +2,6 @@
 # Title: Super SEO Spam Suppressor
 # Description: A domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage.
 # Homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
-reappmerlecufunc.ml
-reappmibolhamusc.ml
-reappmochewebs.tk
-reappmolidunnali.tk
-reappportconstiberg.ga
-reapsudamarlmawag.tk
-rearagepan.tk
-rearcerophomi.ga
-reardunstarelou.cf
-rearechpaberid.ga
-reariraterc.tk
-rearislimphowel.tk
-rearisurotiru.ml
-rearosdobacktass.tk
-rearritecocont.gq
-rearronanfoodsczerin.ga
-rearthrestnapgoli.ml
-rearththicalem.tk
-rearthtigiterdia.cf
-rearthtistxyma.tk
-rearucapfile.tk
-rearucmu.ga
-rearugambnoho.cf
-rearward.site
-reascountzwicficpy.cf
-reasdt.tokyo
-reasheadsdablieparect.tk
-reaskiroktenews.tk
-reasmipennmely.cf
-reasnd.cyou
-reasochijalu.tk
 reasonablelos.com
 reasonavoidstory.buzz
 reasonbusinesstime.buzz
@@ -10322,6 +10291,7 @@ rovijetuzugu.ga
 rovilrayconti.cf
 rovincumi.gq
 rovinjadvisor.it
+roviqohq.online
 rovirofladin.ml
 rovobopuni.ml
 rovojohnca.tk
@@ -14514,8 +14484,6 @@ salesrentalsservice.com
 salestore-vip.shop
 salesupocord.cf
 salesupply.news
-saleswset.click
-saletidemk.click
 saletipentua.ml
 saletlilecen.cf
 saleup-backend.xyz
@@ -14781,7 +14749,6 @@ samkg.xyz
 samkomecaban.ml
 samkowalsky.xyz
 sammer.gq
-sammlerliebe.com
 sammlerloft.shop
 samneisamoc.tk
 samofotografie.de
@@ -28114,7 +28081,6 @@ smokecsypolsaltstoc.cf
 smokeferelsau.tk
 smokeffrasinstel.tk
 smokefree.xyz
-smokelabin.com
 smokerceldieapa.tk
 smokerland.net
 smokescreen.xyz
@@ -32023,6 +31989,7 @@ spinanga-france.fr
 spinanga-no-online.com
 spinanga-vip.fr
 spinanga1.fr
+spinanga7.fr
 spinangacasinoapp.fr
 spinangacasinoavis.fr
 spinangacasinobonus.fr
@@ -32174,6 +32141,7 @@ spinerterroenetwachs.tk
 spinfesnuyferde.gq
 spinfest-fr.fr
 spinfest1.fr
+spinfest7.fr
 spinfests.fr
 spinfevercasino.fr
 spinfiin.fr
@@ -38816,7 +38784,6 @@ suncvm.rest
 sund-ferie.dk
 sund-hund.dk
 sundaceplamiwor.ml
-sundanceliving-us.com
 sundayismondayhome.pl
 sundaynaturalshop.de
 sundayredfrance.fr
@@ -39551,6 +39518,7 @@ supportauth-ameli.fr
 supportauth-netflix.fr
 supportbd.fr
 supportbinance.fr
+supportblockchain.fr
 supportbooking.fr
 supportboursoramamisejour.fr
 supportcartevital.fr
@@ -41424,6 +41392,7 @@ syntbopdasubsbo.tk
 syntempcahymig.cf
 syntha.ai
 synthads.com
+synthalora-ai.fr
 synthesia.io
 synthesia.io
 synthesys.io
@@ -46359,6 +46328,7 @@ technologysleader.bar
 technologysolutions.buzz
 technolynx.com
 technolynx.com
+technopers.com
 technosol.xyz
 technoteshelp.com
 technotraps.com
@@ -50342,7 +50312,6 @@ the-newbalance.fr
 the-north-face.fr
 the-northface-outlet.fr
 the-northface.com.co
-the-northface.de
 the-northface.fr
 the-northfaceoutlet.fr
 the-outletugg.fr
@@ -50734,7 +50703,6 @@ thehackneyshop.com
 thehaljasighcon.gq
 thehandcompany.eu
 thehandembodied.eu
-thehandtoolauto.com
 theharbourplace.com
 theharityhild.buzz
 thehdhub4u.com
@@ -52057,7 +52025,6 @@ thorntonanddavies.eu
 thorntopgmasgia.ga
 thornworksethro.ml
 thornzhengwicbufi.ml
-thorogoodeutschland.de
 thoroughlybrain.com
 thorredowthiota.ml
 thorsoefoto.dk
@@ -59691,7 +59658,6 @@ tradenamag.ga
 tradeneupro100.com
 tradenricfuncnirint.tk
 tradense.xyz
-tradeogre.fr
 tradeopol.com
 tradepigrifucbo.gq
 tradequicker.com
@@ -61980,6 +61946,7 @@ trocindisemb.gq
 trockenbau-trebsen.de
 trockenes-brennholz.com
 trockenesholz.de
+trockenholz.com
 trocmossbancfnot.cf
 trocmusumatu.ga
 trocnesttersiti.tk
@@ -71206,6 +71173,7 @@ urb9pl.tokyo
 urbact.fr
 urbalmititfidi.cf
 urban-casino.fr
+urban-outlet.fr
 urban-rituals.shop
 urban-shaman.dk
 urbanart.xyz
@@ -74187,7 +74155,6 @@ vanspacher.fr
 vansperloupehu.tk
 vansphurenisqui.tk
 vanspot.fr
-vanss.de
 vanss.fr
 vanssfrance.fr
 vansshoesfrance.fr
@@ -74248,7 +74215,6 @@ vapllt.tokyo
 vapoldownburga.tk
 vapopito.tk
 vapor-france.fr
-vaporcurrent.com
 vapormaxflyknit.fr
 vapsucj.tokyo
 vapusandblispar.tk
@@ -76286,6 +76252,7 @@ vegaspluscasino-fr.fr
 vegaspluscasino1.fr
 vegaspluscasinofr.fr
 vegaspluscasinoo.fr
+vegaspluscasinos.fr
 vegasplusfr.fr
 vegasrush.fr
 vegasslot-casino.fr
@@ -76494,7 +76461,6 @@ velohoolohill.ga
 velokaif.ru
 velolobby.eu
 velomandryvo.xyz
-velonawarehouse.com
 velora-officiel.fr
 veloracasino.fr
 velorawellnessshop.com
@@ -85389,6 +85355,7 @@ vtlmhl.tokyo
 vtlpos.bar
 vtlqml.tokyo
 vtlyuj.bar
+vtmarkets-fr.com
 vtmfr.com
 vtmqle.tokyo
 vtmvubp.tokyo
@@ -89584,7 +89551,6 @@ webholland.buzz
 webhop.me
 webhostdesignpage.com
 webhostingdeal.xyz
-webhubtest.net
 webik.ee
 webincomeplus.com
 webinog.tokyo
@@ -90339,7 +90305,6 @@ welivnarorerea.tk
 weljustgrancamquicont.tk
 well-being-olive-interact.nl
 well-blech.info
-wellacooler.com
 welladadedif.gq
 wellbacktendfritebta.tk
 wellbantempprocabpic.tk
@@ -90960,7 +90925,6 @@ wfjwm8.cyou
 wfjwqg.bar
 wfjzmg.tokyo
 wfjzz9.cyou
-wfk-klimatechnik.com
 wfkhjem.bar
 wfkjsb.cyou
 wfknyjn.bar
@@ -93422,6 +93386,7 @@ winscalpogapus.tk
 winscojeenasubs.gq
 winscroll.ee
 winsdns.biz
+winseterra.com
 winsetupfromusb.org
 winshark-casino.fr
 winsharkcasino.fr
@@ -93481,7 +93446,6 @@ winterfallkits.de
 winterflashsale.club
 winterholt.com
 winterier.com
-winterjacken-saleshop.com
 winterkraft.de
 wintertriathlon2016.eu
 wintethajatertau.gq
@@ -95427,6 +95391,7 @@ workhighmannews.xyz
 workhilrafite.ga
 workhinsusuck.tk
 workholporttabbare.cf
+workhomeoffice.de
 workhomepro.org
 workhunlolanlouisalt.tk
 workik.com
@@ -105344,7 +105309,6 @@ yachoi.xyz
 yachoo.eu
 yacht-house.pl
 yachtatdock.com
-yachtausstattung.com
 yachtcharter-grosser.de
 yachtingmagazine.fr
 yachtpilot.ca
@@ -117615,7 +117579,6 @@ zurtorswinnfoti.ga
 zusaltchelsramno.tk
 zusammenmitthule.de
 zusecorili.tk
-zusellmk.click
 zusgicina.ml
 zusiwj.tokyo
 zusrilognoleking.ml
